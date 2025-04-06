@@ -1,0 +1,3029 @@
+Brand,Model,Year,Mileage,Fuel Type,Engine Size,Price,IsAutomatic
+Honda,CR-V,2012,169000,Petrol,1997,55800.0,0
+Volvo,XC 60,2022,100000,Diesel,1969,161800.0,1
+Ford,Focus,2025,1,Hybrid,999,102500.0,1
+BMW,Seria 1,2017,119751,Petrol,1499,62900.0,1
+BMW,Seria 1,2017,85285,Petrol,1499,60800.0,1
+Opel,Mokka,2015,82700,Petrol,1364,49900.0,1
+Peugeot,5008,2019,80810,Petrol,1199,79900.0,1
+BMW,Seria 3,2017,175840,Diesel,1995,49600.0,1
+Audi,A5,2024,6166,Petrol,1984,199000.0,1
+Opel,Astra,2014,189260,Petrol,1364,31000.0,0
+Fiat,Bravo,2010,173000,Petrol,1368,18900.0,0
+Toyota,Proace Verso,2025,5,Diesel,1997,255000.0,1
+Mercedes-Benz,Klasa E,2017,73000,Diesel,1950,119000.0,1
+Audi,Q5,2024,1,Hybrid,1968,239343.0,1
+Skoda,Kamiq,2025,5,Petrol,1498,132800.0,1
+Seat,Ateca,2024,3200,Petrol,999,93900.0,0
+Kia,Optima,2014,242400,Diesel,1685,38900.0,0
+Renault,Kangoo,2017,194000,Diesel,1461,25500.0,0
+Nissan,Qashqai,2011,235,Petrol,1997,28500.0,0
+Volkswagen,Passat,2025,1,Hybrid Plug-in,1498,189700.0,1
+Peugeot,2008,2024,80,Petrol,1199,114900.0,1
+MINI,Countryman,2022,25000,Petrol,1499,99900.0,1
+Skoda,Kodiaq,2021,130793,Diesel,1968,149800.0,1
+BMW,Seria 2,2022,94000,Petrol,1499,105990.0,1
+Hyundai,Tucson,2021,173761,Hybrid,1598,95899.99,1
+Cupra,Formentor,2025,1,Hybrid,1498,168500.0,1
+Mazda,CX-3,2016,111860,Petrol,1998,65500.0,1
+Audi,A7,2020,78000,Hybrid Plug-in,1984,184500.0,1
+Skoda,Karoq,2025,5,Petrol,1498,165990.0,1
+Kia,Sportage,2012,162000,Petrol,1591,42900.0,0
+Opel,Combo,2024,1,Diesel,1499,101965.77,0
+Jeep,Compass,2024,1,Hybrid,1469,149000.0,1
+Audi,A3,2019,80000,Petrol,1498,89900.0,1
+Volkswagen,Golf Plus,2005,178000,Petrol,1598,13900.0,0
+Alfa Romeo,Giulia,2024,1,Petrol,1995,209000.0,1
+Volkswagen,Touran,2025,1,Petrol,1498,187530.0,1
+Hyundai,Tucson,2022,42500,Petrol,1591,132900.0,1
+Ford,S-Max,2019,150000,Diesel,1997,80000.0,1
+Audi,A5,2012,193500,Petrol,1798,50150.0,0
+Audi,A5,2016,106000,Petrol,1798,75900.0,1
+Opel,Astra,2019,98000,Petrol,1399,53900.0,0
+Skoda,Superb,2016,191000,Diesel,1968,71000.0,1
+Audi,A6,2010,243000,Petrol,1984,24999.0,1
+Hyundai,ix35,2010,230000,Petrol,1591,33900.0,0
+Mercedes-Benz,GLC,2021,107000,Hybrid Plug-in,1991,218000.0,1
+Hyundai,Elantra,2018,95000,Petrol,1998,55500.0,1
+Mercedes-Benz,Klasa E,2012,226773,Diesel,2143,46500.0,0
+Audi,Q3,2022,34693,Petrol,1984,76400.0,1
+Suzuki,Vitara,2022,17433,Hybrid,1373,75900.0,0
+Hyundai,Tucson,2024,1,Hybrid,1598,175300.0,1
+Audi,A6,2023,24473,Petrol,1984,229600.0,1
+Nissan,Qashqai,2024,14563,Hybrid,1332,115000.0,0
+Mercedes-Benz,Klasa V,2022,79999,Diesel,1950,225500.0,1
+Fiat,500X,2015,129000,Petrol,1368,46900.0,0
+Volvo,V90,2025,10,Hybrid Plug-in,1969,284900.0,1
+Skoda,Octavia,2017,75000,Petrol,1395,65500.0,0
+Ford,Mondeo,2020,255500,Diesel,1997,47900.0,0
+Mercedes-Benz,CLA,2024,18220,Hybrid Plug-in,1332,224900.0,1
+Skoda,Octavia,2021,114000,Diesel,1968,61500.0,0
+Volvo,XC 60,2020,27983,Petrol,1969,189900.0,1
+Nissan,Qashqai,2022,18100,Hybrid,1497,122222.0,1
+Skoda,Scala,2024,4459,Petrol,1498,119990.0,0
+Mercedes-Benz,GLC,2018,144000,Petrol,1991,147700.0,1
+MG,HS,2024,5000,Petrol,1496,114900.0,0
+Kia,Sportage,2024,10,Petrol,1598,136500.0,1
+Peugeot,3008,2013,220000,Diesel,1560,23900.0,1
+Ford,Kuga,2017,157300,Diesel,1995,66900.0,0
+Skoda,Octavia,2020,98000,Petrol,1498,81900.0,0
+Volkswagen,Passat,2020,160787,Diesel,1968,84900.0,1
+Chevrolet,Captiva,2007,136556,Diesel,1991,22900.0,0
+Toyota,Corolla,2019,142147,Hybrid,1798,89900.0,1
+Volkswagen,Arteon,2018,179600,Diesel,1968,75000.0,1
+Renault,Arkana,2024,50,Hybrid,1332,132900.0,1
+Renault,Espace,2015,149000,Diesel,1598,56900.0,1
+Skoda,Karoq,2021,122316,Diesel,1968,104800.0,1
+Renault,Kadjar,2019,131000,Petrol,1332,65500.0,1
+Kia,Sportage,2016,204000,Petrol,1591,64720.0,0
+Peugeot,308,2011,154888,Petrol,1598,21900.0,0
+BMW,Seria 1,2024,5000,Petrol,1499,193300.0,1
+Volkswagen,Tayron,2025,5,Petrol,1998,219500.0,1
+Volkswagen,Golf,2021,76418,Petrol,1498,71500.0,0
+Audi,A6,2017,247800,Diesel,1968,57900.0,1
+Toyota,Corolla,2021,120028,Hybrid,1798,77290.0,1
+Ford,EcoSport,2018,87000,Petrol,998,49900.0,1
+Volkswagen,Tiguan,2017,105000,Diesel,1968,105500.0,1
+Peugeot,3008,2019,130000,Diesel,1499,63900.0,0
+BMW,Seria 3,2022,79559,Hybrid Plug-in,1998,149900.0,1
+Hyundai,i40,2013,190000,Diesel,1700,31900.0,0
+Kia,Ceed,2023,52610,Petrol,1482,94200.0,0
+Citroën,C3,2024,3,Petrol,1199,64999.0,0
+Hyundai,Kona,2024,10,Hybrid,1580,149200.0,1
+Skoda,Fabia,2019,121000,Petrol,999,36900.0,0
+Jeep,Avenger,2024,1,Hybrid,1199,118900.0,1
+Skoda,Fabia,2021,64818,Petrol,999,48899.0,0
+Seat,Leon,2016,122100,Petrol,1395,45900.0,0
+Mercedes-Benz,Klasa E,2011,198200,Petrol,1796,38900.0,0
+Skoda,Octavia,2016,209000,Diesel,1598,39900.0,0
+Hyundai,Tucson,2018,81735,Petrol,1591,69900.0,0
+Peugeot,3008,2016,63900,Diesel,1997,70000.0,0
+Honda,HR-V,2022,18259,Hybrid,1498,102900.0,1
+BMW,X1,2016,189000,Diesel,1995,76800.0,1
+Seat,Altea XL,2009,140556,Petrol,1390,18900.0,0
+Opel,Mokka,2018,86000,Petrol,1364,56000.0,0
+Renault,Arkana,2024,10,Hybrid,1600,126900.0,1
+Mazda,CX-5,2014,168200,Diesel,2191,44900.0,0
+Volkswagen,Arteon,2018,175019,Petrol,1984,115000.0,1
+Volkswagen,Passat,2020,188948,Diesel,1968,97800.0,1
+Land Rover,Range Rover Velar,2020,109896,Petrol,1997,189999.0,1
+Kia,Ceed,2023,34500,Petrol,1482,94700.0,1
+Ford,Kuga,2023,35786,Diesel,1995,121900.0,1
+Mercedes-Benz,Klasa E,2020,21502,Hybrid Plug-in,1991,145900.0,1
+Mercedes-Benz,GLC,2024,7,Hybrid,1999,306900.01,1
+Kia,Ceed,2021,43200,Petrol,1482,77900.0,1
+Skoda,Octavia,2011,150000,Petrol,1390,21900.0,0
+Audi,A5,2024,8121,Petrol,1984,219900.0,1
+BMW,Seria 3,2008,209000,Diesel,1995,18990.0,0
+Mazda,3,2020,56500,Petrol,1998,88700.0,0
+Hyundai,i10,2025,9,Petrol,998,68400.0,0
+Mercedes-Benz,GLC,2020,63000,Petrol,1991,129900.0,1
+Skoda,Fabia,2025,5,Petrol,1498,116200.0,1
+Toyota,RAV4,2025,1,Hybrid,2487,212000.0,1
+Skoda,Octavia,2010,232920,Diesel,1968,29900.0,0
+Volvo,V50,2009,201364,Diesel,1560,16500.0,0
+Mazda,3,2024,3,Petrol,1998,142700.0,1
+Volvo,XC 60,2021,130000,Diesel,1969,144800.0,1
+Audi,Q5,2024,3000,Petrol,1984,229800.0,1
+Subaru,Outback,2013,210000,Diesel,1998,34000.0,1
+Ford,Kuga,2020,93500,Petrol,1999,74900.0,1
+Volkswagen,Passat,2020,182432,Petrol,1984,73000.0,1
+Hyundai,i30,2017,105000,Petrol,1396,44700.0,0
+Toyota,Yaris,2012,180200,Petrol,998,18300.0,0
+Skoda,Kamiq,2025,4,Petrol,999,114990.0,1
+Ford,Focus,2019,115000,Petrol,999,49800.0,0
+Opel,Astra,2011,258202,Petrol,1364,23900.0,0
+BMW,Seria 5,2024,21966,Diesel,1995,299900.0,1
+Honda,CR-V,2014,191000,Petrol,1997,61000.0,0
+Audi,Q3,2021,49820,Petrol,1498,139900.0,1
+Mercedes-Benz,Klasa A,2015,115623,Petrol,1595,54900.0,1
+Peugeot,3008,2022,63964,Petrol,1199,80900.0,1
+Opel,Insignia,2021,131500,Diesel,1598,65500.0,1
+Audi,A3,2019,185000,Petrol,999,48900.0,0
+Mercedes-Benz,Klasa A,2018,59600,Diesel,1461,98900.0,1
+Skoda,Octavia,2019,189000,Petrol,999,33200.0,0
+Volvo,XC 60,2015,250670,Diesel,1984,61000.0,0
+Skoda,Octavia,2017,187000,Diesel,1968,57500.0,1
+Ford,Kuga,2019,64438,Petrol,1498,86900.0,0
+Skoda,RAPID,2015,172000,Petrol,1197,33000.0,0
+Mercedes-Benz,GLC,2025,1,Petrol,1999,275400.0,1
+BMW,X1,2014,148530,Diesel,1995,47900.0,0
+Toyota,Corolla Cross,2023,3095,Petrol+LPG,1987,59563.0,1
+Audi,A4,2021,135420,Diesel,1968,89000.0,1
+Ford,Kuga,2019,87825,Petrol,1498,79900.0,0
+Volkswagen,Tiguan,2020,87568,Petrol,1498,96900.0,1
+Cupra,Formentor,2025,5,Petrol,1498,176700.0,1
+Jeep,Compass,2019,108000,Petrol,1368,61000.0,1
+Toyota,C-HR,2021,104041,Hybrid,1987,95899.0,1
+Audi,S3,2025,5,Petrol,1984,208937.0,1
+Audi,A5,2017,72000,Petrol,1984,73000.0,1
+BMW,Seria 5,2019,190500,Diesel,1995,123900.0,1
+Opel,Mokka,2016,160000,Petrol,1364,47900.0,0
+Mazda,3,2018,139000,Petrol,1998,63000.0,1
+Kia,Ceed,2024,10,Petrol,1482,115300.0,0
+SsangYong/KGM,Torres,2024,5,Petrol,1497,136300.0,1
+BMW,X1,2024,14800,Petrol,1499,174900.0,1
+Nissan,Qashqai,2024,5,Petrol,1332,151600.0,1
+BMW,Seria 3,2009,279019,Diesel,1995,16000.0,0
+Mercedes-Benz,CLE,2025,5,Petrol,1999,253235.0,1
+Opel,Zafira,2013,187000,Petrol,1364,28900.0,0
+Abarth,500,2019,11000,Petrol,1368,79900.0,1
+Hyundai,Tucson,2024,1,Hybrid,1598,180500.0,1
+Lexus,NX,2021,70179,Hybrid,2487,199900.0,1
+Kia,XCeed,2023,12000,Hybrid Plug-in,1580,135500.0,1
+Ford,Focus,2020,41957,Petrol,999,69900.0,0
+Peugeot,3008,2011,197000,Petrol,1598,17900.0,0
+Mercedes-Benz,CLA,2025,1,Petrol,1991,339000.0,1
+Peugeot,308,2025,3,Diesel,1499,140950.0,1
+Peugeot,3008,2020,115000,Diesel,1499,77800.0,0
+Toyota,Auris,2014,165900,Petrol,1598,47999.0,1
+Audi,A5,2024,1,Petrol,1984,215600.0,1
+Kia,Soul,2015,87000,Diesel,1582,42900.0,0
+Ford,Edge,2020,133814,Diesel,1997,123900.0,1
+Kia,Sorento,2017,96870,Diesel,1995,105622.0,1
+Mercedes-Benz,CLA,2024,1,Petrol,1991,216325.0,1
+Volkswagen,Golf,2025,5,Petrol,1498,168600.0,1
+Toyota,Aygo X,2024,14637,Petrol,998,59900.0,0
+Opel,Astra,2019,145000,Petrol,1399,41900.0,0
+Volkswagen,Golf,2025,5,Petrol,1498,121900.0,0
+Volkswagen,T-Roc,2024,1,Petrol,1984,176800.0,1
+Citroën,C5 Aircross,2020,87000,Diesel,1499,65900.0,1
+Honda,Civic,2012,137000,Petrol,1798,35900.0,0
+Toyota,Corolla,2021,93919,Hybrid,1798,88900.0,1
+Volvo,XC 40,2018,199000,Diesel,1969,91900.0,1
+Volkswagen,Sharan,2013,128000,Petrol,1984,62222.0,1
+Volvo,XC 60,2023,25166,Petrol,1969,244900.0,1
+Seat,Altea XL,2009,219800,Diesel,1896,18800.0,0
+Jeep,Compass,2024,1,Hybrid,1469,134850.0,1
+Toyota,Corolla,2025,1,Hybrid,1798,123000.0,1
+Opel,Mokka,2016,189900,Diesel,1686,34900.0,0
+Skoda,Octavia,2017,131650,Petrol,1395,53900.0,0
+Mercedes-Benz,Klasa E,2022,98525,Hybrid,1992,196936.22,1
+Opel,Crossland X,2018,131891,Petrol,1199,45000.0,0
+BMW,Seria 4,2023,19245,Petrol,1998,248000.0,1
+Jeep,Wrangler,2024,1,Petrol,1995,285900.0,1
+Citroën,C5 Aircross,2019,68000,Diesel,1997,89800.0,1
+Hyundai,ix35,2013,150000,Petrol,1591,39900.0,0
+Volkswagen,Passat,2020,149800,Diesel,1968,89800.0,1
+SsangYong/KGM,Musso,2024,2,Diesel,2157,173900.0,1
+Mercedes-Benz,Klasa B,2013,179631,Diesel,1796,23999.0,0
+Ford,C-MAX,2016,87000,Diesel,1498,44800.0,0
+Kia,Stonic,2021,66847,Petrol,998,69900.0,1
+Volvo,XC 60,2021,30000,Petrol,1969,164900.0,1
+Opel,Corsa,2008,163892,Petrol,1229,18900.0,0
+Volvo,V90,2020,141734,Hybrid,1969,154899.0,1
+Volkswagen,Passat,2024,24440,Petrol,1498,124900.01,1
+Volvo,V90,2017,167000,Diesel,1969,89900.0,1
+Citroën,C1,2013,115000,Petrol,998,15999.0,0
+BMW,Seria 5,2016,68800,Diesel,1995,53000.0,1
+Volkswagen,Tiguan,2025,5,Diesel,1968,211800.0,1
+Volvo,XC 60,2020,74360,Diesel,1969,154900.0,1
+Renault,Grand Scenic,2011,158589,Petrol,1397,10500.0,0
+Baic,Beijing 3,2024,1,Petrol,1499,70900.0,0
+Volvo,XC 90,2023,43000,Diesel,1969,264696.0,1
+Hyundai,i30,2024,24000,Petrol,998,73800.0,0
+Fiat,Tipo,2016,122365,Petrol+LPG,1368,35900.0,0
+Toyota,Auris,2015,87851,Hybrid,1798,56900.0,1
+Citroën,C3 Aircross,2019,105000,Petrol,1199,48800.0,0
+Audi,A4,2024,22000,Diesel,1968,239043.0,1
+BMW,Seria 4,2015,176629,Petrol,1997,79899.0,1
+Volkswagen,Caravelle,2023,15,Diesel,1968,248337.0,0
+Opel,Insignia,2010,200000,Petrol,1796,23999.0,0
+Peugeot,2008,2020,98000,Diesel,1499,69900.0,1
+BMW,Seria 3,2019,102643,Petrol,1998,102582.0,1
+Skoda,Kodiaq,2020,129697,Diesel,1968,137900.0,1
+Skoda,Fabia,2019,100540,Petrol,999,37900.0,0
+Mercedes-Benz,Klasa A,2015,166000,Petrol,1595,56000.0,1
+Renault,Grand Scenic,2018,175000,Diesel,1461,49800.0,0
+Porsche,Macan,2023,7080,Petrol,1984,329000.0,1
+Kia,Ceed,2023,31500,Petrol,1482,94700.0,1
+Mercedes-Benz,Klasa E,2024,1,Diesel,1993,308900.0,1
+Skoda,Octavia,2018,173500,Petrol,1395,51900.0,0
+Kia,Ceed,2023,34286,Petrol,1482,84900.0,1
+Mazda,6,2019,150817,Petrol,1998,85900.0,0
+Kia,Sportage,2019,63000,Petrol,1591,88000.0,1
+Mercedes-Benz,Klasa E,2022,65549,Diesel,1993,157900.0,1
+Hyundai,i30,2017,171000,Diesel,1582,43900.0,0
+Toyota,RAV4,2021,156043,Hybrid,2487,135800.0,1
+Audi,Q3,2016,151000,Diesel,1968,72000.0,0
+Toyota,Corolla,2024,1,Hybrid,1798,133700.0,1
+Volkswagen,T-Roc,2025,1,Petrol,1498,120100.0,1
+Citroën,C5,2012,138000,Petrol,1598,16900.0,1
+Toyota,Corolla,2020,96757,Petrol,1598,64899.0,0
+Skoda,Kamiq,2025,5,Petrol,1498,132800.0,1
+BMW,X1,2023,20846,Petrol,1998,189000.0,1
+Volkswagen,Arteon,2019,179000,Diesel,1968,94999.05,1
+Mitsubishi,ASX,2014,150640,Diesel,1798,45900.0,0
+Hyundai,Tucson,2017,140000,Petrol,1591,66900.0,1
+Volkswagen,Tayron,2025,5,Petrol,1984,219500.0,1
+Skoda,Octavia,2023,32000,Diesel,1968,109900.0,1
+Audi,A6,2024,1,Diesel,1968,276566.0,1
+Toyota,Avensis,2011,209000,Petrol,1598,25900.0,0
+Mercedes-Benz,GLC,2025,5,Petrol,1999,281115.0,1
+Toyota,Corolla,2019,187700,Hybrid,1986,76900.0,1
+Kia,Stonic,2024,1,Petrol,1197,82700.0,0
+Dacia,Bigster,2025,5,Hybrid,1199,130000.0,0
+Kia,Optima,2017,156000,Diesel,1685,56500.0,1
+Volkswagen,Passat,2025,5,Hybrid,1498,178900.0,1
+Mercedes-Benz,Klasa V,2022,52000,Diesel,1950,280000.0,1
+Volvo,V40,2015,285000,Diesel,1560,32900.0,0
+MG,ZS,2024,1,Petrol,1498,84027.0,0
+BMW,Seria 5,2021,50000,Diesel,1995,190400.0,1
+Ford,Ranger,2015,248000,Diesel,2198,49900.0,0
+BMW,X4,2025,1,Diesel,1995,265400.0,1
+Baic,Beijing 5,2024,5,Petrol,1499,125400.0,1
+Mercedes-Benz,Klasa E,2019,136600,Hybrid Plug-in,1950,129900.3,1
+Volkswagen,Tiguan,2025,1,Hybrid,1498,173560.0,1
+Ford,Kuga,2023,29553,Diesel,1995,119900.0,1
+Toyota,Proace City Verso,2020,105000,Diesel,1499,104000.0,0
+Toyota,Corolla,2016,154000,Petrol,1598,47500.0,0
+Mercedes-Benz,Klasa V,2021,68000,Diesel,1950,292000.0,1
+Dacia,Sandero Stepway,2012,136000,Petrol+LPG,1598,22500.0,0
+Toyota,Camry,2023,20661,Hybrid,2487,183700.0,1
+Mazda,CX-30,2019,93560,Petrol,1998,72900.0,0
+Opel,Corsa,2019,47173,Petrol,1398,39900.0,0
+Mercedes-Benz,CLA,2015,207000,Diesel,2143,62000.0,1
+Mazda,3,2023,22400,Petrol,1998,126900.0,1
+Dacia,Sandero,2009,188200,Petrol,1390,7200.0,0
+Kia,Sportage,2018,86500,Petrol,1591,71900.0,0
+Kia,Sorento,2024,10,Diesel,2151,272200.0,1
+Cupra,Leon,2024,3355,Petrol,1498,165500.0,1
+Skoda,Scala,2022,83962,Petrol,1498,73900.0,0
+Volkswagen,CC,2012,235000,Petrol+LPG,1984,46500.0,1
+Ford,C-MAX,2016,97000,Petrol,1498,45900.0,1
+Volkswagen,Taigo,2025,6,Petrol,999,99500.0,1
+Volkswagen,Tiguan,2025,5,Petrol,1984,201900.0,1
+Kia,Ceed,2016,87450,Petrol,1591,46500.0,0
+Peugeot,Rifter,2021,83200,Diesel,1499,46900.0,0
+Volkswagen,Passat,2019,172499,Diesel,1968,59799.0,0
+Skoda,Octavia,2024,1,Petrol,1984,202600.0,1
+Volkswagen,Tiguan,2025,5,Diesel,1968,212500.0,1
+Toyota,Corolla,2021,79311,Hybrid,1798,79500.0,1
+Kia,Carens,2006,175612,Petrol+LPG,1975,4000.0,1
+Hyundai,Elantra,2019,155006,Petrol,1591,53900.0,1
+Renault,Kadjar,2018,100000,Petrol,1618,69800.0,0
+Mercedes-Benz,GLC,2025,1,Petrol,1991,264939.0,1
+Volkswagen,Passat,2025,9,Diesel,1968,186000.0,1
+Peugeot,3008,2017,212000,Petrol,1199,52900.0,0
+Kia,Venga,2017,41077,Petrol+LPG,1396,40900.0,0
+Audi,A3,2020,157000,Diesel,1968,75000.0,0
+Hyundai,i30 N,2019,93099,Petrol,1998,47900.0,0
+Toyota,Corolla,2022,26000,Petrol,1490,69126.0,0
+Hyundai,Tucson,2025,5,Hybrid,1598,195660.0,1
+Hyundai,Kona,2024,1,Petrol,1598,130045.0,1
+Cupra,Ateca,2024,5000,Petrol,1984,154000.0,1
+Mercedes-Benz,Klasa C,2023,12300,Petrol,1497,189900.0,1
+Opel,Astra,2019,180000,Diesel,1598,34317.0,0
+Mercedes-Benz,GLE,2019,138000,Diesel,1950,187900.0,1
+Ford,Transit Custom,2025,1,Diesel,1996,174658.77,0
+Hyundai,Santa Fe,2016,214983,Diesel,2199,65900.0,1
+Toyota,Corolla,2021,120028,Hybrid,1798,77290.0,1
+Citroën,C5 Aircross,2019,141000,Petrol,1199,57400.0,0
+Citroën,Berlingo,2022,187000,Diesel,1499,52500.0,0
+Renault,Talisman,2016,134446,Petrol,1618,56400.0,1
+Volkswagen,Taigo,2025,5,Petrol,999,104900.0,1
+Toyota,Yaris,2018,140000,Petrol,1496,36900.0,0
+Honda,Civic,2015,106724,Petrol,1798,51900.0,0
+Kia,Stonic,2024,10,Petrol,1197,79900.0,0
+Ford,EcoSport,2017,88000,Petrol,1498,49900.0,1
+Alfa Romeo,Giulietta,2013,90000,Petrol,1742,41900.0,0
+Citroën,C3,2010,115000,Petrol,1360,18900.0,0
+Volvo,V60,2020,59999,Hybrid,1969,99899.37,1
+Toyota,Proace Verso,2025,1,Diesel,1997,206146.77,1
+Citroën,C3,2024,27425,Petrol,1199,67900.0,1
+Land Rover,Range Rover Sport,2018,121737,Diesel,1999,126900.0,1
+Skoda,Superb,2024,1,Diesel,1968,205200.0,1
+Baic,BJ60,2025,1,Petrol,1998,259900.0,1
+Cupra,Formentor,2025,7,Hybrid,1498,182000.0,1
+Ford,Mondeo,2020,199999,Diesel,1997,45000.0,1
+Audi,A5,2024,1,Petrol,1984,210000.0,1
+BMW,Seria 5,2019,68787,Diesel,1995,115000.0,1
+BMW,X5,2021,104000,Diesel,1995,220000.0,1
+Volkswagen,Tiguan,2024,7,Petrol,1498,178900.0,1
+Audi,A6,2024,10,Diesel,1968,281000.0,1
+Mercedes-Benz,Klasa A,2019,76200,Petrol,1991,139900.0,1
+Hyundai,Tucson,2024,5000,Hybrid,1598,164500.0,1
+Skoda,Octavia,2021,242531,Petrol,1498,49889.0,0
+Land Rover,Discovery Sport,2016,161000,Diesel,1999,69900.0,0
+Skoda,Kodiaq,2021,76455,Petrol,1984,134900.0,1
+Audi,Q5 Sportback,2024,1,Diesel,1968,243300.0,1
+Peugeot,3008,2020,95000,Diesel,1499,75800.0,0
+BMW,Seria 5,2021,70000,Petrol,1998,135900.01,1
+Peugeot,Rifter,2024,1,Diesel,1499,105534.0,0
+Jeep,Compass,2025,1,Hybrid,1469,160015.6,1
+Jeep,Renegade,2018,89956,Petrol,999,49900.0,0
+Cupra,Formentor,2025,5,Petrol,1498,156386.0,1
+Toyota,C-HR,2021,120002,Hybrid,1987,103900.0,1
+BMW,Seria 3,2025,16,Petrol,1998,207904.0,1
+Suzuki,SX4 S-Cross,2024,3,Hybrid,1373,137590.0,0
+Audi,A7,2016,150000,Petrol,1984,99500.0,1
+Peugeot,RCZ,2011,169151,Diesel,1997,38500.0,0
+Renault,Clio,2020,134000,Petrol+LPG,999,43900.0,0
+Mercedes-Benz,Klasa T,2024,5,Diesel,1461,158055.0,1
+Citroën,C4X,2024,6000,Hybrid,1199,111500.0,1
+Hyundai,Tucson,2025,1,Petrol,1598,135500.0,0
+Nissan,Almera Tino,2004,75000,Petrol,1769,13900.0,0
+Mazda,6,2019,81600,Petrol,1998,79900.0,0
+BMW,Seria 5,2017,210000,Diesel,1995,98900.0,1
+Cupra,Terramar,2024,2,Hybrid,1498,178900.0,1
+Baic,Beijing 3,2025,5,Petrol,1499,84900.0,0
+Volkswagen,Arteon,2022,28724,Petrol,1984,176999.46,1
+Ford,Mondeo,2017,250000,Diesel,1997,43500.0,1
+BMW,X4,2022,26000,Diesel,1995,232000.0,1
+Nissan,Qashqai,2016,123000,Petrol,1197,49900.0,0
+MINI,Cooper,2022,64000,Petrol,1499,94900.0,1
+Volkswagen,Passat,2025,1,Hybrid Plug-in,1498,183000.0,1
+Skoda,Superb,2025,5,Diesel,1968,190990.0,1
+Skoda,Octavia,2024,1,Diesel,1968,146250.0,1
+Citroën,C5 Aircross,2021,162000,Hybrid Plug-in,1598,75030.0,1
+Toyota,Auris,2016,168000,Hybrid,1798,53900.0,1
+Audi,A6,2024,5,Diesel,1968,294430.0,1
+Fiat,Doblo,2018,136500,Petrol+LPG,1368,52000.0,0
+Toyota,Corolla,2023,33324,Hybrid,1798,112600.0,1
+Citroën,C3,2020,60000,Petrol,1199,41900.0,0
+Volkswagen,Golf,2021,151986,Diesel,1968,84999.0,1
+Opel,Astra,2015,128456,Petrol,1598,32900.0,0
+Citroën,SpaceTourer,2019,79400,Diesel,1997,99999.0,0
+Mercedes-Benz,GLB,2020,69000,Petrol,1991,159900.0,1
+Volvo,XC 60,2023,47000,Petrol,1969,220000.0,1
+Mazda,5,2016,65000,Petrol,1999,38900.0,1
+Nissan,Juke,2010,181200,Petrol,1598,32999.0,0
+Volkswagen,Golf,2025,1,Petrol,1984,200500.0,1
+Volvo,XC 90,2020,57000,Petrol,1969,73900.0,1
+Volkswagen,Golf,2025,1,Petrol,1498,156880.0,1
+Ford,Mondeo,2009,274571,Diesel,1753,15898.98,0
+Volkswagen,Taigo,2024,6350,Petrol,1498,109900.0,1
+Opel,Grandland,2024,19900,Petrol,1199,103900.0,1
+Seat,Leon,2016,272000,Diesel,1968,43900.0,1
+Audi,A6,2024,15,Diesel,1968,269160.0,1
+Renault,Megane,2013,169700,Petrol,1197,26900.0,0
+BMW,Seria 1,2007,293000,Diesel,1995,29500.0,0
+BMW,X3,2014,235115,Petrol,1997,53500.0,1
+Nissan,X-Trail,2017,145000,Petrol,1618,59000.0,0
+Skoda,Superb,2021,225000,Diesel,1968,100000.0,1
+Cupra,Formentor,2025,5,Petrol,1498,159906.0,1
+Audi,A3,2025,1,Petrol,1498,155700.0,1
+Opel,Astra,2018,100000,Diesel,1598,41700.0,0
+BMW,Seria 2,2016,133000,Petrol,1499,42500.0,0
+Ford,Tourneo Custom,2024,1,Diesel,1996,231238.77,0
+Skoda,Superb,2017,159000,Diesel,1598,63500.0,1
+Mazda,CX-5,2018,163000,Diesel,2191,69800.0,0
+Audi,A5,2024,1,Diesel,1968,241227.0,1
+Mercedes-Benz,Klasa C,2023,26000,Diesel,1993,229500.01,1
+Toyota,Corolla,2021,85203,Petrol,1490,61900.0,0
+Citroën,C5,2005,142000,Petrol,1749,9988.0,0
+Mercedes-Benz,Klasa A,2023,15000,Hybrid,1332,174900.0,1
+Cupra,Formentor,2024,15,Petrol,1968,206900.0,1
+Toyota,C-HR,2016,123083,Hybrid,1798,75900.0,1
+Audi,A3,2024,1,Petrol,1498,188800.0,1
+Mitsubishi,ASX,2015,206000,Petrol,1590,39990.0,0
+Citroën,C4,2021,45000,Petrol,1199,64000.0,0
+Skoda,Scala,2020,154605,Petrol,999,49899.87,0
+Kia,Carens,2007,210860,Petrol,1594,6700.0,0
+Volkswagen,Touran,2025,1,Petrol,1498,156500.0,1
+BMW,Seria 4,2022,32999,Diesel,1995,179999.0,1
+Land Rover,Discovery Sport,2021,193137,Diesel,1998,107000.0,1
+Honda,CR-V,2016,79000,Petrol,1997,83900.0,0
+Opel,Astra,2017,117389,Petrol,1364,37800.0,0
+Mercedes-Benz,Klasa C,2023,21800,Diesel,1993,239500.0,1
+Kia,Sportage,2012,235500,Diesel,1998,38000.0,0
+Volvo,V90,2018,126800,Diesel,1969,129899.0,1
+Mercedes-Benz,GLC,2024,1,Diesel,1993,286800.0,1
+Kia,Sorento,2021,62000,Petrol,1598,149500.0,1
+Nissan,Qashqai,2017,122000,Petrol,1197,49000.0,0
+Mercedes-Benz,Klasa E,2010,181500,Petrol,1796,47900.0,0
+Opel,Insignia,2013,247000,Diesel,1956,26900.0,0
+BMW,X4,2020,154000,Petrol,1998,142900.0,1
+Skoda,Octavia,2015,170151,Petrol,1395,43000.0,0
+Mercedes-Benz,GLB,2021,87000,Diesel,1950,149899.99,1
+Suzuki,Jimny,2014,65700,Petrol,1328,59900.0,0
+Volkswagen,T-Roc,2025,5,Petrol,1498,126900.0,1
+Ford,Focus,2015,275000,Diesel,1498,17000.0,0
+Volkswagen,Tiguan,2025,1,Diesel,1968,204600.0,1
+Audi,A6,2024,1,Diesel,1968,259000.0,1
+Renault,Symbioz,2025,5,Hybrid,1600,123500.0,1
+Mercedes-Benz,GLA,2024,9916,Petrol,1991,224900.0,1
+Peugeot,Partner,2011,273600,Diesel,1560,15494.31,0
+Peugeot,208,2017,56608,Petrol,1199,30000.0,0
+Hyundai,i20,2024,1,Petrol,998,85570.0,1
+Nissan,Townstar,2024,1300,Petrol,1333,132900.0,0
+Audi,A4,2016,184000,Diesel,1968,64999.0,0
+BMW,Seria 3,2021,166900,Diesel,1995,129900.0,1
+Mercedes-Benz,Klasa C,2024,1,Petrol,1496,240000.0,1
+Kia,XCeed,2021,23705,Petrol,1591,114900.0,1
+Volkswagen,Golf Sportsvan,2015,222000,Diesel,1598,39900.0,0
+Nissan,Qashqai+2,2012,169000,Diesel,1598,36900.0,0
+Hyundai,Tucson,2016,185000,Diesel,1685,56900.0,0
+Seat,Arona,2018,89900,Petrol,999,63900.0,1
+Volkswagen,Taigo,2022,18000,Petrol,999,94900.0,0
+Audi,A4,2021,168000,Diesel,1968,113898.0,1
+Renault,Trafic,2025,10,Diesel,1997,155900.0,0
+Mercedes-Benz,GLC,2025,1,Diesel,1993,286300.0,1
+Fiat,Tipo,2020,78000,Petrol,1368,46740.0,0
+Volvo,XC 60,2018,122615,Hybrid Plug-in,1969,139900.0,1
+Suzuki,SX4 S-Cross,2021,99000,Petrol,1373,69500.0,0
+Hyundai,Tucson,2025,5,Petrol,1598,162448.0,1
+Nissan,Qashqai,2019,126000,Petrol,1332,67900.0,0
+Volkswagen,Passat,2017,174000,Diesel,1968,62000.0,1
+Volkswagen,Tiguan,2025,5,Diesel,1968,174500.0,1
+Volkswagen,Tiguan,2020,41162,Petrol,1498,99900.0,1
+Peugeot,208,2017,20841,Petrol,1199,37400.0,0
+Volkswagen,Passat,2012,310000,Diesel,1968,26500.0,0
+Peugeot,Partner,2019,120000,Diesel,1560,39999.0,0
+Opel,Corsa,2012,180000,Diesel,1248,14500.0,0
+Audi,A4,2009,150000,Diesel,1968,28800.0,0
+Volvo,XC 60,2015,241000,Diesel,1969,67900.0,1
+Volkswagen,Passat,2024,1,Petrol,1498,158300.0,1
+Audi,A6,2025,1,Petrol,1984,289895.0,1
+BMW,X4,2024,4261,Petrol,1998,239900.0,1
+Volkswagen,T-Cross,2025,1,Petrol,999,107500.0,1
+Skoda,Kodiaq,2024,5,Diesel,1968,206900.0,1
+Jeep,Avenger,2024,1,Hybrid,1199,115580.0,1
+Volvo,V90,2016,238400,Diesel,1969,79900.0,1
+Toyota,Prius,2013,183661,Hybrid,1798,44000.0,1
+Hyundai,Tucson,2024,1,Petrol,1598,158200.0,1
+Audi,A6,2020,45000,Hybrid Plug-in,1984,160000.0,1
+Ford,Mondeo,2018,38000,Hybrid,1999,68999.0,1
+Suzuki,Vitara,2017,148000,Petrol,1373,61000.0,0
+BMW,Seria 5,2013,303000,Diesel,1995,52000.0,1
+Kia,Stonic,2023,25000,Petrol,998,78900.0,0
+DFSK,Mini Van,2013,44400,Petrol,1310,15000.0,0
+Peugeot,5008,2017,180000,Diesel,1997,62000.0,0
+Audi,A5,2024,1,Petrol,1984,225000.0,1
+Volkswagen,Passat,2025,1,Petrol,1498,227300.0,1
+Toyota,Proace Verso,2024,1,Diesel,1997,206146.77,1
+Volvo,S90,2018,97895,Diesel,1969,114900.0,1
+Volkswagen,T-Roc,2025,1,Petrol,1498,131000.0,1
+Mazda,CX-9,2021,109202,Petrol,2488,133000.0,1
+BMW,Seria 3,2022,28000,Petrol,1998,77000.0,1
+Audi,Q5 Sportback,2024,1,Diesel,1968,225000.0,1
+Skoda,Octavia,2024,26474,Petrol,1998,149900.0,1
+Volkswagen,Taigo,2025,1,Petrol,1498,125900.0,1
+Peugeot,Expert,2018,291000,Diesel,1997,38800.0,0
+Kia,Ceed,2019,82000,Petrol,1368,59900.0,0
+Infiniti,Q50,2016,56060,Diesel,2143,59900.0,1
+Opel,Insignia,2014,214000,Diesel,1956,30900.0,0
+Fiat,Doblo,2020,66000,Diesel,1598,47777.0,0
+Peugeot,Partner,2017,177340,Diesel,1560,32000.0,0
+Opel,Astra,2019,74060,Diesel,1600,50500.0,0
+Skoda,Fabia,2023,35147,Petrol,999,69900.0,0
+Honda,CR-V,2015,185000,Diesel,1597,62000.0,0
+Citroën,C3,2024,22870,Petrol,1199,66666.0,1
+Audi,A6,2024,27532,Diesel,1968,209900.0,1
+Mazda,CX-5,2023,17031,Petrol,1998,144900.0,0
+Volvo,XC 60,2021,82000,Hybrid Plug-in,1969,153900.0,1
+Kia,ProCeed,2023,23475,Petrol,1482,119900.0,1
+Hyundai,Tucson,2024,5,Hybrid Plug-in,1598,189900.0,1
+Volkswagen,Touran,2013,203280,Diesel,1598,30000.0,0
+Volvo,XC 90,2018,120424,Hybrid Plug-in,1969,189000.0,1
+Opel,Astra,2008,135000,Petrol,1598,18900.0,0
+Volkswagen,T-Roc,2025,5,Petrol,1498,152700.0,1
+Audi,A7,2019,178653,Diesel,1968,159890.0,1
+Citroën,DS3,2014,128500,Petrol,1199,30500.0,1
+Skoda,Karoq,2025,10,Petrol,1984,184000.0,1
+Mercedes-Benz,GLC,2024,3014,Diesel,1993,252800.0,1
+Toyota,C-HR,2022,17000,Hybrid,1798,109000.0,1
+Fiat,Tipo,2021,26000,Petrol,999,44900.0,0
+Mazda,6,2015,111000,Petrol,1998,59900.0,0
+Audi,Q3 Sportback,2025,5,Hybrid,1498,189500.0,1
+Opel,Astra,2018,153000,Diesel,1598,35400.0,0
+Toyota,C-HR,2021,50530,Hybrid,1798,99900.0,1
+BMW,X1,2018,128000,Petrol,1998,85900.0,1
+Kia,Ceed,2012,241000,Diesel,1582,15000.0,0
+Kia,Venga,2011,34100,Petrol,1396,29500.0,0
+Audi,Q5 Sportback,2024,1,Diesel,1968,227600.0,1
+Hyundai,Staria,2024,10,Hybrid,1600,230700.0,1
+Renault,Megane,2014,185000,Diesel,1461,23900.0,1
+Skoda,Octavia,2025,1,Petrol,1984,209200.0,1
+Mercedes-Benz,Klasa A,2019,54000,Petrol,1332,83000.0,1
+Volkswagen,Touran,2016,130000,Petrol,1197,57500.0,0
+Kia,Ceed,2024,4,Petrol,1482,110000.0,1
+Volkswagen,Tiguan,2025,5,Petrol,1498,185900.0,1
+Hyundai,i40,2012,151980,Petrol,1591,37500.0,0
+Volkswagen,Tayron,2025,1,Petrol,1984,219500.0,1
+Toyota,Corolla,2023,11000,Hybrid,1798,79000.0,1
+Nissan,Qashqai,2023,41854,Petrol,1332,98900.0,1
+Opel,Astra,2017,79000,Petrol,1399,42500.0,0
+Peugeot,3008,2019,152000,Diesel,1499,76400.0,1
+Mercedes-Benz,GLA,2025,10,Petrol,1991,287900.0,1
+Nissan,Qashqai,2015,162000,Petrol,1618,47900.0,0
+Ford,Tourneo Connect Grand,2021,95279,Diesel,1498,105700.0,1
+Audi,Q5,2025,1,Diesel,1984,275950.0,1
+Volkswagen,Golf,2019,97000,Petrol,1498,61800.0,0
+Kia,ProCeed,2023,30400,Petrol,1482,121800.0,1
+Hyundai,i40,2012,225900,Petrol,1999,37999.0,1
+Volvo,XC 90,2016,139000,Diesel,1969,99000.0,1
+Mercedes-Benz,Klasa C,2022,43200,Petrol,1496,154900.0,1
+Opel,Mokka,2017,107235,Petrol,1364,61900.0,0
+Land Rover,Discovery Sport,2020,135000,Petrol,1997,86000.0,1
+Kia,Sportage,2010,220000,Petrol,1591,35900.0,0
+Hyundai,i40,2012,185000,Diesel,1685,32900.0,0
+Hyundai,Tucson,2025,5,Hybrid,1598,179370.0,1
+Audi,A6,2024,1,Diesel,1968,279000.0,1
+Renault,Captur,2022,25050,Petrol,999,84900.0,0
+Honda,Accord,2013,203000,Diesel,2199,29555.0,1
+Volvo,V60,2021,120000,Hybrid Plug-in,1969,148830.0,1
+MINI,Countryman,2024,4644,Petrol,1998,217899.0,1
+Volvo,XC 60,2019,156000,Diesel,1969,96500.0,0
+Lexus,UX,2023,15652,Hybrid,1987,159900.0,1
+Skoda,Superb,2020,114000,Petrol,1498,89900.0,1
+Volvo,XC 60,2025,1,Hybrid,1969,238000.0,1
+Mercedes-Benz,CLA,2019,92000,Petrol,1991,87900.0,1
+Hyundai,Tucson,2025,1,Hybrid,1598,206000.0,1
+Volkswagen,Taigo,2025,5,Petrol,999,113900.0,1
+Dacia,Duster,2025,1,Petrol+LPG,999,98800.0,0
+Mercedes-Benz,CLA,2025,1,Petrol,1332,162917.49,1
+Kia,Stonic,2024,1,Petrol,1197,77880.0,0
+BMW,X5,2015,161500,Diesel,1995,89900.0,1
+Toyota,Avensis,2011,243000,Diesel,2231,28900.0,1
+Ford,Puma,2021,99000,Petrol,999,66500.0,0
+Subaru,Impreza,2018,99999,Petrol,1995,72000.0,1
+Kia,Sportage,2023,1,Hybrid Plug-in,1598,179900.0,1
+Toyota,RAV4,2025,5,Hybrid,2487,204900.0,1
+Audi,A3,2014,213500,Diesel,1968,49500.0,0
+BMW,Seria 5,2015,287000,Diesel,1995,62914.5,1
+Mercedes-Benz,Klasa C,2024,10,Petrol,1496,239000.0,1
+Hyundai,Tucson,2024,1,Hybrid,1598,146700.0,1
+Honda,CR-V,2012,186260,Petrol,1997,57200.0,0
+Citroën,C3 Aircross,2019,70000,Diesel,1499,47900.0,0
+Hyundai,Kona,2025,5,Petrol,998,118990.0,0
+Volkswagen,Tayron,2025,1,Hybrid,1498,181500.0,1
+Renault,Megane,2019,25910,Petrol,1332,54900.0,0
+Hyundai,Kona,2021,58073,Hybrid,1580,89900.0,1
+MINI,John Cooper Works,2023,27868,Petrol,1998,189900.0,1
+Toyota,Proace City Verso,2021,127611,Diesel,1499,74900.0,0
+Hyundai,Santa Fe,2023,15800,Hybrid,1598,235000.0,1
+Volvo,XC 60,2025,10,Petrol,1969,243152.0,1
+Fiat,Tipo,2017,103924,Petrol,1368,24999.0,0
+Nissan,X-Trail,2016,56000,Petrol,1618,69999.0,0
+Volkswagen,Golf,2024,5,Petrol,1984,191000.0,1
+Opel,Astra,2015,177000,Diesel,1598,28000.0,0
+Kia,Sportage,2013,99000,Diesel,1995,45900.0,0
+Porsche,Macan,2022,60080,Petrol,1984,299900.0,1
+Ford,Galaxy,2015,155000,Petrol,1999,74900.0,1
+Audi,A4,2021,159000,Diesel,1968,104700.0,1
+Opel,Corsa,2020,87479,Petrol,1199,54900.0,0
+Toyota,Yaris,2018,50310,Petrol,1496,45900.0,0
+Opel,Insignia,2022,199060,Diesel,1956,87000.0,1
+Audi,Q5 Sportback,2025,1,Petrol,1984,211607.97,1
+Skoda,Kodiaq,2025,5,Petrol,1498,202700.0,1
+Fiat,Talento,2021,114000,Diesel,1997,87500.0,0
+Seat,Tarraco,2019,139151,Diesel,1968,107900.0,1
+Mercedes-Benz,Klasa C,2011,165830,Petrol,1796,35900.0,1
+Toyota,Corolla,2022,34179,Petrol,1490,89900.0,1
+Alfa Romeo,Junior,2025,1,Hybrid,1119,123000.0,1
+BMW,X1,2014,139000,Diesel,1995,55500.0,1
+Mercedes-Benz,GLC,2021,169000,Hybrid Plug-in,1950,148800.0,1
+Skoda,Kamiq,2025,5,Petrol,1498,121000.0,1
+Skoda,Kamiq,2025,10,Petrol,999,103900.0,0
+Mercedes-Benz,Klasa A,2022,42000,Petrol,1991,199900.0,1
+Volvo,V50,2012,220000,Diesel,1984,22900.0,0
+Skoda,Octavia,2016,198000,Petrol,1395,38800.0,0
+Volvo,XC 60,2017,238000,Diesel,1969,64900.0,1
+Volkswagen,Tiguan,2025,1,Hybrid Plug-in,1498,191500.0,1
+Kia,Sportage,2025,4,Petrol,1598,123000.0,0
+Audi,S3,2015,191000,Petrol,1984,79000.0,1
+Omoda,5,2024,1,Petrol,1598,108570.0,1
+Porsche,Macan,2016,159900,Petrol,1984,139900.0,1
+Mercedes-Benz,Klasa E,2018,83600,Petrol,1991,199900.0,1
+Peugeot,5008,2016,184765,Diesel,1560,36999.0,0
+Peugeot,3008,2020,143000,Petrol,1199,61900.0,1
+Ford,Mondeo,2018,188000,Diesel,1997,54900.0,1
+Volkswagen,Eos,2011,115951,Petrol,1390,30000.0,0
+Opel,Grandland,2025,3,Hybrid,1199,139900.0,1
+Volkswagen,T-Roc,2025,6,Petrol,1498,122500.0,1
+Jeep,Compass,2024,5,Hybrid Plug-in,1332,199000.0,1
+Audi,A6,2024,27676,Petrol,1984,224800.0,1
+Jaguar,E-Pace,2019,146821,Diesel,1999,101900.0,1
+Mercedes-Benz,Klasa C,2018,66000,Petrol,1991,104900.0,1
+Toyota,Yaris Cross,2022,11127,Hybrid,1490,112900.0,1
+Kia,ProCeed,2020,106000,Petrol,1591,89900.0,1
+Volvo,XC 40,2024,3884,Petrol,1969,194900.0,1
+Suzuki,Grand Vitara,2009,165000,Petrol,1995,27900.0,1
+Skoda,Octavia,2021,100000,Petrol,1498,77900.0,0
+Peugeot,Partner,2017,209000,Diesel,1560,29000.0,0
+Skoda,Karoq,2019,130604,Petrol,1498,86900.0,1
+Kia,Ceed,2009,188380,Petrol,1396,14999.0,0
+BMW,Seria 5,2024,5,Hybrid,1995,266000.0,1
+Peugeot,3008,2010,161000,Petrol,1598,19900.0,0
+Volkswagen,Caddy,2020,135500,Diesel,1968,64000.0,0
+Kia,Ceed,2014,183000,Diesel,1582,31990.0,0
+Toyota,Auris,2018,50000,Hybrid,1798,78500.0,1
+Hyundai,Tucson,2019,83098,Petrol,1591,95699.99,1
+Seat,Leon,2014,169000,Petrol,1395,38900.0,0
+Volkswagen,Tiguan,2018,190000,Petrol,1984,48000.0,1
+BMW,Seria 3,2018,199500,Diesel,1995,57810.0,0
+Skoda,Octavia,2024,6,Diesel,1968,146600.0,1
+Ford,Mondeo,2019,159000,Diesel,1997,59900.0,1
+Hyundai,Santa Fe,2025,1,Hybrid,1598,253907.0,1
+BMW,Seria 5,2019,138204,Diesel,1995,129900.0,1
+Volkswagen,Tayron,2025,1,Petrol,1498,184900.0,1
+Volkswagen,Golf,2014,152213,Diesel,1968,59900.0,0
+Land Rover,Range Rover Evoque,2019,86000,Diesel,1999,109000.0,1
+Opel,Astra,2012,194170,Petrol,1598,24900.0,1
+Dacia,Dokker,2018,92000,Diesel,1461,37900.0,0
+Honda,CR-V,2011,215000,Petrol,1997,47900.0,1
+Hyundai,Tucson,2024,1,Hybrid,1598,146700.0,1
+MG,MG3,2024,1,Hybrid,1500,90200.0,1
+Mazda,CX-5,2023,13495,Petrol,1998,159000.0,1
+Volkswagen,Passat,2021,69528,Diesel,1968,139999.0,1
+Peugeot,407,2005,164000,Petrol+LPG,1749,9900.0,0
+Ford,S-Max,2018,196200,Diesel,1997,58800.0,1
+Opel,Insignia,2016,189000,Diesel,1598,26900.0,0
+Peugeot,408,2025,1,Hybrid,1199,144500.0,1
+Toyota,C-HR,2024,30000,Hybrid Plug-in,1987,179900.0,1
+Opel,Astra,2012,144000,Petrol+LPG,1364,28500.0,0
+Volkswagen,Caddy,2023,28352,Petrol,1498,126900.0,1
+Kia,Carens,2011,179000,Petrol,1998,17900.0,0
+Jaecoo,7,2024,1,Petrol,1598,149900.0,1
+Seat,Tarraco,2024,13000,Petrol,1498,159900.0,1
+Toyota,Proace Verso,2024,1,Diesel,1997,150675.0,0
+Opel,Grandland X,2019,88000,Diesel,1997,77800.0,1
+Audi,Q5,2019,189000,Hybrid,1984,109800.0,1
+Toyota,Corolla,2002,171345,Petrol,1398,7900.0,0
+Audi,A3,2017,72000,Diesel,1598,69900.0,0
+Ford,Focus,2024,5,Petrol,2261,172000.0,0
+Toyota,Corolla,2009,168000,Petrol+LPG,1798,26900.0,1
+Audi,Q5,2011,164000,Diesel,1968,54500.0,1
+Mazda,CX-5,2019,68000,Petrol,2488,77999.0,1
+Kia,Sportage,2024,1,Petrol,1598,132228.0,1
+Volkswagen,Transporter,2015,203000,Diesel,1968,73800.0,1
+Volkswagen,Tiguan,2016,107279,Petrol,1395,79900.0,1
+Porsche,Macan,2017,150000,Petrol,1984,62000.0,1
+Kia,Rio,2019,71400,Petrol,1248,38500.0,0
+Ford,Mondeo,2012,249000,Diesel,1997,28700.0,0
+Skoda,Octavia,2014,214700,Petrol,1798,45000.0,1
+Volkswagen,Golf,2025,1,Petrol,1984,196000.0,1
+Volkswagen,Golf,2025,5,Petrol,1498,143900.0,1
+Audi,Q7,2022,60000,Petrol,1998,229000.0,1
+Toyota,Yaris,2015,223000,Petrol+LPG,998,28500.0,0
+Hyundai,Tucson,2015,95000,Petrol,1591,67500.0,0
+Mercedes-Benz,Klasa E,2015,251716,Diesel,2143,78300.0,1
+MINI,Cooper S,2013,127000,Petrol,1598,33900.0,0
+Renault,Clio,2021,141670,Petrol,999,37400.0,0
+Audi,A5,2024,15,Diesel,1968,275077.0,1
+Mercedes-Benz,CLE,2025,1,Petrol,1999,313320.0,1
+Seat,Tarraco,2023,16494,Diesel,1968,135000.0,1
+Volkswagen,Passat,2019,150277,Petrol,1498,69998.99,1
+Toyota,C-HR,2024,78,Hybrid,1987,163924.0,1
+Opel,Astra,2007,199993,Petrol,1598,16900.0,0
+Audi,A6,2024,10,Hybrid,1968,266291.0,1
+Volkswagen,Caravelle,2017,168000,Diesel,1968,126900.0,1
+Omoda,5,2024,10,Petrol,1598,104900.0,1
+Toyota,Yaris,2021,36711,Petrol,998,66700.0,0
+Suzuki,Vitara,2024,16537,Petrol,1373,99900.0,0
+BMW,X3,2021,17600,Petrol,1998,145000.0,1
+Opel,Insignia,2018,180388,Diesel,1956,54800.0,1
+Skoda,Octavia,2025,5,Petrol,1498,112990.0,0
+Volkswagen,T-Roc,2025,5,Petrol,1498,129900.0,0
+Volkswagen,Multivan,2011,231800,Diesel,1968,75000.0,1
+Opel,Astra,2021,127000,Diesel,1496,44900.0,0
+Toyota,C-HR,2023,4608,Hybrid,1987,174800.0,1
+Nissan,Qashqai,2024,7,Petrol,1332,162550.0,1
+Subaru,Legacy,2009,248000,Diesel,1998,14500.0,0
+Audi,A6,2018,99911,Diesel,1968,97000.0,1
+Ford,Kuga,2018,187555,Diesel,1997,62300.0,0
+Volvo,XC 90,2021,73000,Diesel,1969,254900.0,1
+Volkswagen,Golf,2020,42300,Petrol,1498,81900.0,0
+Mercedes-Benz,GLA,2015,33376,Petrol,1595,88900.0,1
+Ford,Mondeo,2020,137000,Diesel,1997,69999.0,1
+Volkswagen,T-Roc,2025,5,Petrol,1498,115300.0,0
+Volvo,V90 Cross Country,2022,50000,Diesel,1969,249998.73,1
+Kia,Niro,2024,4,Hybrid,1580,141700.0,1
+Ford,Focus,2008,147000,Petrol,1596,15950.0,0
+Cupra,Formentor,2025,1,Hybrid,1498,164900.0,1
+Peugeot,508,2012,200500,Diesel,1997,29500.0,0
+Skoda,Superb,2019,162937,Diesel,1968,73900.0,1
+Kia,Ceed,2013,169000,Diesel,1396,23999.0,0
+Dacia,Sandero,2021,48240,Petrol+LPG,999,59900.0,0
+Volvo,S60,2024,16027,Petrol,1969,184900.0,1
+Seat,Leon,2018,140000,Petrol,1197,41900.0,0
+Renault,Megane,2011,269929,Diesel,1461,9500.0,0
+Dacia,Duster,2015,150000,Diesel,1461,36900.0,0
+Suzuki,Swift,2016,186000,Petrol,1242,28990.0,0
+Mercedes-Benz,GLB,2020,103179,Diesel,1950,144900.0,1
+BMW,Seria 3,2014,167000,Diesel,1995,37500.0,0
+Opel,Insignia,2009,240000,Petrol,1798,16900.0,0
+Cupra,Leon,2025,5,Petrol,1498,137200.0,1
+Mazda,MX-30,2024,6065,Hybrid Plug-in,830,117900.0,1
+Hyundai,i30,2025,5,Hybrid,1482,118700.0,1
+Skoda,Kodiaq,2025,5,Petrol,1498,202700.0,1
+Ford,Mondeo,2012,290030,Diesel,1997,20600.0,0
+Subaru,Outback,2015,220000,Diesel,1998,54500.0,1
+Skoda,Kodiaq,2025,10,Diesel,1968,245900.0,1
+Skoda,Octavia,2025,1,Petrol,1498,127290.0,0
+Lexus,NX,2025,5,Hybrid,2487,237000.0,1
+Seat,Ateca,2025,8,Petrol,1498,138900.0,1
+Mercedes-Benz,Klasa A,2023,10859,Hybrid Plug-in,1332,179900.0,1
+Hyundai,Tucson,2023,23150,Hybrid Plug-in,1598,79950.0,1
+Honda,CR-V,2018,89000,Petrol,1997,95999.0,0
+Mazda,CX-5,2023,12771,Petrol,1998,149900.0,0
+Toyota,Auris,2014,155000,Diesel,1364,34500.0,0
+Kia,Sportage,2020,23000,Petrol,1591,86900.0,1
+Fiat,Tipo,2018,156548,Petrol,1368,39800.0,0
+Toyota,ProAce,2021,118106,Diesel,1499,64900.0,0
+Skoda,Fabia,2025,5,Petrol,1498,116200.0,1
+Volkswagen,Multivan,2011,294000,Diesel,1968,79990.0,1
+Audi,Q5,2021,115000,Diesel,1968,137000.0,1
+Citroën,C-Elysée,2016,56000,Petrol,1587,29900.0,0
+Ford,Kuga,2013,99000,Petrol,1596,45900.0,0
+Peugeot,208,2016,107611,Petrol,1199,32000.0,0
+Mercedes-Benz,Klasa E,2017,210000,Diesel,1950,90850.0,1
+Volkswagen,Tiguan,2025,5,Diesel,1968,219800.0,1
+Jeep,Wrangler,2020,129000,Diesel,2143,159998.4,1
+BMW,X1,2021,71000,Petrol,1499,106000.0,1
+Hyundai,Tucson,2025,5,Petrol,1598,123000.0,0
+Volvo,XC 60,2020,120000,Diesel,1969,123800.0,1
+Seat,Toledo,2016,171093,Diesel,1598,24500.0,0
+BMW,Seria 5,2013,200000,Diesel,1995,64555.0,1
+Audi,A3,2008,291000,Diesel,1896,17100.0,0
+Hyundai,ix35,2014,187800,Diesel,1995,44900.0,0
+Mazda,CX-5,2024,18183,Petrol,1998,121000.0,1
+Peugeot,307,2006,201558,Diesel,1560,6200.0,0
+Nissan,Qashqai,2024,2824,Hybrid,1332,126900.0,0
+Seat,Arona,2024,1,Petrol,999,118000.0,1
+Volkswagen,Tiguan,2020,135788,Diesel,1968,123800.0,1
+Audi,Q3,2015,165721,Diesel,1968,72900.0,1
+Skoda,Superb,2024,7,Petrol,1498,174850.0,1
+Nissan,Navara,2021,94000,Diesel,2298,129900.0,1
+Volkswagen,Tiguan,2025,1,Petrol,1498,198210.0,1
+Volkswagen,Passat,2016,77500,Diesel,1968,72300.0,1
+Volvo,V60,2016,178453,Diesel,1969,40900.0,0
+Nissan,Note,2016,87117,Petrol,1198,33500.0,0
+Mercedes-Benz,GLC,2017,111000,Petrol,1991,133000.0,1
+Skoda,Superb,2024,15927,Diesel,1968,151900.0,1
+Volkswagen,Golf,2025,1,Petrol,1984,189500.0,1
+Volkswagen,T-Roc,2025,5,Petrol,1498,136200.0,1
+Volkswagen,Tiguan,2025,7,Hybrid Plug-in,1498,202900.0,1
+Citroën,Berlingo,2012,242000,Diesel,1560,31700.0,0
+Skoda,Superb,2025,5,Petrol,1999,205990.0,1
+Opel,Mokka,2015,150000,Petrol,1598,38600.0,0
+Toyota,Auris,2018,89000,Hybrid,1798,72900.0,1
+SsangYong/KGM,Actyon,2024,5,Petrol,1497,174300.0,1
+BMW,X4,2022,18825,Petrol,1998,219000.0,1
+Toyota,Hilux,2016,104000,Diesel,2393,46900.0,0
+Ford,Grand C-MAX,2011,236111,Diesel,1997,22800.0,0
+Land Rover,Range Rover Evoque,2018,89000,Petrol,1997,109400.0,1
+Audi,Q5 Sportback,2024,1,Diesel,1968,250000.0,1
+Volvo,V40,2013,219000,Diesel,1560,29500.0,0
+MG,HS,2024,1,Petrol,1496,129900.0,1
+Audi,A4 Allroad,2017,159000,Diesel,1968,92500.0,1
+BMW,Seria 5,2016,180000,Petrol,1997,59900.0,1
+Nissan,Qashqai,2023,46815,Petrol,1332,117900.0,1
+BMW,Seria 1,2023,25403,Diesel,1496,49900.0,0
+Ford,Focus,2024,1,Hybrid,999,104120.0,1
+Skoda,Superb,2020,140507,Diesel,1968,98500.0,1
+Volkswagen,Tayron,2025,1,Diesel,1968,273500.0,1
+Fiat,Tipo,2020,76000,Petrol,1368,39360.0,0
+Peugeot,3008,2019,163000,Diesel,1499,73800.0,1
+Volkswagen,T-Roc,2025,1,Petrol,1498,122900.0,1
+Volkswagen,Tayron,2025,5,Petrol,1498,202500.0,1
+MINI,Clubman,2020,78000,Petrol,1998,89900.0,1
+Subaru,Legacy,2012,255000,Diesel,1998,35000.0,0
+Isuzu,D-Max,2019,50000,Diesel,1898,54900.0,1
+Renault,Arkana,2023,9000,Hybrid,1332,112900.0,1
+Mercedes-Benz,GLC,2025,1,Diesel,1993,272500.0,1
+SsangYong/KGM,Torres,2024,11,Petrol,1497,134216.0,1
+Volkswagen,T-Roc,2024,5,Petrol,1498,149900.0,1
+Audi,A5,2024,1,Hybrid,1984,186937.0,1
+Opel,Astra,2019,76008,Petrol,1399,51900.0,0
+MINI,Countryman,2023,2305,Petrol,1499,169900.0,1
+Volkswagen,Passat,2025,5,Diesel,1968,202500.0,1
+Opel,Zafira,2011,199999,Petrol,1364,29500.0,0
+BMW,Seria 5,2018,169000,Petrol,1998,113000.0,1
+Ford,Focus,2014,100600,Petrol,1596,31500.0,0
+Ford,Focus,2020,82837,Hybrid,999,82900.0,0
+Kia,Sportage,2023,10197,Petrol,1598,110000.0,0
+Mercedes-Benz,ML,2013,240424,Diesel,2143,95300.0,1
+Audi,Q5,2024,1,Diesel,1968,231500.0,1
+Toyota,Avensis,2018,224000,Diesel,1995,49000.0,0
+Hyundai,Tucson,2022,68000,Petrol,1598,98700.0,0
+Mercedes-Benz,GLE,2020,68000,Diesel,1950,239000.0,1
+Volvo,XC 60,2025,1,Hybrid Plug-in,1969,294090.0,1
+Skoda,Kodiaq,2019,190000,Diesel,1968,79000.0,1
+Opel,Astra,2014,188000,Petrol,1364,27900.0,0
+Kia,Stonic,2021,77000,Petrol,998,69700.0,0
+Hyundai,Elantra,2016,196000,Petrol+LPG,1591,45900.0,0
+Audi,Q5 Sportback,2025,1,Petrol,1984,207959.0,1
+Volvo,XC 60,2015,199999,Diesel,2400,75000.0,1
+Hyundai,Bayon,2021,35500,Petrol,998,77000.0,1
+Opel,Astra,2015,151000,Petrol,1364,29000.0,1
+Mercedes-Benz,GLC,2025,1,Diesel,1993,240200.0,1
+Mazda,3,2017,162000,Petrol,1998,56900.0,1
+Citroën,C4 Grand Picasso,2014,220000,Diesel,1560,32500.0,1
+Kia,Ceed,2015,184000,Petrol,1591,36900.0,0
+Cupra,Terramar,2024,10,Petrol,1984,258658.0,1
+Toyota,Avensis,2015,197000,Diesel,1998,42900.0,0
+Dacia,Duster,2025,1,Petrol+LPG,999,98600.0,0
+Hyundai,i30,2024,1,Hybrid,1482,113500.0,1
+Kia,Ceed,2023,45992,Petrol,1482,85900.0,1
+Audi,Q3,2013,167000,Diesel,1968,65900.0,1
+Volkswagen,Tiguan,2018,295810,Diesel,1968,69500.0,1
+Volvo,V40,2015,236000,Diesel,1969,34500.0,0
+Suzuki,Vitara,2024,5,Hybrid,1373,116590.0,0
+Toyota,Sienna,2021,81400,Hybrid,2487,199137.0,1
+Fiat,500,2017,88000,Petrol,875,29900.0,0
+Opel,Insignia,2014,230000,Diesel,1956,26700.0,0
+Cupra,Leon Sportstourer,2025,1,Petrol,1984,221100.0,1
+Lexus,UX,2023,16619,Hybrid,1987,152900.0,1
+Volkswagen,T-Roc,2025,5,Petrol,1984,174900.0,1
+Volvo,XC 60,2016,258500,Diesel,1969,63500.0,1
+BMW,X1,2024,5,Petrol,1499,164100.0,1
+Lexus,ES,2021,30886,Hybrid,2487,176900.0,1
+Jaguar,F-Pace,2017,59000,Diesel,1999,122000.0,1
+Toyota,Corolla,2023,25268,Hybrid,1798,108800.0,1
+Ford,Tourneo Connect Grand,2022,57698,Diesel,1498,99900.0,1
+Skoda,Superb,2016,136000,Diesel,1598,59900.0,1
+Audi,Q7,2022,30733,Petrol,1998,116400.0,1
+Volvo,XC 60,2018,123000,Petrol,1969,134000.0,1
+Mazda,CX-5,2021,59000,Petrol,1998,115990.0,1
+Volvo,V60,2014,230000,Diesel,1969,36900.0,0
+Mercedes-Benz,Klasa A,2023,9916,Hybrid Plug-in,1332,169900.0,1
+Kia,Sportage,2020,182000,Diesel,1598,64700.0,0
+Peugeot,2008,2016,100863,Petrol,1199,39900.0,1
+Toyota,C-HR,2024,78,Hybrid,1987,163924.0,1
+Ford,EcoSport,2018,94210,Petrol,998,59900.0,0
+Citroën,Berlingo,2025,1,Diesel,1499,108361.77,0
+Ford,Kuga,2018,183000,Diesel,1997,64900.0,1
+Citroën,C5 Aircross,2020,36000,Diesel,1997,112000.0,1
+Kia,Sportage,2023,50949,Hybrid,1598,104900.0,1
+Mercedes-Benz,GLC,2025,1,Diesel,1950,296166.0,1
+Suzuki,Vitara,2022,24800,Hybrid,1462,99900.0,1
+Suzuki,SX4 S-Cross,2014,169000,Petrol,1586,44900.0,0
+Seat,Leon,2020,54470,Petrol,1498,79500.0,0
+Mercedes-Benz,Klasa C,2013,189000,Petrol,1796,52000.0,1
+Skoda,RAPID,2018,69000,Petrol,999,36900.0,0
+Toyota,Corolla,2023,7600,Hybrid,1798,132500.0,1
+Audi,A6,2023,51500,Diesel,1968,209990.0,1
+Hyundai,Tucson,2024,10,Petrol,1598,176900.0,1
+Audi,A5,2024,10,Hybrid,1984,220083.0,1
+Seat,Ibiza,2017,186000,Petrol,999,26900.0,0
+Volkswagen,T-Cross,2025,5,Petrol,999,93700.0,0
+Audi,A3,2006,216000,Diesel,1968,21900.0,1
+Skoda,Octavia,2025,10,Petrol,1498,177700.0,1
+Toyota,Avensis,2014,212000,Petrol+LPG,1798,41600.0,0
+BMW,X3,2025,1,Petrol,1998,241060.0,1
+Alfa Romeo,Tonale,2022,82948,Petrol,1469,113900.0,1
+Opel,Tigra,2005,96000,Petrol,1796,12900.0,0
+Dacia,Duster,2021,55386,Petrol+LPG,999,55000.0,0
+Volkswagen,Taigo,2025,9,Petrol,1498,122820.0,1
+Nissan,Qashqai,2023,23096,Petrol,1332,115900.0,1
+Cupra,Leon,2024,5,Petrol,1498,155900.0,1
+Ford,KA,2009,101800,Petrol,1242,16700.0,0
+Toyota,Proace City Verso,2021,127611,Diesel,1499,74900.0,0
+BMW,X3,2018,74000,Petrol,1998,120000.0,1
+Ford,Transit Connect,2021,56000,Diesel,1498,63333.0,0
+Ford,Focus,2019,65188,Petrol,999,54900.0,0
+BMW,Seria 5,2023,31500,Diesel,1995,301350.0,1
+BMW,Seria 3,2024,8000,Diesel,1995,199875.0,1
+Skoda,Yeti,2012,188000,Petrol,1197,32400.0,1
+Audi,Q3,2013,189000,Diesel,1968,63900.0,1
+Mercedes-Benz,Citan,2023,18900,Diesel,1461,129000.0,1
+Kia,Sportage,2016,85517,Petrol,1591,58900.0,0
+Honda,Civic,2012,178408,Petrol,1798,35999.0,0
+Volkswagen,Multivan,2019,76200,Diesel,1968,174900.0,1
+Skoda,Superb,2025,5,Petrol,1984,212900.0,1
+Ford,Mondeo,2020,107900,Diesel,1997,79900.0,0
+Peugeot,408,2024,14950,Petrol,1199,119900.0,1
+Volkswagen,Polo,2007,104400,Petrol,1390,16000.0,0
+Mercedes-Benz,GLC,2019,99000,Petrol,1991,159900.0,1
+Jeep,Compass,2019,99900,Petrol,1368,59000.0,0
+Honda,CR-V,2024,7815,Hybrid,1993,192900.0,1
+MINI,Cooper,2023,26500,Petrol,1499,88900.0,1
+Audi,A5,2015,190000,Diesel,1968,65000.0,1
+Ford,Kuga,2020,172000,Diesel,1996,87900.01,1
+Skoda,Octavia,2021,178216,Petrol,1498,69900.0,0
+Jeep,Compass,2024,1,Hybrid,1469,134850.0,1
+Renault,Clio,2025,1,Petrol,999,77280.0,1
+BMW,Seria 1,2020,113000,Petrol,1499,77900.0,1
+Mercedes-Benz,Sprinter,2013,208618,Diesel,2143,40300.0,0
+Nissan,Juke,2014,104500,Petrol,1197,36000.0,0
+Kia,XCeed,2024,1,Petrol,1482,110055.0,1
+Toyota,RAV4,2019,100000,Hybrid,2487,123000.0,1
+Ford,Tourneo Custom,2023,38500,Diesel,1995,169900.0,1
+Mercedes-Benz,GLC,2025,1200,Diesel,1993,263000.0,1
+Fiat,Doblo,2018,179000,Diesel,1598,34900.0,0
+Mazda,3,2017,107500,Petrol,1998,59600.0,0
+Cupra,Formentor,2024,7,Hybrid,1498,190900.0,1
+Suzuki,Baleno,2019,161000,Petrol,1242,33999.0,0
+Peugeot,Partner,2009,197937,Diesel,1560,21000.0,0
+Peugeot,Partner,2014,190000,Diesel,1560,17999.0,0
+Fiat,Doblo,2018,21000,Petrol+LPG,1368,67527.0,0
+Mitsubishi,ASX,2014,50000,Petrol,1590,44800.0,0
+Audi,A3,2025,1,Petrol,1498,169700.0,1
+Hyundai,Tucson,2019,51337,Diesel,1598,73000.0,0
+Audi,Q5,2018,174000,Diesel,1968,79900.0,0
+Baic,Beijing 5,2024,1,Petrol,1498,115000.0,1
+Audi,Q7,2020,71920,Petrol,1998,89000.0,1
+BMW,Seria 4,2014,218547,Diesel,1995,82410.0,0
+Opel,Grandland X,2018,162000,Diesel,1499,55600.0,1
+Ford,Escape,2023,17919,Petrol,1999,56400.0,1
+Mitsubishi,ASX,2016,98850,Petrol,1590,52899.0,0
+Kia,Ceed,2024,10,Petrol,1482,99100.0,1
+Volkswagen,Taigo,2025,1,Petrol,999,97900.0,1
+Volvo,XC 60,2015,204649,Petrol,1969,57900.0,1
+Renault,Captur,2024,2000,Hybrid,1332,96000.0,0
+Mercedes-Benz,Klasa C,2016,170000,Diesel,2143,109900.0,1
+Hyundai,Santa Fe,2018,100400,Petrol,2359,119000.0,1
+Porsche,Macan,2022,51340,Petrol,1984,264900.0,1
+Mercedes-Benz,GLC,2023,28350,Diesel,1993,219900.0,1
+BMW,X1,2018,82000,Petrol,1998,82000.0,1
+Volvo,S40,2010,129000,Diesel,1560,24000.0,0
+Volvo,V60,2016,194360,Diesel,1969,47900.0,1
+Cupra,Terramar,2025,1,Petrol,1498,209900.0,1
+Toyota,Corolla,2019,86849,Hybrid,1798,78900.0,1
+Jeep,Wrangler,2024,1,Petrol,1995,301850.0,1
+Kia,XCeed,2022,15000,Hybrid Plug-in,1580,115900.0,1
+Volvo,V60,2014,232000,Diesel,1969,43900.0,1
+Renault,Clio,2025,1,Petrol,999,77280.0,1
+BMW,Seria 4,2016,181000,Petrol,1998,65000.0,1
+Audi,A3,2025,5,Diesel,1968,140500.0,1
+Volvo,C30,2011,179321,Petrol,2521,27900.0,1
+Skoda,Octavia,2009,262000,Diesel,1896,15500.0,0
+Volkswagen,Passat,2020,126000,Diesel,1968,76900.09,1
+Kia,Ceed,2022,24203,Petrol,1482,76900.0,0
+Audi,A5,2024,1,Petrol,1984,272345.0,1
+Mercedes-Benz,Klasa A,2024,5,Petrol,1991,234399.0,1
+Volkswagen,Touran,2024,1,Diesel,1968,135900.0,0
+Citroën,C3 Aircross,2024,2,Petrol,1199,94700.0,1
+Mercedes-Benz,Klasa E,2020,99000,Hybrid Plug-in,1950,99900.0,1
+BMW,Seria 1,2024,1,Petrol,1499,144900.0,1
+Mercedes-Benz,CLE,2024,1,Petrol,1999,321859.0,1
+Renault,Austral,2024,8,Petrol,1300,143500.0,1
+Volkswagen,Passat,2024,20500,Petrol,1498,129999.93,1
+Ford,Mondeo,2007,286000,Diesel,1997,10500.0,1
+Mercedes-Benz,GLC,2024,5350,Diesel,1993,240465.0,1
+Volkswagen,Taigo,2025,5,Petrol,999,94500.0,0
+Mercedes-Benz,Klasa C,2021,29800,Petrol,1497,179000.0,1
+Ford,Tourneo Courier,2019,140000,Diesel,1498,35555.0,0
+Volkswagen,Golf,2013,199600,Petrol,1395,31500.0,0
+Volkswagen,Arteon,2022,34000,Petrol,1984,184990.16,1
+Toyota,Auris,2011,98000,Petrol,1598,35700.0,0
+Mercedes-Benz,CLA,2025,1,Petrol,1991,243525.0,1
+Infiniti,Q50,2015,131000,Diesel,2143,60000.0,0
+Hyundai,Tucson,2018,78000,Petrol,1591,69999.0,1
+Audi,A6,2023,99000,Diesel,1968,179800.0,1
+Cupra,Formentor,2021,46983,Petrol,1984,148700.0,1
+Skoda,Octavia,2019,172000,Petrol,999,33333.0,0
+Fiat,Panda,2010,82958,Petrol,1108,11600.0,0
+Mercedes-Benz,Klasa C,2011,280000,Diesel,2143,23900.0,0
+Volvo,S60,2024,12621,Petrol,1969,209900.0,1
+Volkswagen,Tiguan,2025,5,Hybrid Plug-in,1498,214900.0,1
+Kia,Ceed,2025,1,Petrol,1482,102800.0,0
+BMW,Seria 1,2024,1,Petrol,1499,131500.0,1
+Renault,Megane,2009,148000,Petrol,1598,17900.0,0
+Ford,Kuga,2021,47125,Petrol,1486,104900.0,0
+Opel,Mokka,2017,67120,Petrol,1364,54500.0,1
+Ford,Focus,2025,1,Hybrid,999,105000.0,1
+Cupra,Terramar,2025,1,Petrol,1498,166900.0,1
+Peugeot,206,2008,69000,Petrol,1360,7500.0,0
+Jeep,Avenger,2025,5,Hybrid,1199,137600.0,1
+Opel,Vivaro,2016,213200,Diesel,1598,58000.0,0
+Skoda,Kodiaq,2018,168000,Diesel,1968,103000.0,1
+Dacia,Duster,2020,147771,Diesel,1461,45900.0,0
+Kia,Stonic,2022,13955,Hybrid,998,89900.0,1
+Volkswagen,Caravelle,2015,300000,Diesel,1968,55000.0,0
+Audi,A5,2024,5,Diesel,1968,248730.0,1
+Hyundai,IONIQ,2017,96000,Hybrid,1580,55000.0,1
+Fiat,Doblo,2006,183602,Diesel,1910,8975.0,0
+Audi,A5,2010,152000,Petrol,1984,26500.0,0
+Skoda,Superb,2022,143474,Diesel,1968,112500.0,1
+Nissan,X-Trail,2021,149489,Petrol,1618,100000.0,1
+Smart,Fortwo,2007,143997,Petrol,999,9999.0,1
+Ford,Escape,2019,102500,Petrol+LPG,1499,63800.0,1
+Seat,Ateca,2025,8,Petrol,1498,144900.0,1
+Ford,Mondeo,2002,121199,Petrol,1999,9500.0,1
+Audi,A6,2021,159000,Diesel,1968,109800.0,1
+Toyota,Proace City Verso,2024,1,Petrol,1199,133900.0,0
+Volkswagen,Arteon,2019,120174,Diesel,1968,115620.0,1
+Volkswagen,Passat,2014,217099,Diesel,1968,46999.0,1
+BMW,Seria 3,2025,1,Petrol,1998,189200.0,1
+Jaguar,XE,2017,95000,Diesel,1999,59900.0,1
+Hyundai,i30,2021,123000,Petrol,1498,50900.0,0
+Seat,Leon,2019,90000,Petrol,1498,79800.0,0
+BMW,Seria 3,2016,114950,Diesel,1995,67000.0,1
+Mercedes-Benz,GLB,2022,14800,Petrol,1991,152000.0,1
+BMW,Seria 5,2017,208220,Diesel,1995,85900.0,1
+Audi,A3,2016,214000,Diesel,1968,54900.0,0
+Skoda,Fabia,2025,10,Petrol,999,87900.0,0
+Audi,A6,2013,173000,Petrol,1984,65900.0,1
+Volkswagen,T-Roc,2024,5,Petrol,1498,147000.0,1
+Mitsubishi,ASX,2022,20500,Petrol,1998,89790.0,1
+Jeep,Wrangler,2024,1,Petrol,1995,285900.0,1
+MINI,Countryman,2013,88222,Diesel,1598,39900.0,0
+Peugeot,508,2020,64713,Petrol,1598,94900.0,1
+Fiat,Sedici,2013,244475,Petrol+LPG,1586,25900.0,0
+Audi,A5,2025,1,Petrol,1984,188000.0,1
+Audi,A4,2020,115800,Diesel,1968,113800.0,1
+Baic,Beijing 5,2024,1,Petrol,1498,127900.0,1
+Peugeot,3008,2019,93000,Diesel,1499,74900.0,0
+Skoda,Kodiaq,2025,5,Petrol,1984,260990.0,1
+Seat,Leon,2016,175000,Petrol,1395,40000.0,0
+Renault,Captur,2025,10,Petrol+LPG,999,99600.0,0
+Toyota,Yaris,2011,178000,Petrol,998,25500.0,0
+Ford,Fusion,2016,92000,Petrol,1999,49900.0,1
+Suzuki,Grand Vitara,2006,40000,Petrol,1586,30999.0,0
+Ford,Focus,2025,1,Hybrid,999,102500.0,1
+Opel,Vivaro,2021,117000,Diesel,1995,79900.0,0
+Volkswagen,Golf,2018,213172,Petrol,1498,56900.0,1
+Volkswagen,Passat,2025,1,Hybrid Plug-in,1498,186900.0,1
+Fiat,500,2019,62000,Petrol,1242,41500.0,0
+Toyota,Corolla,2023,44514,Hybrid,1798,104600.0,1
+Kia,Sportage,2024,19500,Hybrid,1598,170900.0,1
+BMW,Seria 3,2024,5900,Petrol,1998,149900.0,1
+Skoda,Superb,2019,245000,Diesel,1968,89900.0,1
+BMW,Seria 3,2019,105000,Petrol,1998,125000.0,1
+Volkswagen,Passat,2019,156000,Diesel,1968,67900.0,0
+Mercedes-Benz,Klasa C,2012,231000,Diesel,2143,49900.0,0
+BMW,X2,2021,89344,Diesel,1995,127900.0,1
+Ford,Fusion,2017,77987,Petrol,1999,66700.0,1
+Audi,Q5,2022,65000,Diesel,1968,199900.0,1
+Audi,A7,2023,10136,Petrol,1984,249900.0,1
+Skoda,Kamiq,2020,64723,Petrol,999,79999.0,1
+Ford,Focus,2016,129000,Petrol,1499,34500.0,0
+Ford,Ranger,2024,7,Diesel,1995,225644.0,1
+Volkswagen,Passat Alltrack,2019,138000,Diesel,2000,89900.0,1
+Audi,A4 Allroad,2014,255000,Diesel,1968,57500.0,1
+Skoda,Scala,2024,5,Petrol,999,106000.0,1
+Renault,Scenic,2011,163000,Diesel,1461,19500.0,1
+BMW,X3,2018,156600,Diesel,1995,125000.0,1
+Opel,Grandland X,2018,112000,Petrol,1199,49900.0,0
+Audi,A6,2020,98720,Petrol,1984,179900.0,1
+Hyundai,Tucson,2025,1,Petrol,1598,151745.0,1
+Kia,Sportage,2021,47000,Petrol,1591,82000.0,0
+Mercedes-Benz,GLC,2021,149000,Hybrid Plug-in,1991,159000.0,1
+Fiat,Tipo,2017,119954,Petrol,1368,41000.0,0
+Audi,Q5 Sportback,2023,48180,Diesel,1968,299000.0,1
+Mazda,2,2010,143276,Petrol,1349,17400.0,0
+Audi,S3,2019,130000,Petrol,1984,110000.0,1
+Volkswagen,T-Roc,2025,5,Petrol,1498,133500.0,1
+Volkswagen,Taigo,2025,5,Petrol,1498,122300.0,1
+Kia,Sportage,2025,10,Petrol,1598,134900.0,1
+BMW,Seria 5,2013,296000,Diesel,1995,49000.0,1
+Suzuki,Baleno,2017,232000,Petrol,1242,20900.0,0
+Opel,Astra,2007,253000,Petrol+LPG,1598,12700.0,0
+Skoda,Octavia,2023,28550,Petrol,1984,159999.0,1
+Opel,Insignia,2017,183000,Diesel,1956,60900.0,0
+Audi,A5,2016,209000,Diesel,1968,78600.0,1
+BMW,Seria 5,2012,198674,Diesel,1995,43700.0,1
+Toyota,C-HR,2019,87000,Petrol,1197,68800.0,0
+Peugeot,3008,2018,108000,Diesel,1499,76900.0,0
+Kia,XCeed,2024,10,Petrol,1482,115000.0,0
+Honda,CR-V,2015,189000,Diesel,1597,59900.0,1
+Toyota,Corolla,2024,5,Hybrid,1968,135039.0,1
+Audi,A6,2024,1,Diesel,1968,286400.0,1
+Toyota,Auris,2018,101000,Hybrid,1798,69900.0,1
+Volvo,V60,2017,158440,Diesel,1969,53900.0,0
+Ford,Kuga,2019,124800,Diesel,1997,79700.0,1
+Ford,Focus,2024,41228,Petrol,999,89900.0,0
+Nissan,Qashqai,2024,5,Petrol,1332,141400.0,1
+Cupra,Terramar,2024,1501,Hybrid Plug-in,1498,244900.0,1
+Skoda,Yeti,2013,195231,Petrol,1390,33999.0,0
+Alfa Romeo,Giulia,2019,45000,Petrol,1995,126900.0,1
+Hyundai,i40,2013,170000,Diesel,1685,35900.0,0
+Mercedes-Benz,GLC,2020,97000,Hybrid Plug-in,1991,151999.71,1
+Audi,Q3,2021,42000,Petrol,1498,110000.0,1
+BMW,X3,2020,83000,Diesel,1995,127800.0,1
+Mercedes-Benz,Klasa V,2018,121560,Diesel,2143,196600.0,1
+BMW,Seria 1,2021,42600,Petrol,1499,109000.0,1
+Mercedes-Benz,CLA,2018,172371,Petrol,1991,120000.0,1
+Mercedes-Benz,GLB,2024,1,Petrol,1332,196121.0,1
+Audi,A5,2021,111200,Petrol,1984,154900.0,1
+Audi,Q5 Sportback,2024,1,Diesel,1968,257626.0,1
+Audi,A6,2024,1,Diesel,1968,283000.0,1
+Jaguar,E-Pace,2022,17180,Diesel,1997,182900.0,1
+Mercedes-Benz,Klasa E,2025,1,Diesel,1993,323500.0,1
+Mercedes-Benz,GLC,2025,5,Diesel,1950,283017.0,1
+Mercedes-Benz,Klasa C,2024,1,Petrol,1496,238500.0,1
+Renault,Clio,2018,112617,Petrol,898,30900.0,0
+Mercedes-Benz,GLC,2025,2,Diesel,1993,244293.0,1
+Volkswagen,T-Roc,2025,1,Petrol,1498,123500.0,1
+Mercedes-Benz,Klasa C,2024,1,Petrol+LPG,1496,235590.0,1
+Opel,Insignia,2015,160000,Petrol,1998,44900.0,1
+Mercedes-Benz,Klasa C,2012,181747,Petrol,1595,39500.0,1
+Audi,A3,2025,1,Hybrid,1498,143836.0,1
+BYD,Seal U,2025,55,Hybrid Plug-in,1500,159600.0,1
+Opel,Mokka,2014,139368,Petrol,1364,44999.0,0
+Baic,Beijing 7,2024,7,Petrol,1499,156500.0,1
+Seat,Ateca,2025,8,Petrol,1498,135900.0,1
+Volvo,V60,2025,1,Hybrid,1969,190599.0,1
+Citroën,C4,2025,5,Petrol,1199,127000.0,1
+Opel,Mokka,2015,155200,Diesel,1598,39900.0,0
+Nissan,Qashqai,2014,140000,Diesel,1598,43000.0,0
+Skoda,Superb,2024,5020,Petrol,1984,209900.0,1
+Toyota,RAV4,2022,92238,Hybrid,2487,144900.0,1
+Peugeot,2008,2015,97000,Petrol,1598,29999.0,0
+Mitsubishi,Outlander,2017,155802,Petrol,1998,72900.0,1
+Volvo,V40,2013,239900,Diesel,1560,29900.0,0
+Mercedes-Benz,Klasa C,2012,297000,Petrol,1796,47900.0,0
+Volkswagen,Golf Plus,2013,82000,Petrol,1197,23900.0,0
+BMW,Seria 3,2020,151115,Petrol,1998,107000.0,1
+Cupra,Formentor,2025,5,Petrol,1498,178900.0,1
+Kia,Sportage,2023,31881,Hybrid,1598,109800.0,1
+Volkswagen,Tiguan Allspace,2019,120000,Diesel,1968,94999.0,1
+Chevrolet,Aveo,2012,140000,Petrol,1598,20900.0,0
+Volvo,XC 60,2021,149800,Hybrid,1969,143800.0,1
+Kia,Ceed,2023,15904,Petrol,998,84900.0,0
+Skoda,Octavia,2020,50544,Petrol,1498,89900.0,0
+Volkswagen,Passat,2017,114900,Diesel,1968,72900.0,1
+Audi,Q5,2024,1,Hybrid,1968,232050.0,1
+Audi,A4,2014,210000,Diesel,1969,57900.0,0
+Volvo,XC 60,2025,1,Petrol,1969,246500.0,1
+Fiat,500X,2015,169000,Petrol,1368,41900.0,0
+Volkswagen,Arteon,2022,16420,Petrol,1984,149900.0,1
+Honda,CR-V,2018,100000,Petrol,1997,87900.0,0
+Cupra,Terramar,2025,1,Petrol,1984,217900.0,1
+Opel,Astra,2013,170000,Petrol,1364,26900.0,0
+Opel,Meriva,2007,199952,Petrol,1598,9950.0,0
+Audi,Q2,2019,185000,Diesel,1968,71500.0,1
+Toyota,Avensis,2017,153000,Diesel,1598,38000.0,0
+Volvo,XC 60,2023,43980,Diesel,1969,199900.0,1
+Skoda,Karoq,2025,5,Petrol,1498,157300.0,1
+Skoda,Superb,2020,109452,Diesel,1968,115000.0,1
+Cupra,Formentor,2025,1,Diesel,1968,149900.0,1
+Volkswagen,Tiguan,2022,48000,Petrol,1984,114900.0,1
+Skoda,Octavia,2019,143000,Petrol,1498,47961.0,0
+Kia,Sportage,2025,10,Petrol,1598,153100.0,1
+Mercedes-Benz,Klasa A,2019,69000,Petrol,1332,72000.0,0
+Kia,Sorento,2020,30338,Hybrid,1598,138000.0,1
+BMW,Seria 2,2025,5,Petrol,1499,205800.0,1
+Peugeot,3008,2019,116400,Diesel,1499,71800.0,0
+Volvo,V40,2018,156655,Diesel,1969,48900.0,0
+Omoda,5,2024,1,Petrol,1598,119999.0,1
+Mercedes-Benz,GLC,2025,1,Diesel,1950,295575.0,1
+Volkswagen,T-Roc,2025,5,Petrol,1498,123720.0,1
+Kia,Ceed,2023,57872,Petrol,1482,79700.0,0
+Mercedes-Benz,CLA,2024,16697,Petrol,1332,179900.0,1
+Skoda,Superb,2019,149000,Diesel,1968,87000.0,1
+Mitsubishi,Outlander,2016,114353,Petrol,1998,71800.0,1
+Ford,Transit Custom,2023,35400,Diesel,1995,169900.0,1
+Citroën,SpaceTourer,2025,1,Diesel,1998,169900.01,1
+Ford,Mondeo,2011,194163,Diesel,2179,25999.0,0
+Land Rover,Range Rover Evoque,2015,166000,Diesel,1999,64000.0,1
+Volkswagen,T-Roc,2024,1,Petrol,1498,148000.0,1
+Mazda,6,2022,96150,Petrol,1998,99500.0,1
+Volvo,V60,2010,102000,Diesel,1984,9990.0,0
+MINI,Countryman,2024,5024,Petrol,1499,159900.0,1
+Nissan,X-Trail,2024,2300,Hybrid,1497,84000.0,1
+Volkswagen,Golf,2025,1,Petrol,1498,172180.0,1
+Skoda,Octavia,2021,131966,Petrol,1498,79900.0,1
+Volkswagen,Golf,2024,5,Petrol,1498,139900.0,1
+Ford,Focus,2014,151000,Petrol,999,28500.0,0
+Toyota,RAV4,2019,94600,Hybrid,2487,109800.0,1
+Skoda,Fabia,2014,164000,Petrol,1197,21800.0,0
+Kia,Ceed,2022,63279,Petrol,1482,79000.0,0
+Volkswagen,Passat,2014,278000,Diesel,1968,56500.0,1
+Audi,A6,2022,89985,Diesel,1968,179900.0,1
+Citroën,C5,2009,184000,Petrol,1997,23400.0,0
+Hyundai,Tucson,2024,1,Hybrid,1598,198900.0,1
+Volkswagen,Golf,2016,117000,Petrol,1197,43000.0,0
+Audi,A6,2024,1,Diesel,1968,264500.0,1
+Seat,Alhambra,2011,298000,Diesel,1968,31500.0,0
+BMW,Seria 3,2010,185000,Diesel,1995,23900.0,0
+Volkswagen,Tiguan,2015,108000,Diesel,1968,61800.0,0
+Subaru,Forester,2024,1150,Hybrid,1995,196800.0,1
+Volkswagen,Passat,2021,150000,Diesel,1968,85900.0,0
+Renault,Laguna,2008,190000,Petrol,1997,15900.0,0
+Mercedes-Benz,CLA,2020,130000,Diesel,1950,136900.0,1
+Citroën,C4 Grand Picasso,2015,235957,Diesel,1997,44000.0,1
+Renault,Espace,2015,232513,Diesel,1598,47900.0,0
+Volkswagen,Tiguan,2014,129500,Petrol,1390,49500.0,0
+Audi,A5,2024,1,Petrol,1984,225000.0,1
+Seat,Leon,2018,39000,Petrol,1798,71900.0,1
+Chevrolet,Cruze,2013,215000,Petrol,1364,23900.0,0
+BMW,X1,2021,97630,Diesel,1995,139900.0,1
+Fiat,500,2007,186000,Petrol,1368,17700.0,0
+Volkswagen,T-Roc,2024,1,Petrol,1498,132500.0,1
+Skoda,Fabia,2019,134446,Petrol,999,34700.0,0
+Audi,Q5,2025,1,Petrol,1984,278959.0,1
+BMW,Seria 5,2016,224000,Diesel,1995,58900.0,0
+Mercedes-Benz,Vito,2017,72500,Diesel,2143,76900.0,0
+Mercedes-Benz,CLA,2025,1,Petrol,1991,258600.0,1
+Volvo,V40,2017,119000,Petrol,1498,65000.0,1
+BMW,Seria 5,2020,96247,Diesel,1995,112500.0,1
+Hyundai,Kona,2024,1,Petrol,1598,130045.0,1
+Ford,Edge,2017,125000,Petrol,1998,87500.0,1
+Citroën,C5 Aircross,2025,5,Diesel,1499,136650.0,1
+Audi,A5,2024,16640,Diesel,1968,199900.0,1
+Skoda,Superb,2015,319500,Diesel,1968,36900.0,0
+Opel,Insignia,2010,312000,Diesel,1956,23500.0,0
+Peugeot,3008,2019,94000,Petrol,1199,72900.0,1
+Volkswagen,Passat,2017,73000,Petrol,1395,55900.0,1
+Volkswagen,Golf,2025,5,Hybrid Plug-in,1395,154900.0,1
+Kia,Sportage,2011,181500,Diesel,1998,36900.0,0
+Ford,Mondeo,2009,213000,Petrol,1999,19900.0,0
+Opel,Astra,2017,119888,Petrol,1399,48999.0,0
+Mercedes-Benz,GLA,2020,51200,Petrol,1332,134900.0,1
+Volkswagen,T-Cross,2025,5,Petrol,999,112800.0,1
+Kia,Sportage,2013,148200,Petrol,1998,47900.0,1
+Toyota,Corolla,2023,41409,Hybrid,1986,124900.0,1
+Kia,XCeed,2023,42700,Petrol,1482,89700.0,0
+Skoda,Superb,2014,220560,Diesel,1968,55000.0,0
+Citroën,C3,2013,197000,Petrol,1199,15900.0,0
+Mazda,CX-5,2017,178000,Petrol,1998,60900.0,0
+Peugeot,5008,2018,165380,Diesel,1997,72900.0,0
+Volkswagen,Golf,2023,18407,Petrol,1498,99900.0,1
+Volvo,V40,2019,135680,Diesel,1969,58700.0,0
+Audi,A5,2025,1,Hybrid,1984,159309.6,1
+Fiat,Freemont,2014,274044,Diesel,1956,32999.0,1
+Skoda,Superb,2019,137067,Petrol,1984,95817.0,1
+Mercedes-Benz,Klasa C,2022,19728,Petrol,1497,168800.0,1
+Volkswagen,Passat,2025,1,Hybrid Plug-in,1498,209900.0,1
+Renault,Laguna,2010,121400,Diesel,1995,22999.0,0
+Fiat,Tipo,2021,40400,Petrol,999,59900.0,0
+BMW,Seria 1,2023,5,Petrol,1499,143000.0,1
+BMW,Seria 4,2025,5,Petrol,1998,307700.0,1
+Cupra,Formentor,2022,90844,Petrol,1498,113500.0,1
+Jaecoo,7,2025,1,Petrol,1598,125900.0,1
+Nissan,Juke,2017,86000,Petrol+LPG,1197,47500.0,0
+Hyundai,Tucson,2015,136000,Petrol,1591,59900.0,1
+Audi,A6,2022,98070,Diesel,1968,209900.0,1
+Opel,Meriva,2015,116716,Petrol,1364,37999.0,0
+Skoda,Octavia,2024,1,Diesel,1968,146250.0,1
+Cupra,Formentor,2025,10,Petrol,1498,166650.0,1
+Kia,Sportage,2014,169000,Petrol,1591,46900.0,0
+Volkswagen,Tiguan,2015,214000,Diesel,1968,63500.0,1
+Skoda,Octavia,2024,1,Petrol,1498,128350.0,1
+Cupra,Terramar,2025,1,Hybrid,1498,189900.0,1
+Audi,A4,2020,114340,Petrol,1984,119900.0,1
+Nissan,Qashqai,2014,133555,Petrol,1197,39300.0,0
+Saab,9-3,2004,238769,Petrol,1998,21500.0,1
+Mazda,CX-30,2022,18000,Petrol,1998,129900.0,1
+Ford,S-Max,2010,200000,Diesel,1997,29900.0,0
+Toyota,Corolla,2024,1,Petrol,1490,93499.68,1
+Volvo,XC 90,2017,130000,Diesel,1969,129900.0,1
+Opel,Astra,2011,205415,Petrol+LPG,1364,22900.0,0
+Mercedes-Benz,GLC,2020,143170,Diesel,1950,150000.0,1
+Hyundai,i20,2014,143000,Petrol,1248,22999.0,0
+Cupra,Terramar,2024,5,Petrol,1498,203800.0,1
+Audi,A3,2013,215899,Diesel,1598,40900.0,0
+Abarth,500,2011,140000,Petrol,1395,43500.0,0
+Porsche,Macan,2024,1,Petrol,1984,337459.0,1
+Mercedes-Benz,Klasa A,2019,92500,Diesel,1461,77700.0,1
+Volvo,XC 40,2019,156000,Diesel,1969,98500.0,1
+Ford,Mondeo,2011,266400,Diesel,1997,21000.0,0
+Opel,Insignia,2009,280000,Petrol+LPG,1798,17900.0,0
+Opel,Mokka,2017,118580,Petrol,1364,63900.0,1
+Lexus,NX,2017,163481,Petrol,1998,89900.0,1
+Volkswagen,Passat,2015,146000,Diesel,1968,59900.0,1
+Ford,S-Max,2020,102087,Diesel,1995,129900.0,1
+Audi,Q5,2020,96646,Diesel,1968,169900.0,1
+Toyota,Yaris,2023,18900,Hybrid,1490,91000.0,1
+Peugeot,3008,2018,171000,Diesel,1560,65900.0,1
+Audi,Q5,2019,125000,Diesel,1968,129000.0,1
+Skoda,Octavia,2015,216000,Petrol,1395,34900.0,1
+Mercedes-Benz,GLC,2024,1,Petrol,1991,295999.0,1
+BMW,Seria 3,2013,239000,Petrol,1997,47900.0,0
+Toyota,Corolla,2022,29368,Petrol,1496,74899.0,0
+Peugeot,5008,2021,130000,Diesel,1499,98900.0,1
+Mercedes-Benz,Klasa C,2024,1,Diesel,1993,256000.0,1
+Volvo,V60 Cross Country,2024,12570,Petrol,1969,224900.0,1
+Volkswagen,Passat,2006,224139,Petrol,1984,10900.0,0
+Mercedes-Benz,Klasa E,2025,10,Hybrid,1993,329900.0,1
+Dacia,Duster,2013,194677,Petrol,1598,29800.0,0
+Audi,Q5,2022,55771,Diesel,1968,85000.0,1
+Fiat,600,2024,1,Hybrid,1199,92000.0,1
+Renault,Megane,2020,126700,Diesel,1461,48800.0,0
+Toyota,Yaris,2023,43094,Petrol,1496,68500.0,0
+Dacia,Lodgy,2020,78000,Petrol+LPG,1598,55900.0,0
+Skoda,Superb,2018,173000,Diesel,1598,63900.0,1
+Lexus,NX,2025,5,Hybrid,2487,242900.0,1
+Audi,A5,2020,175000,Petrol,1984,98900.0,1
+Audi,A4,2022,64116,Petrol,1984,159900.0,1
+Cupra,Terramar,2024,5,Petrol,1500,187150.0,1
+Volkswagen,Tayron,2025,5,Diesel,1968,224600.0,1
+BMW,X3,2025,1,Diesel,1995,265995.0,1
+BMW,Seria 4,2020,94899,Diesel,1995,104900.0,1
+Peugeot,508,2020,67040,Diesel,1499,72300.0,0
+Renault,Trafic,2023,166000,Diesel,1997,119000.0,0
+Mercedes-Benz,GLB,2021,54500,Petrol,1991,205000.0,1
+Skoda,Superb,2024,1,Petrol,1984,232900.0,1
+Ford,Focus,2018,185400,Petrol,1498,36900.0,0
+Volkswagen,Golf,2025,5,Hybrid,1498,172900.0,1
+Volkswagen,Tiguan,2025,5,Diesel,1968,177900.0,1
+Volkswagen,Passat Alltrack,2022,64000,Diesel,1968,167900.0,1
+Skoda,Kodiaq,2025,5,Petrol,1984,245990.0,1
+Cupra,Formentor,2025,5,Petrol,1498,189030.0,1
+Citroën,C4 Grand Picasso,2007,249200,Petrol,1997,15000.0,1
+Volkswagen,Passat,2015,148448,Petrol,1395,52500.0,0
+Ford,Kuga,2013,237000,Diesel,1997,39900.0,0
+Audi,A4 Allroad,2019,93000,Petrol,1984,119999.0,1
+Skoda,Kodiaq,2020,161000,Diesel,1968,119900.0,1
+Mercedes-Benz,SLC,2016,57000,Petrol,1991,119000.0,1
+Volkswagen,Taigo,2025,5,Petrol,1498,122800.0,1
+Skoda,Kodiaq,2024,5,Diesel,1968,260700.0,1
+Volkswagen,Passat,2021,92000,Petrol,1498,79900.0,1
+Volkswagen,Tiguan,2019,155000,Petrol,1984,116500.0,1
+Audi,A6,2017,107400,Petrol,1984,94999.0,1
+Mercedes-Benz,GLB,2023,25553,Petrol,1991,84600.0,1
+Audi,A5,2025,1,Petrol,1984,259549.68,1
+BMW,X3,2022,29839,Petrol,1998,96400.0,1
+Volvo,V60,2011,230000,Diesel,1984,28900.0,1
+MINI,Countryman,2013,120000,Petrol,1598,39900.0,1
+Volkswagen,Golf Sportsvan,2015,121727,Petrol,1395,41000.0,0
+Audi,A4,2021,50000,Petrol,1984,144900.0,1
+Kia,Optima,2017,271000,Diesel,1685,44999.55,1
+Renault,Espace,2009,240000,Petrol,1998,17900.0,1
+Mazda,3,2023,6928,Petrol,1998,118900.0,0
+Mazda,CX-5,2018,130000,Petrol,1998,87900.0,1
+Fiat,600,2024,1,Hybrid,1199,103000.0,1
+Ford,B-MAX,2013,144120,Petrol,998,27900.0,0
+Cupra,Formentor,2025,1,Petrol,1498,145900.0,1
+Skoda,Fabia,2018,70413,Petrol,999,39999.0,0
+Honda,CR-V,2019,70000,Petrol,1498,99000.0,0
+Suzuki,Swift,2025,3,Hybrid,1197,95390.0,1
+Ford,Puma,2021,18957,Hybrid,999,79900.0,0
+Peugeot,308,2018,168400,Diesel,1560,41900.0,0
+Volkswagen,Tiguan,2022,112500,Petrol,1498,68500.0,1
+Mercedes-Benz,Klasa A,2024,12047,Petrol,1332,157500.0,1
+Mercedes-Benz,CLA,2016,178000,Petrol,1991,79999.0,1
+Ford,Focus,2022,106000,Petrol,999,77700.0,0
+Hyundai,ix35,2012,214267,Petrol+LPG,1998,41000.0,0
+Audi,A5,2024,1,Petrol,1984,240866.0,1
+Renault,Clio,2016,83600,Petrol,1149,29500.0,0
+Volvo,XC 90,2016,186000,Diesel,1969,95000.0,1
+Toyota,Verso S,2013,148141,Diesel,1364,27777.0,0
+Volkswagen,Passat,2019,181205,Diesel,1968,60000.0,0
+Volkswagen,Passat,2024,1,Hybrid Plug-in,1498,226000.0,1
+Peugeot,2008,2020,65000,Petrol,1199,73000.0,1
+Fiat,Tipo,2019,106770,Petrol,1368,41900.0,0
+Ford,Mondeo,2020,100423,Diesel,1997,89900.0,0
+Citroën,C4,2025,5,Petrol,1199,127000.0,1
+Toyota,Prius,2016,58643,Hybrid,1798,65000.0,1
+Skoda,Kodiaq,2023,51741,Diesel,1968,185000.0,1
+Kia,Sportage,2017,117000,Diesel,1685,63900.0,0
+Suzuki,SX4 S-Cross,2023,33387,Hybrid,1373,109800.0,0
+Skoda,Karoq,2025,5,Petrol,1498,160400.0,1
+Mercedes-Benz,Klasa C,2025,5,Petrol,1496,199900.0,1
+Nissan,Qashqai,2019,32821,Petrol,1332,79800.0,0
+Hyundai,i30,2022,74273,Petrol,1498,55500.0,0
+Skoda,Kamiq,2020,99479,Petrol,1498,92900.0,1
+Hyundai,Tucson,2024,1,Hybrid,1598,155900.0,1
+Citroën,C3,2025,5,Petrol,1199,78600.0,0
+Opel,Insignia,2021,188000,Diesel,1955,57899.79,0
+BMW,Seria 4,2015,75000,Diesel,1995,73900.0,1
+Toyota,C-HR,2024,67,Hybrid,1987,163038.0,1
+Audi,Q5,2017,87000,Petrol,1984,54500.0,1
+Audi,Q3,2015,131199,Diesel,1968,79900.0,1
+Mercedes-Benz,GLC,2023,27463,Hybrid Plug-in,1991,289000.0,1
+Audi,A6,2011,301928,Diesel,1968,33900.0,1
+Ford,Ranger,2024,1,Diesel,1995,266896.47,1
+Volvo,V60,2015,170615,Diesel,1969,51900.0,0
+Toyota,Corolla,2022,34447,Petrol,1496,73899.0,0
+Audi,A5,2025,1,Petrol,1984,220500.0,1
+Volkswagen,T-Roc,2022,130000,Petrol,1498,89999.0,1
+Volkswagen,Touran,2020,123959,Petrol,1498,99900.0,1
+Ford,Mondeo,2019,220000,Diesel,1997,48900.0,0
+BMW,Seria 2,2023,16759,Diesel,1995,155900.0,1
+Toyota,Aygo,2021,43700,Petrol,998,39200.0,0
+Subaru,Forester,2021,116300,Hybrid,1995,109800.0,1
+Volkswagen,Arteon,2021,25000,Diesel,1968,139900.0,1
+Volkswagen,Caravelle,2009,306000,Diesel,1968,55000.0,0
+Mazda,6,2012,76000,Petrol,1998,49800.0,0
+Toyota,RAV4,2018,151912,Hybrid,2494,89900.0,1
+Nissan,Qashqai,2018,135000,Diesel,1461,58900.0,0
+Citroën,C4 Picasso,2013,167860,Petrol,1598,26000.0,0
+Audi,Q3,2015,192900,Diesel,1968,76300.0,1
+Ford,Fiesta,2018,92750,Petrol,998,41900.0,0
+Opel,Crossland,2022,15000,Petrol,1199,69800.0,0
+Audi,A6,2017,220000,Diesel,1968,85300.0,1
+Kia,XCeed,2021,77565,Petrol,1482,81900.0,0
+Mitsubishi,Space Star,2023,27240,Petrol,1193,44800.0,0
+Skoda,Kodiaq,2024,5,Diesel,1968,262800.0,1
+Honda,HR-V,2017,167000,Diesel,1597,53500.0,0
+Kia,Ceed,2021,80587,Diesel,1582,59900.0,0
+BMW,Seria 5,2024,10000,Hybrid Plug-in,1998,319900.0,1
+Audi,Q7,2022,12000,Petrol,1998,214999.0,1
+Citroën,C4 Cactus,2015,140532,Petrol,1199,19900.0,0
+Ford,Mondeo,2011,239000,Diesel,1997,29900.0,0
+Renault,Espace,2009,288000,Diesel,1995,17700.0,1
+Ford,Kuga,2021,19210,Petrol,1496,109900.0,0
+Nissan,Qashqai,2017,85000,Petrol,1618,79990.0,0
+Omoda,5,2024,1,Petrol,1598,119999.0,1
+Toyota,Corolla,2022,64000,Hybrid,1798,89900.0,1
+Ford,Transit Custom,2016,271000,Diesel,2198,42000.0,0
+Renault,Clio,2012,176000,Petrol,1149,17900.0,0
+Ford,S-Max,2011,141800,Petrol,1596,29900.0,0
+Opel,Grandland,2022,41306,Petrol,1199,99900.0,1
+BMW,X4,2019,105287,Diesel,1995,154000.0,1
+Audi,Q5,2020,81508,Diesel,1968,159900.0,1
+Mitsubishi,Outlander,2014,218200,Hybrid Plug-in,1998,49900.0,1
+BMW,X3,2025,1,Diesel,1995,287600.0,1
+Hyundai,Santa Fe,2016,185000,Diesel,1995,79800.0,1
+Mercedes-Benz,CLS,2022,63000,Hybrid,1992,244000.0,1
+Cupra,Formentor,2025,10,Petrol,1984,179400.0,1
+Renault,Megane,2011,129743,Petrol,1598,19000.0,0
+Hyundai,Tucson,2025,1,Hybrid,1598,183380.0,1
+Opel,Meriva,2011,149316,Petrol,1398,22700.0,0
+Volvo,XC 60,2022,73000,Diesel,1969,164800.0,1
+Volkswagen,T-Cross,2025,5,Petrol,999,85300.0,0
+Mazda,6,2017,142000,Petrol,2488,95000.0,1
+Honda,Civic,2014,115000,Diesel,1597,32900.0,0
+Volvo,V60,2018,303000,Diesel,1969,73900.0,1
+Peugeot,3008,2023,1,Diesel,1499,144000.0,1
+Toyota,Proace City Verso,2021,127611,Diesel,1499,74900.0,0
+Audi,Q3,2022,71805,Diesel,1968,165900.0,1
+Toyota,Corolla,2022,64063,Hybrid,1986,102900.0,1
+BMW,Seria 5,2021,162000,Hybrid Plug-in,1998,139974.0,1
+Skoda,Superb,2018,187000,Petrol,1984,94000.0,1
+Mercedes-Benz,Klasa E,2024,1,Diesel,1950,311899.99,1
+Nissan,Qashqai,2013,190000,Diesel,1598,35900.0,0
+Audi,Q3,2017,98568,Petrol,1984,40000.0,1
+Toyota,Camry,2021,170800,Hybrid,2487,109500.0,1
+Nissan,Qashqai,2019,118000,Petrol,1332,64900.0,0
+Nissan,Micra,2011,97322,Petrol,1198,15999.0,0
+Cupra,Terramar,2025,5,Petrol,1500,199900.0,1
+Mercedes-Benz,Klasa C,2023,76900,Diesel,1950,209900.0,1
+Peugeot,207,2011,112300,Petrol,1360,16900.0,0
+Skoda,Octavia,2025,5,Petrol,1999,175900.0,1
+Suzuki,SX4 S-Cross,2023,21417,Hybrid,1373,108900.0,0
+Volkswagen,Multivan,2024,10,Diesel,1968,312543.0,1
+Jeep,Avenger,2024,1,Hybrid,1199,125000.0,1
+Volkswagen,Golf,2025,5,Petrol,1498,117900.0,0
+Volkswagen,T-Roc,2025,5,Petrol,999,111900.0,0
+Ford,Focus,2018,183000,Diesel,1997,38500.0,1
+Land Rover,Range Rover Evoque,2018,85100,Diesel,1999,99000.0,1
+Audi,A6,2011,198600,Petrol,1984,34900.0,1
+Volvo,V60,2016,193493,Petrol,1969,46900.0,0
+Volvo,XC 90,2021,46000,Hybrid Plug-in,1969,223860.0,1
+Citroën,C4 Grand Picasso,2014,205315,Diesel,1560,33900.0,1
+Audi,A3,2009,193815,Petrol,1595,31900.0,1
+Nissan,Qashqai,2024,6,Petrol,1332,148300.0,1
+Fiat,600,2024,1,Hybrid,1199,99499.0,1
+Audi,Q5,2020,170000,Diesel,1968,136700.0,1
+Mercedes-Benz,Klasa E,2024,1,Diesel,1993,321000.0,1
+Fiat,500,2019,74093,Petrol,1242,47900.0,0
+Toyota,Yaris,2020,55770,Petrol,998,49900.0,0
+Volvo,XC 90,2020,100000,Hybrid Plug-in,1969,189912.0,1
+Skoda,Kodiaq,2025,1,Diesel,1968,222500.0,1
+DS Automobiles,DS 4,2016,147000,Petrol,1199,43900.0,0
+Kia,Ceed,2025,10,Petrol,1482,115800.0,1
+Mercedes-Benz,Klasa C,2024,1,Diesel,1993,268189.0,1
+Volkswagen,T-Cross,2025,9,Petrol,999,94180.0,0
+Skoda,Octavia,2014,290000,Petrol,1798,33900.0,0
+Mazda,CX-5,2018,50734,Petrol,2488,39000.0,1
+Toyota,Camry,2025,1,Hybrid,2487,177386.0,1
+Jeep,Renegade,2025,1,Hybrid Plug-in,1332,173617.0,1
+Dacia,Jogger,2025,1,Petrol+LPG,999,89229.0,0
+Opel,Crossland X,2024,1200,Petrol,1199,75800.0,0
+Mazda,CX-5,2024,4,Petrol,1998,159999.0,1
+BMW,X2,2018,157000,Petrol,1998,79900.0,1
+Jeep,Grand Cherokee,2023,34383,Hybrid Plug-in,1995,119000.0,1
+Renault,Grand Scenic,2017,78000,Petrol,1197,43500.0,0
+Jeep,Wrangler,2020,85659,Petrol,1995,115497.0,1
+Skoda,Superb,2016,105000,Petrol,1798,77700.0,0
+Hyundai,Tucson,2025,10,Petrol,1598,135500.0,1
+Omoda,5,2024,1,Petrol,1598,112490.0,1
+Skoda,RAPID,2014,265000,Diesel,1598,20000.0,0
+Volkswagen,Passat,2025,5,Hybrid,1498,226600.0,1
+Audi,Q5 Sportback,2024,1,Diesel,1968,223500.0,1
+Honda,Civic,2017,110000,Petrol,988,48000.0,0
+Volkswagen,Passat,2024,1,Hybrid Plug-in,1498,226000.0,1
+MINI,Clubman,2018,73980,Petrol,1998,79000.0,1
+BMW,Seria 5,2017,117300,Diesel,1995,114800.0,1
+Dacia,Sandero,2014,203325,Diesel,1461,17900.0,0
+Toyota,ProAce,2021,186100,Diesel,1997,92500.0,0
+Ford,Fiesta,2015,29200,Petrol,998,30500.0,0
+Seat,Arona,2025,5,Petrol,999,122969.0,1
+Audi,Q5,2020,85500,Diesel,1968,164999.0,1
+Volkswagen,Golf,2021,134358,Diesel,1968,84800.0,1
+Skoda,Karoq,2022,44719,Diesel,1968,135000.0,1
+Ford,Mondeo,2020,228132,Diesel,1997,65700.0,1
+Volvo,XC 60,2019,113000,Petrol,1969,133700.0,1
+Opel,Meriva,2015,93000,Petrol,1364,32000.0,0
+Volvo,XC 40,2019,156000,Diesel,1969,95900.0,1
+Volkswagen,Polo,2014,70000,Petrol,1197,31800.0,0
+Audi,A3,2010,152334,Petrol,1595,28999.0,0
+Skoda,Superb,2018,241620,Diesel,1968,95000.0,1
+Ford,Kuga,2012,215000,Diesel,1997,34800.0,0
+Citroën,C4 Cactus,2018,144000,Petrol,1199,35900.0,0
+Fiat,Tipo,2017,168000,Petrol,1368,29999.0,0
+Kia,Sportage,2014,119000,Petrol,1591,49900.0,0
+Citroën,C3 Picasso,2011,136200,Petrol,1598,16900.0,0
+Volvo,XC 40,2021,42000,Petrol,1969,59900.0,1
+Honda,HR-V,2017,270000,Diesel,1597,55000.0,0
+Mazda,CX-30,2019,78258,Hybrid,1998,97900.0,0
+Mercedes-Benz,Klasa T,2024,8288,Diesel,1461,165904.86,1
+Ford,B-MAX,2015,167000,Petrol,998,25990.0,0
+Honda,Civic,2021,93327,Petrol,1996,166666.0,0
+Mazda,3,2007,223000,Diesel,1560,8500.0,0
+Skoda,Karoq,2023,17000,Petrol,1498,119900.0,1
+Volkswagen,T-Roc,2024,1,Petrol,1498,138500.0,1
+BMW,X2,2018,67100,Petrol,1998,93000.0,0
+Audi,A4,2002,217000,Petrol,1781,12600.0,0
+Peugeot,3008,2017,164000,Diesel,1560,64800.0,0
+Omoda,5,2025,1,Petrol,1598,113800.0,1
+Skoda,Kodiaq,2025,5,Petrol,1498,202700.0,1
+Audi,Q5 Sportback,2024,1,Diesel,1968,237800.0,1
+Mercedes-Benz,Klasa E,2021,80500,Diesel,1950,77900.0,1
+Volvo,XC 60,2018,146000,Diesel,1969,106900.0,1
+Alfa Romeo,Tonale,2024,1,Petrol,1469,182900.0,1
+Volkswagen,Touran,2025,10,Petrol,1498,136890.0,0
+Volkswagen,Touran,2024,1,Petrol,1498,166900.0,0
+BMW,Seria 3,2015,197000,Diesel,1995,53900.0,1
+Opel,Crossland,2021,96000,Petrol,1199,49000.0,0
+Lexus,UX,2020,70000,Hybrid,1987,94999.0,1
+Mercedes-Benz,GLA,2019,190500,Petrol,1595,69000.0,1
+Volkswagen,Caddy,2025,5,Diesel,1968,204057.0,1
+Opel,Insignia,2015,137000,Petrol,1364,39900.0,0
+Opel,Mokka,2019,49999,Petrol,1364,66900.0,0
+Mercedes-Benz,Klasa C,2024,1,Hybrid,1993,326000.0,1
+Volkswagen,Passat,2025,5,Petrol,1984,187900.0,1
+Toyota,Avensis,2009,265000,Petrol,1798,25900.0,0
+Volkswagen,Golf,2015,230000,Diesel,1968,41800.0,1
+Toyota,Avensis,2018,147000,Petrol,1798,68950.0,1
+Volkswagen,Taigo,2025,1,Petrol,999,98200.0,1
+Seat,Leon,2017,179000,Petrol,1395,59850.0,1
+Skoda,Kodiaq,2020,149361,Diesel,1968,139900.0,1
+Hyundai,i30,2022,103830,Petrol,1498,51900.0,0
+Volkswagen,Passat,2012,279000,Diesel,1598,26200.0,0
+Volvo,XC 60,2022,68000,Diesel,1969,149900.0,1
+Skoda,Scala,2019,73400,Petrol,999,64800.0,0
+Chevrolet,Cruze,2013,151000,Diesel,1998,26300.0,0
+Audi,A6,2024,10,Diesel,1968,209900.0,1
+Mercedes-Benz,GLC,2019,88790,Petrol,1991,122000.0,1
+Volvo,XC 60,2025,1,Petrol,1969,216600.0,1
+Suzuki,SX4 S-Cross,2024,5,Hybrid,1462,134900.0,1
+Cupra,Ateca,2022,135000,Petrol,1984,129999.0,1
+BMW,Seria 3,2020,146000,Diesel,1995,67900.0,1
+Seat,Arona,2025,5,Petrol,999,114139.0,1
+Volvo,XC 60,2019,196000,Diesel,1969,109900.5,1
+Peugeot,2008,2017,97000,Petrol,1199,37900.0,0
+Mercedes-Benz,Klasa C,2024,1,Diesel,1950,243193.0,1
+Volkswagen,Tiguan,2024,1,Diesel,1968,185000.0,1
+Opel,Astra,2011,216253,Petrol,1362,20800.0,0
+Toyota,Yaris,2022,17650,Hybrid,1497,91900.0,1
+Ford,Focus,2020,70030,Petrol,999,72900.0,0
+BMW,X3,2025,1,Petrol,1998,247600.0,1
+Hyundai,Tucson,2022,37000,Hybrid,1598,69900.0,1
+Mercedes-Benz,GLA,2014,169000,Petrol,1595,68900.0,1
+Mercedes-Benz,GLC,2025,1,Hybrid,1999,273580.0,1
+Volkswagen,Tayron,2025,1,Diesel,1984,280700.0,1
+Lexus,CT,2017,114900,Hybrid,1798,69900.0,1
+Mitsubishi,ASX,2012,224245,Petrol,1590,33200.0,0
+Skoda,Superb,2024,5,Petrol,1984,241500.0,1
+MINI,Cooper S,2017,91500,Petrol,1998,59900.0,1
+Ford,Focus,2017,183362,Diesel,1498,28900.0,0
+Skoda,Fabia,2024,7,Petrol,999,99000.0,1
+Volkswagen,Tiguan,2025,5,Hybrid Plug-in,1498,211900.0,1
+Peugeot,308,2019,130238,Diesel,1499,39500.0,0
+Volvo,V60,2020,142000,Diesel,1969,79900.0,1
+Citroën,C4,2012,250584,Diesel,1560,19800.0,0
+Skoda,Octavia,2019,125000,Diesel,1968,63900.0,0
+Toyota,RAV4,2021,44636,Hybrid Plug-in,2487,179900.0,1
+BMW,Seria 4,2022,54800,Diesel,1995,178350.0,1
+Volkswagen,Touran,2025,5,Petrol,1498,166900.0,1
+Kia,Sportage,2025,10,Hybrid,1598,157300.0,1
+Mazda,3,2016,212000,Petrol,1998,46000.0,0
+Toyota,Yaris,2024,1,Hybrid,1497,100300.0,1
+Volvo,V90 Cross Country,2017,92000,Petrol,1969,109000.0,1
+Ford,Focus,2025,1,Hybrid,999,105000.0,1
+Kia,Ceed,2023,19850,Petrol,1482,94700.0,1
+Toyota,Avensis,2006,123000,Petrol,1794,17800.0,0
+Peugeot,308,2023,25000,Petrol,1199,8500.0,1
+Cupra,Leon Sportstourer,2025,1,Petrol,1498,160200.0,1
+Ford,Edge,2017,173340,Diesel,1997,83900.0,1
+Skoda,Kodiaq,2024,7,Petrol,1984,227950.0,1
+Toyota,Camry,2023,20661,Hybrid,2487,183700.0,1
+Skoda,Octavia,2021,157601,Petrol,1498,72900.0,0
+Toyota,RAV4,2020,85760,Hybrid,2487,119899.17,1
+Peugeot,Partner,2015,190000,Diesel,1560,30400.0,0
+Audi,A3,2024,5,Petrol,1498,181631.0,1
+Opel,Mokka,2015,182000,Diesel,1598,34900.0,0
+Mercedes-Benz,GLB,2023,27523,Petrol,1332,179900.0,1
+Mercedes-Benz,GLA,2015,82000,Petrol,1991,93999.0,1
+Renault,Koleos,2009,181000,Diesel,1995,19000.0,0
+BMW,Seria 5,2021,64000,Diesel,1995,179900.0,1
+Skoda,Citigo,2016,56237,Petrol+LPG,999,34900.0,0
+Toyota,Yaris,2020,30000,Hybrid,1497,81600.0,1
+Skoda,Superb,2014,280700,Diesel,1968,37000.0,1
+Mercedes-Benz,Vito,2022,42656,Diesel,1950,169900.0,1
+Kia,XCeed,2024,3000,Petrol,1482,124900.0,1
+Nissan,X-Trail,2010,253000,Diesel,1995,26500.0,0
+Mercedes-Benz,Klasa C,2010,190000,Petrol+LPG,1597,33600.0,0
+Renault,Espace,2019,105000,Diesel,1997,87900.0,1
+Cupra,Terramar,2024,7,Petrol,1984,244600.0,1
+Volkswagen,Passat,2016,173000,Petrol,1395,59900.0,0
+Audi,A6 Allroad,2022,43751,Diesel,1968,229900.0,1
+Kia,Sorento,2023,7143,Hybrid Plug-in,1598,219900.0,1
+Renault,Kadjar,2019,79000,Diesel,1461,64000.0,1
+Mercedes-Benz,GLA,2024,7290,Petrol,1332,186900.0,1
+Fiat,Doblo,2024,1,Diesel,1499,104425.77,0
+Jeep,Compass,2017,176000,Petrol,1368,75900.0,1
+Volkswagen,Tiguan,2013,100000,Petrol,1390,45000.0,0
+Mercedes-Benz,Klasa C,2020,186000,Diesel,1950,99999.0,1
+Volkswagen,Tiguan,2013,191000,Diesel,1968,52800.0,0
+Volvo,XC 90,2017,108500,Petrol,1969,119800.0,1
+Nissan,Micra,2011,132000,Petrol,1198,16900.0,0
+Volkswagen,Tiguan,2014,207094,Diesel,1968,41900.0,0
+Audi,A6,2014,286000,Diesel,1968,52890.0,1
+Mercedes-Benz,GLC,2024,19100,Diesel,1993,299900.0,1
+Kia,Ceed,2022,147835,Petrol,1482,61000.0,0
+Audi,Q5,2018,114000,Diesel,1968,143000.0,1
+Volkswagen,Sharan,2017,195726,Diesel,1968,104900.0,1
+Kia,Sportage,2023,43755,Petrol,1598,109800.0,1
+Isuzu,D-Max,2023,37481,Diesel,1898,178000.0,1
+Kia,Stonic,2020,24808,Hybrid,998,72900.0,0
+Skoda,Octavia,2012,226800,Diesel,1968,36000.0,0
+Mercedes-Benz,GLA,2017,96100,Diesel,1461,78900.0,1
+Volkswagen,T-Roc,2021,42700,Petrol,1498,112900.0,1
+Toyota,Avensis,2009,175000,Petrol,1798,29900.0,0
+Cupra,Leon,2025,5,Petrol,1498,148200.0,1
+Hyundai,Tucson,2018,57000,Petrol,1591,77800.0,0
+Hyundai,Tucson,2024,1,Hybrid,1598,146700.0,1
+Mercedes-Benz,Klasa E,2023,27380,Diesel,1993,234900.0,1
+Audi,A6,2019,191000,Hybrid,1968,105000.0,1
+Hyundai,i30,2013,188859,Petrol,1396,27500.0,0
+Kia,Sportage,2015,132855,Diesel,1685,47900.0,0
+Audi,A6,2021,54061,Hybrid Plug-in,1984,181999.41,1
+Volkswagen,Tiguan,2025,5,Hybrid Plug-in,1498,188900.0,1
+Audi,Q5 Sportback,2025,5,Petrol,1984,299243.0,1
+Mercedes-Benz,GLC,2025,1,Diesel,1993,286300.0,1
+Skoda,Superb,2020,40700,Petrol,1984,132900.0,1
+Toyota,Proace City,2022,136074,Diesel,1500,69900.0,0
+Toyota,RAV4,2020,118000,Hybrid,2487,125000.0,1
+Volvo,V40,2014,227479,Diesel,1969,35900.0,0
+Skoda,Octavia,2015,229800,Petrol,1395,45000.0,0
+Seat,Leon,2023,30000,Diesel,1968,114900.0,0
+Hyundai,i30,2022,87075,Petrol,1498,53900.0,0
+Toyota,Camry,2024,5,Hybrid,2487,207500.0,1
+Toyota,Yaris Cross,2025,1,Hybrid,1490,154000.0,1
+Volkswagen,Taigo,2024,5,Petrol,1498,127000.0,1
+BMW,Seria 5,2024,1,Diesel,1995,269900.0,1
+Mercedes-Benz,GLC,2024,6,Hybrid,1993,311900.01,1
+Mitsubishi,Lancer,2009,249000,Petrol,1798,9900.0,0
+Peugeot,308,2015,162000,Petrol,1199,18900.0,0
+Mercedes-Benz,GLA,2025,10,Hybrid,1991,242900.0,1
+Volkswagen,Passat,2019,123023,Diesel,1968,109900.0,1
+Ford,Mondeo,2018,216600,Diesel,1997,52998.24,1
+Suzuki,Swift,2025,3,Hybrid,1197,94390.0,1
+Skoda,Octavia,2013,209265,Diesel,1968,45000.0,1
+Opel,Astra,2011,224255,Petrol,1598,28600.0,0
+Peugeot,208,2021,45000,Petrol,1199,55000.0,0
+Volkswagen,Tayron,2025,5,Petrol,1984,252000.0,1
+Skoda,RAPID,2018,68000,Petrol,999,48900.0,0
+Volkswagen,Polo,2020,34900,Petrol,1984,82700.0,1
+Toyota,Proace City Verso,2020,101000,Diesel,1499,61900.0,0
+Lexus,UX,2023,13203,Hybrid,1987,162000.0,1
+Fiat,500X,2021,43000,Petrol,999,64500.0,0
+Hyundai,i30,2023,2600,Petrol,998,95500.0,0
+Fiat,600,2024,1,Hybrid,1199,99499.0,1
+Mercedes-Benz,CLA,2024,11300,Petrol,1332,199900.0,1
+Opel,Mokka,2021,69200,Petrol,1199,83000.0,1
+BMW,Seria 1,2008,165867,Petrol,1599,15200.0,0
+Kia,Picanto,2018,107000,Petrol,998,29900.0,0
+Renault,Megane,2021,56431,Diesel,1461,61900.0,0
+Volvo,XC 60,2018,76450,Diesel,1969,108400.0,0
+Jaguar,XF,2019,75764,Petrol,1997,115000.0,1
+Kia,Sportage,2025,1,Petrol,1598,133501.0,1
+Volkswagen,Tiguan,2025,5,Petrol,1984,243900.0,1
+Mazda,6,2015,198672,Diesel,2191,49000.0,1
+Citroën,C4 Cactus,2015,115650,Petrol,1199,36900.0,0
+Skoda,Superb,2024,1,Diesel,1968,215000.0,1
+Cupra,Terramar,2024,1,Petrol,1984,236900.0,1
+BMW,Seria 5,2011,179000,Petrol,1997,42000.0,1
+Audi,A3,2023,19178,Petrol,1984,138000.0,1
+Skoda,Octavia,2016,239000,Diesel,1968,37900.0,1
+Volkswagen,Tiguan,2025,5,Petrol,1998,217900.0,1
+Mercedes-Benz,GLC,2025,1,Petrol,1999,275400.0,1
+Audi,Q5,2025,1,Petrol,1984,270800.0,1
+Kia,Sportage,2025,1,Petrol,1598,149426.0,1
+Mercedes-Benz,Klasa A,2016,111531,Petrol,1595,68900.0,1
+Porsche,718 Boxster,2023,23534,Petrol,1988,319000.0,1
+Nissan,Juke,2010,182000,Petrol,1598,33800.0,1
+Skoda,Superb,2017,123679,Petrol,1984,105000.0,1
+Kia,Sportage,2025,1,Petrol,1598,133501.0,1
+Kia,Ceed,2025,10,Petrol,1482,121800.0,1
+Cupra,Formentor,2024,10,Petrol,1498,161292.0,1
+Ford,Mondeo,2016,238000,Petrol,1499,40900.0,0
+Toyota,Yaris,2013,165000,Hybrid,1497,35800.0,0
+Volkswagen,Passat,2025,5,Hybrid,1498,185200.0,1
+Audi,A3,2008,233140,Diesel,1968,25900.0,0
+Jaguar,F-Pace,2022,25700,Hybrid,1997,249000.0,1
+Ford,Kuga,2012,136000,Diesel,1997,38500.0,1
+Audi,A6,2018,186000,Petrol,1984,87600.0,1
+BMW,Seria 5,2017,232730,Petrol,1998,94900.0,1
+BMW,Seria 5,2016,127000,Diesel,1995,74900.0,1
+Porsche,Macan,2021,51257,Petrol,1984,279000.0,1
+Citroën,C1,2011,149000,Petrol,998,11700.0,0
+Ford,Focus,2017,79000,Petrol,2261,99000.0,0
+BMW,X1,2025,1,Diesel,1998,200100.0,1
+Volkswagen,Touran,2019,70599,Petrol,1498,84900.0,1
+Renault,Clio,2013,120000,Petrol,898,24900.0,0
+Kia,Venga,2018,97900,Petrol,1591,49500.0,0
+Peugeot,308,2008,254200,Diesel,1560,9999.0,0
+Skoda,Scala,2025,5,Petrol,1498,137900.0,1
+Audi,Q5 Sportback,2024,1,Hybrid,1968,223696.0,1
+Nissan,Micra,2017,51500,Petrol,998,37900.0,0
+Volvo,XC 60,2023,22956,Hybrid,1969,209000.0,1
+Hyundai,i30,2019,47270,Petrol,1368,52900.0,0
+Hyundai,i40,2014,182000,Diesel,1685,37500.0,1
+Kia,Picanto,2022,31435,Petrol,998,42500.0,0
+Kia,XCeed,2025,10,Petrol,1482,106000.0,0
+Volkswagen,Transporter,2020,165000,Diesel,1996,99000.0,1
+Skoda,Kamiq,2025,10,Petrol,999,114900.0,0
+Peugeot,5008,2017,100000,Diesel,1997,79999.0,0
+Mercedes-Benz,GLC,2023,36000,Diesel,1993,219900.0,1
+Volkswagen,Passat Alltrack,2022,134893,Diesel,1968,124899.0,1
+Audi,A6,2022,39969,Diesel,1968,209900.0,1
+Seat,Ibiza,2007,216400,Petrol+LPG,1390,8500.0,0
+Audi,A1,2012,129500,Petrol,1390,40000.0,0
+Ford,Focus,2024,27072,Hybrid,999,89900.0,0
+Skoda,Kamiq,2025,5,Petrol,1498,129900.0,1
+Audi,Q5 Sportback,2024,1,Diesel,1968,227600.0,1
+Volkswagen,Passat,2025,5,Petrol,1984,227900.0,1
+Volvo,XC 60,2023,61065,Diesel,1969,189990.0,1
+Volkswagen,Multivan,2024,5,Petrol,1984,245877.0,1
+Kia,Sportage,2025,10,Petrol,1598,154400.0,1
+Mitsubishi,Eclipse Cross,2021,125000,Hybrid Plug-in,2360,37500.0,1
+Opel,Meriva,2010,240000,Petrol,1364,13900.0,0
+Jaecoo,7,2024,1,Petrol,1598,153163.0,1
+Volkswagen,Golf,2024,5,Petrol,1498,150500.0,0
+Volkswagen,T-Roc,2024,1,Petrol,1498,145900.0,1
+Renault,Clio,2019,57000,Petrol,898,31900.0,0
+BMW,3GT,2020,138000,Diesel,1995,89900.0,1
+BMW,Seria 5,2023,15250,Hybrid,1998,229900.0,1
+Dacia,Duster,2024,205,Petrol,1199,119000.0,0
+Audi,A6,2019,187000,Diesel,1968,129900.0,1
+Peugeot,3008,2019,79000,Petrol,1199,66900.0,0
+Nissan,Qashqai,2016,107000,Diesel,1598,59999.0,1
+Kia,Ceed,2025,10,Petrol,1482,115800.0,1
+Audi,Q2,2024,7000,Petrol,1498,169999.0,1
+Renault,Arkana,2022,34000,Petrol,1332,109500.0,1
+Renault,Captur,2024,15,Petrol,999,80390.0,0
+Kia,Ceed,2023,11173,Petrol,1482,78900.0,0
+Audi,A5,2024,1,Petrol,1984,225000.0,1
+Volkswagen,Arteon,2017,290000,Diesel,1968,69800.0,1
+Nissan,Qashqai,2021,84000,Diesel,1461,75900.0,1
+Ford,Focus,2019,119520,Petrol,999,62900.0,0
+Hyundai,Tucson,2025,9,Petrol,1598,124800.0,0
+Skoda,Octavia,2011,170550,Petrol,1798,19500.0,0
+Citroën,C5 Aircross,2024,6000,Hybrid Plug-in,1598,159900.0,1
+Audi,Q5,2011,136000,Diesel,1968,62000.0,1
+Hyundai,i30 N,2018,104000,Petrol,1998,82000.0,0
+Renault,Trafic,2023,100,Diesel,1997,264450.0,1
+Kia,Ceed,2021,93166,Diesel,1598,56899.0,0
+Peugeot,208,2017,168500,Diesel,1560,24000.0,0
+MINI,Cooper,2022,82769,Petrol,1499,89900.0,1
+Audi,Q5,2013,195000,Diesel,1968,70900.0,1
+Honda,CR-V,2021,27000,Petrol,1498,119900.0,1
+Honda,Jazz,2010,107930,Petrol,1339,29900.0,1
+Mercedes-Benz,Citan,2021,20918,Diesel,1461,98000.0,0
+Citroën,C5 Aircross,2019,172000,Petrol,1598,72900.0,1
+Toyota,Proace Verso,2024,1,Diesel,1997,206638.77,1
+Volkswagen,Tiguan,2025,1,Petrol,1498,204910.0,1
+Subaru,Outback,2019,113480,Petrol,2498,119000.0,1
+Audi,A6,2024,1,Diesel,1968,295807.0,1
+Volkswagen,Passat,2025,5,Petrol,1498,227225.0,1
+Citroën,C3,2025,5,Petrol,1199,78600.0,0
+Volkswagen,Transporter,2025,6,Diesel,1968,213897.0,1
+Renault,Talisman,2018,180700,Diesel,1598,61500.0,1
+Volvo,V90,2017,144000,Petrol,1969,106000.0,1
+Cupra,Formentor,2025,1,Petrol,1498,163100.0,1
+Peugeot,407,2005,230000,Petrol,1749,10900.0,0
+BMW,Seria 3,2014,194000,Diesel,1995,54000.0,1
+Citroën,C3,2011,110000,Petrol,1360,17400.0,0
+Volkswagen,Caddy,2011,202834,Diesel,1598,29500.0,0
+Fiat,500,2024,7320,Petrol,999,54900.0,0
+Volvo,V60,2021,65000,Hybrid,1969,132900.0,1
+Volkswagen,Tiguan,2025,5,Hybrid,1498,241900.0,1
+Ford,Kuga,2013,238000,Diesel,1997,41900.0,0
+Volvo,XC 60,2025,10,Hybrid Plug-in,1969,317500.0,1
+Mercedes-Benz,SLK,2015,173000,Petrol,1796,74900.0,1
+Opel,Astra,2012,184300,Petrol,1364,28900.0,1
+Ford,Mondeo,2020,176000,Diesel,1995,66999.0,1
+Mercedes-Benz,GLC,2024,12300,Hybrid Plug-in,1993,319900.0,1
+BMW,Seria 5,2019,149000,Diesel,1995,89900.0,1
+Fiat,600,2025,1,Hybrid,1199,99499.0,1
+Skoda,Kodiaq,2022,99900,Petrol,1984,169900.0,1
+Hyundai,i30,2014,206000,Petrol,1591,32900.0,0
+Kia,Sportage,2015,123000,Diesel,1685,51900.0,0
+Toyota,Corolla,2021,80000,Hybrid,1798,80000.0,1
+BMW,Seria 3,2017,182000,Diesel,1995,64900.0,0
+Cupra,Leon,2025,5,Petrol,1984,191000.0,1
+Skoda,Superb,2024,1,Diesel,1968,253550.0,1
+Toyota,C-HR,2022,23050,Hybrid,1987,122900.0,1
+Volkswagen,Polo,2008,213000,Petrol+LPG,1390,8500.0,0
+Audi,A3,2024,5,Hybrid Plug-in,1395,165700.0,1
+Hyundai,Elantra,2023,26012,Petrol,1598,92900.0,1
+BMW,X1,2017,153151,Diesel,1995,84898.29,1
+Mercedes-Benz,GLA,2016,95561,Petrol,1595,91000.0,1
+Ford,EcoSport,2019,115000,Petrol,1999,58000.0,1
+Peugeot,208,2024,3,Petrol,1199,98280.0,1
+Opel,Astra,2021,161640,Diesel,1496,36900.0,0
+Volkswagen,T-Roc,2025,5,Petrol,1498,123900.0,1
+Volvo,XC 40,2024,22490,Petrol,1969,166900.0,1
+Hyundai,Tucson,2016,140000,Petrol,1591,59800.0,0
+Peugeot,3008,2018,136000,Diesel,1499,67500.0,0
+Toyota,Camry,2024,5,Hybrid,2487,214900.0,1
+Volkswagen,Passat,2022,106000,Petrol,1498,82450.0,1
+Toyota,RAV4,2021,156043,Hybrid,2487,135800.0,1
+BMW,X1,2020,38600,Petrol,1499,104999.0,1
+BMW,X5,2018,153000,Diesel,1995,138000.0,1
+Fiat,500X,2021,19500,Petrol,1332,69800.0,1
+BMW,Seria 3,2005,183000,Petrol,1995,9400.0,0
+Opel,Astra,2004,151726,Petrol,1364,7200.0,0
+Subaru,WRX,2021,74900,Petrol,2457,135000.0,0
+Volkswagen,Caravelle,2021,154565,Diesel,1968,159999.0,1
+Skoda,Superb,2017,117145,Petrol,1984,75000.0,1
+Hyundai,Bayon,2025,5,Petrol,998,93900.0,0
+Renault,Trafic,2022,86756,Diesel,1997,139900.0,0
+Audi,A6,2024,10,Hybrid,1968,262181.0,1
+Toyota,Auris,2019,178496,Hybrid,1798,50900.0,1
+Ford,Kuga,2021,30114,Petrol,1499,111900.0,0
+Volkswagen,Caddy,2025,10,Diesel,1968,195164.1,0
+Volkswagen,Tiguan,2014,107000,Diesel,1968,52900.0,1
+Volkswagen,Passat,2025,1,Petrol,1498,161755.0,1
+Suzuki,Vitara,2019,50000,Petrol,998,62500.0,0
+Volvo,XC 40,2024,26310,Petrol,1969,169900.0,1
+Skoda,Octavia,2021,138714,Petrol,999,59900.0,0
+BMW,Seria 4,2023,28000,Petrol,1998,198000.0,1
+Toyota,RAV4,2015,128124,Petrol,1987,79900.0,1
+Subaru,Forester,2018,111000,Petrol,1995,91000.0,1
+Seat,Leon,2023,13231,Petrol,1498,89900.0,0
+Chevrolet,Orlando,2012,226900,Petrol+LPG,1796,26500.0,0
+MG,MG3,2024,1,Hybrid,1499,87950.01,1
+Volvo,XC 60,2022,33800,Diesel,1969,199900.0,1
+Toyota,Camry,2025,1,Hybrid,2487,164472.0,1
+Baic,Beijing 3,2025,5,Petrol,1499,84900.0,0
+Opel,Insignia,2015,160000,Diesel,1956,32900.0,0
+Honda,HR-V,2020,105000,Petrol,1498,79900.0,1
+BMW,Seria 2,2018,132000,Petrol,1998,83000.0,1
+Mercedes-Benz,Klasa T,2024,5000,Petrol,1332,167157.0,1
+Volkswagen,Caddy,2025,5,Diesel,1968,164943.0,1
+Nissan,Townstar,2024,1850,Petrol,1333,132900.0,0
+Volkswagen,CC,2012,199000,Petrol,1984,36900.0,1
+Mercedes-Benz,Klasa C,2018,180000,Petrol,1991,88500.0,1
+Toyota,Proace Verso,2024,41603,Diesel,1997,204900.0,1
+Kia,Optima,2017,157200,Diesel,1685,57000.0,0
+Skoda,Fabia,2024,4,Petrol,999,74400.0,0
+Audi,A6,2024,1,Diesel,1968,259900.0,1
+BMW,Seria 5,2007,297000,Diesel,1995,17990.0,0
+Fiat,Panda,2008,161800,Petrol,1242,10500.0,0
+Renault,Megane,2016,133000,Diesel,1598,44900.0,0
+Cupra,Ateca,2023,15239,Petrol,1984,165999.57,1
+Kia,Sportage,2025,10,Petrol,1598,153000.0,1
+Volkswagen,Passat,2008,214000,Diesel,1968,17000.0,0
+Mercedes-Benz,Klasa C,2021,49000,Petrol,1991,169900.0,1
+Toyota,Prius,2010,143000,Hybrid,1798,38900.0,1
+Audi,Q3 Sportback,2025,1,Hybrid,1498,140199.09,1
+Kia,Sportage,2025,10,Petrol,1598,141500.0,1
+Volkswagen,Passat,2024,1,Petrol,1984,223000.0,1
+Kia,Sportage,2019,219300,Diesel,1598,52900.0,0
+Ford,Focus,2020,70000,Diesel,1498,61800.0,0
+Kia,Sportage,2023,30531,Petrol,1598,107800.0,0
+BMW,Seria 3,2021,98000,Diesel,1995,151900.0,1
+Skoda,Octavia,2013,295983,Diesel,1968,27000.0,1
+Seat,Ibiza,2016,71600,Petrol,1197,31000.0,0
+Ford,Fiesta,2005,238188,Petrol,1999,18500.0,0
+Volkswagen,Taigo,2025,6,Petrol,999,112000.0,1
+Audi,A6,2022,78940,Petrol,1984,179900.0,1
+Volvo,S80,2011,227100,Diesel,1984,25900.0,1
+Hyundai,Elantra,2015,184000,Petrol,1798,26500.0,1
+Skoda,Octavia,2025,5,Diesel,1968,180990.0,1
+Volkswagen,Tiguan,2020,94400,Diesel,1968,109000.0,1
+Volkswagen,T-Cross,2025,5,Petrol,1498,116200.0,1
+Hyundai,Tucson,2024,5,Hybrid,1598,164948.0,1
+Peugeot,308,2025,1,Diesel,1499,136000.0,1
+Nissan,Qashqai,2024,5,Petrol,1332,157800.0,1
+Audi,A6,2013,270000,Diesel,1968,46900.0,0
+Volkswagen,Touran,2024,5,Petrol,1498,168900.0,1
+Volkswagen,Caddy,2019,220000,Diesel,1968,42500.0,0
+Opel,Grandland X,2020,52900,Petrol,1199,72900.0,1
+Citroën,C5,2010,184500,Petrol,1598,16900.0,1
+Volvo,XC 60,2022,50000,Diesel,1969,184500.0,1
+Volkswagen,Touran,2024,1,Petrol,1498,161000.0,1
+Ford,Transit Custom,2025,1,Diesel,1996,163465.77,0
+Volkswagen,Arteon,2017,81000,Petrol,1984,110000.0,1
+Audi,A4,2024,20578,Petrol,1984,209900.0,1
+Citroën,C3,2025,5,Petrol,1199,68499.0,0
+Opel,Corsa,2019,198389,Petrol,1398,27450.0,0
+Hyundai,i30,2025,5,Hybrid,1482,117900.0,1
+Volkswagen,Arteon,2022,24846,Petrol,1984,179999.0,1
+Honda,Civic,2014,170000,Petrol,1798,32900.0,0
+Kia,Sportage,2015,82200,Petrol,1591,48700.0,0
+Peugeot,508,2015,184400,Diesel,1997,42900.0,1
+Toyota,Corolla,2022,181993,Hybrid,1798,69900.0,1
+MINI,Countryman,2013,168000,Diesel,1995,42900.0,1
+Nissan,Qashqai,2016,142500,Petrol,1618,61999.0,0
+Seat,Tarraco,2023,22885,Petrol,1498,144900.0,1
+Renault,Captur,2021,14000,Diesel,1461,73500.0,1
+Ford,Tourneo Connect,2019,180000,Diesel,1498,49500.0,0
+BMW,Seria 4,2015,149900,Petrol,1997,82900.0,1
+Volkswagen,Passat,2019,119411,Petrol,1498,59999.0,0
+Alfa Romeo,Giulia,2021,35000,Petrol,1995,109900.0,1
+Skoda,Fabia,2008,207257,Petrol,1198,10800.0,0
+Audi,A3,2013,243000,Diesel,1968,43500.0,0
+Skoda,Octavia,2010,213000,Diesel,1598,17900.0,0
+Honda,Accord,2012,160000,Diesel,2199,45900.0,0
+Toyota,Proace Verso,2018,138089,Diesel,1997,95000.0,0
+Ford,Mondeo,2020,267000,Hybrid,1999,57900.0,1
+BMW,Seria 2,2024,4837,Petrol,1499,149900.0,1
+Citroën,C4 Picasso,2013,147000,Petrol,1598,29850.0,0
+Kia,Ceed,2022,160000,Petrol,1482,59900.0,0
+Lexus,NX,2016,99800,Petrol,1998,89000.0,1
+Skoda,Octavia,2019,134388,Diesel,1968,64900.0,0
+Mitsubishi,ASX,2011,256000,Petrol,1590,28900.0,0
+Opel,Astra,2018,242351,Diesel,1598,29900.0,0
+BMW,X1,2011,143000,Diesel,1995,23500.0,0
+Toyota,Aygo X,2022,38335,Petrol,998,57899.0,0
+BMW,Seria 3,2021,88536,Diesel,1995,154500.0,1
+Audi,Q3,2016,111500,Diesel,1968,76900.0,0
+Skoda,Octavia,2015,214460,Diesel,1968,62900.0,1
+Opel,Astra,2006,212345,Petrol,1364,6500.0,0
+Kia,Sorento,2014,166500,Diesel,1995,72000.0,1
+BMW,X5,2020,134930,Diesel,1995,190000.0,1
+Seat,Ibiza,2016,107745,Petrol,1197,29700.0,0
+Opel,Mokka,2017,58000,Petrol,1598,49900.0,0
+BMW,X1,2012,280000,Diesel,1995,32900.0,0
+Volkswagen,Arteon,2021,89267,Diesel,1968,160999.62,1
+Toyota,RAV4,2003,231000,Petrol,1794,21900.0,0
+Audi,A4 Allroad,2022,33500,Petrol,1984,159900.0,1
+Volkswagen,Golf,2016,188300,Diesel,1598,37800.0,0
+Skoda,Karoq,2024,1,Petrol,1498,150870.0,1
+Jeep,Renegade,2024,3,Hybrid,1469,141300.0,1
+Skoda,Karoq,2023,7442,Petrol,1498,139900.0,1
+Skoda,Octavia,2021,148500,Petrol,1498,65800.0,0
+Jeep,Wrangler,2020,61000,Petrol,1995,149000.0,1
+Audi,A1,2016,120000,Diesel,1422,39900.0,0
+Skoda,Kodiaq,2025,1,Petrol,1984,205750.0,1
+Honda,CR-V,2020,106000,Petrol,1993,109000.0,0
+MINI,Cooper,2013,176700,Diesel,1560,25400.0,0
+Jeep,Cherokee,2015,65701,Petrol,1994,17900.0,1
+Hyundai,i30,2022,6305,Petrol,998,76899.0,1
+Volkswagen,Tayron,2025,5,Diesel,1998,239900.0,1
+Toyota,Corolla,2025,1,Hybrid,1798,139990.0,1
+Renault,Koleos,2017,70790,Diesel,1995,77900.0,1
+Dacia,Duster,2025,1,Hybrid,1598,121814.0,1
+Kia,XCeed,2022,10253,Hybrid Plug-in,1580,139900.0,1
+Opel,Astra,2004,248810,Petrol,1796,9900.0,0
+Audi,A6,2018,179800,Diesel,1968,124900.0,1
+Mitsubishi,ASX,2018,164200,Petrol,1590,56900.0,0
+BMW,X4,2017,87000,Diesel,1995,118000.0,1
+BMW,X1,2016,129900,Diesel,1995,64000.0,0
+Mercedes-Benz,GLA,2023,6900,Petrol,1332,90900.0,1
+Mercedes-Benz,CLA,2024,1,Petrol,1332,220399.43,1
+Audi,A6,2023,21294,Petrol,1984,239900.0,1
+MG,HS,2024,1,Petrol,1496,132150.0,1
+Mercedes-Benz,Klasa E,2019,126300,Diesel,1950,149000.0,1
+Toyota,Yaris,2025,1,Hybrid,1497,106000.0,1
+Skoda,Fabia,2024,1,Petrol,999,74900.0,0
+Audi,A5,2024,1,Petrol,1984,236543.0,1
+BMW,Seria 3,2014,260000,Diesel,1995,27500.0,0
+Ford,Focus,2025,1,Hybrid,999,105000.0,1
+Nissan,Qashqai,2019,113000,Diesel,1461,72900.0,0
+Volkswagen,Caddy,2024,1,Petrol,1498,131239.77,1
+Mercedes-Benz,GLC,2025,1,Diesel,1950,233956.0,1
+BMW,X1,2010,146738,Petrol,1995,36900.0,0
+BMW,Seria 2,2025,1,Petrol,1499,181600.0,1
+Kia,ProCeed,2024,10,Petrol,1482,139800.0,1
+Hyundai,i30,2018,195300,Diesel,1582,35900.0,0
+Volkswagen,T-Cross,2024,1,Petrol,1498,111900.0,1
+Hyundai,Tucson,2024,1,Hybrid,1598,169900.0,1
+Peugeot,308,2018,104000,Petrol,1199,39900.0,0
+Audi,A3,2024,5,Petrol,1498,140295.0,1
+Mazda,3,2017,109681,Petrol,1998,62000.0,1
+Toyota,C-HR,2018,105640,Hybrid,1798,79900.0,1
+Kia,Ceed,2009,221355,Petrol+LPG,1591,6000.0,0
+Skoda,Octavia,2020,72000,Petrol,1498,85000.0,0
+Kia,Sportage,2019,77000,Petrol,1591,84900.0,0
+Kia,Sportage,2024,7,Petrol,1598,162600.0,1
+Skoda,Kodiaq,2025,1,Petrol,1498,184270.0,1
+Peugeot,308,2015,264194,Diesel,1560,24800.0,0
+Volvo,XC 90,2019,204294,Diesel,1969,145000.0,1
+Audi,A6,2019,187000,Diesel,1968,120000.0,1
+Peugeot,508,2014,176000,Diesel,1560,29999.0,0
+Opel,Combo,2015,144885,Diesel,1598,21900.0,0
+Peugeot,208,2012,177000,Petrol+LPG,1397,17900.0,0
+Hyundai,Kona,2024,5,Hybrid,1580,125885.0,1
+Peugeot,2008,2019,88649,Petrol,1199,49999.0,0
+BMW,Seria 2,2023,13751,Diesel,1995,144900.0,1
+Audi,A4,2022,79052,Petrol,1984,119900.0,1
+Volkswagen,Sharan,2015,41421,Diesel,1968,74900.0,0
+Lexus,NX,2025,1,Hybrid,2487,225620.0,1
+Volkswagen,Arteon,2021,60320,Diesel,1968,134999.0,1
+Alfa Romeo,Giulietta,2015,212000,Diesel,1956,39900.0,1
+Ford,Focus,2017,214000,Diesel,1498,29900.0,0
+Volvo,V60,2016,200000,Diesel,1969,48000.0,0
+Volkswagen,Tiguan,2015,194000,Diesel,1968,59900.0,0
+Audi,A3,2015,259700,Diesel,1600,48000.0,1
+Peugeot,Partner,2014,137340,Diesel,1560,34900.0,0
+Audi,Q5 Sportback,2024,1,Diesel,1968,226600.0,1
+Mercedes-Benz,Klasa T,2024,5000,Diesel,1461,159777.0,1
+Volkswagen,T-Cross,2019,36410,Petrol,999,79900.0,1
+Volvo,C30,2010,220000,Diesel,1560,17900.0,0
+Volvo,V60,2024,10,Petrol,1969,206900.0,1
+Citroën,DS4,2015,180000,Diesel,1560,35990.0,0
+BMW,Seria 1,2024,25388,Petrol,1998,194900.0,1
+Volkswagen,Sharan,2014,298800,Diesel,1968,42000.0,1
+Audi,Q2,2024,13173,Petrol,1498,129900.0,1
+Hyundai,i30,2012,159000,Petrol,1396,28900.0,0
+Opel,Corsa,2020,52000,Petrol,1199,56900.0,1
+Volkswagen,Passat,2009,223200,Diesel,1968,14500.0,0
+Citroën,Jumpy Combi,2017,141000,Diesel,1997,56000.0,0
+Ford,Fiesta,2007,154300,Petrol,1242,6500.0,0
+Mercedes-Benz,Klasa C,2019,16000,Petrol,1991,144900.0,1
+Mercedes-Benz,GLA,2024,3700,Hybrid,1991,219000.0,1
+Mercedes-Benz,Klasa A,2015,216460,Diesel,2143,27500.0,0
+Audi,A3,2022,52626,Petrol,1498,117900.0,1
+Mercedes-Benz,CLA,2021,54000,Petrol,1991,248000.0,1
+Volkswagen,T-Roc,2025,6,Petrol,1498,117800.0,0
+Audi,A4,2019,82800,Diesel,1968,114000.0,1
+Kia,Sportage,2025,1,Petrol,1598,142300.0,0
+Kia,Sportage,2013,230000,Diesel,1995,43900.0,0
+SsangYong/KGM,Torres,2024,4415,Petrol,1497,162999.0,1
+Peugeot,308,2017,111325,Petrol,1199,32000.0,0
+Volkswagen,Passat,2018,199850,Diesel,1968,55900.0,0
+Mercedes-Benz,Klasa E,2020,102000,Diesel,1950,170000.0,1
+Nissan,Qashqai,2024,5,Petrol,1332,143700.0,1
+Mercedes-Benz,Klasa C,2014,71789,Petrol,1991,89900.0,1
+Ford,Edge,2019,42000,Petrol,1997,96000.0,1
+Mercedes-Benz,GLE,2019,127692,Diesel,1950,233700.0,1
+Peugeot,3008,2016,177000,Diesel,1560,62800.0,0
+Ford,Focus,2014,158000,Diesel,1560,27900.0,0
+Kia,Stonic,2018,135000,Petrol,1248,44900.0,0
+Mazda,CX-5,2016,116000,Petrol,1998,66900.0,0
+Cupra,Leon,2022,27000,Petrol,1984,143900.0,1
+Hyundai,Tucson,2016,109700,Petrol,1591,64600.0,0
+Peugeot,3008,2016,109000,Diesel,1560,62900.0,0
+Ford,Mondeo,2014,189500,Petrol,1596,22000.0,0
+Volvo,XC 90,2015,217000,Diesel,1969,82000.0,1
+Volvo,V60,2013,199000,Diesel,1984,34999.0,0
+Toyota,Auris,2017,208000,Hybrid,1798,55900.0,1
+Audi,Q5,2025,1,Petrol,1984,307400.0,1
+BMW,Seria 4,2014,135000,Petrol,1997,85000.0,1
+Volkswagen,Passat,2013,276350,Diesel,1968,37900.0,1
+Ford,Escape,2013,220000,Petrol,1999,39500.0,1
+Volkswagen,Passat,2025,5,Petrol,1498,169900.0,1
+Skoda,Superb,2019,158000,Petrol,1498,56800.0,1
+Honda,CR-V,2016,159294,Diesel,1597,74900.0,1
+Peugeot,3008,2021,153000,Petrol,1598,79900.0,1
+Jaguar,F-Pace,2017,205682,Diesel,1999,54900.0,1
+Toyota,Corolla,2022,28,Petrol,1490,91800.0,0
+Renault,Kadjar,2020,57570,Petrol,1332,77500.0,1
+Ford,Mustang,2018,149000,Petrol,2261,77000.0,1
+Skoda,Superb,2025,5,Petrol,1984,224700.0,1
+Skoda,Superb,2019,116000,Petrol,1498,79900.0,0
+Kia,Optima,2019,113000,Petrol,1591,69900.0,1
+Toyota,Avensis,2015,139000,Petrol,1798,56900.0,0
+Opel,Mokka,2016,153000,Petrol,1364,46900.0,0
+Audi,A6,2024,4616,Petrol,1968,269900.0,1
+Citroën,C4 Grand Picasso,2014,144655,Diesel,1560,39900.0,0
+Peugeot,508,2021,187700,Diesel,1997,72500.0,1
+Opel,Astra,2010,177486,Petrol+LPG,1364,24000.0,0
+Toyota,Yaris Cross,2024,1,Hybrid,1490,109677.0,1
+Volkswagen,Taigo,2025,5,Petrol,1498,119580.0,1
+Renault,Clio,2014,118000,Petrol,1197,38900.0,1
+Toyota,Yaris,2022,47822,Petrol,1496,64699.99,0
+Toyota,C-HR,2022,27785,Petrol,1197,120000.0,1
+Renault,Megane,2016,209992,Diesel,1461,27800.0,0
+Ford,Kuga,2014,205000,Diesel,1997,44250.0,0
+Skoda,Kamiq,2023,14293,Petrol,999,87900.0,0
+Mercedes-Benz,Klasa C,2023,5,Hybrid,1999,279399.0,1
+Audi,A4,2016,242838,Diesel,1968,62000.0,1
+Hyundai,ix35,2014,175000,Petrol,1591,43990.0,0
+Hyundai,i30,2023,34000,Hybrid,1482,85000.0,0
+Mercedes-Benz,GLC,2025,1,Petrol,1991,229989.0,1
+Volvo,XC 60,2019,142000,Diesel,1969,124900.0,1
+Mitsubishi,Outlander,2014,225100,Petrol,1998,51999.0,1
+Hyundai,i20,2023,17596,Petrol,998,69800.0,0
+Ford,Focus,2015,159144,Diesel,1498,26999.0,0
+Audi,Q2,2016,172350,Diesel,1598,59900.0,0
+Renault,Captur,2014,272580,Diesel,1461,23900.0,1
+Kia,Ceed,2007,191190,Petrol,1591,15900.0,0
+Audi,A3,2015,132000,Petrol,1984,68000.0,1
+Hyundai,ix35,2012,134988,Diesel,1995,48900.0,1
+Opel,Astra,2016,168000,Diesel,1598,34900.0,1
+BMW,Seria 3,2020,107000,Diesel,1995,149900.0,1
+Hyundai,Tucson,2024,1,Hybrid,1598,176000.0,1
+BMW,Seria 1,2006,209000,Petrol,1596,13000.0,0
+Mercedes-Benz,CLA,2020,37500,Hybrid Plug-in,1332,150789.12,1
+Toyota,Avensis,2017,166000,Petrol+LPG,1798,62500.0,0
+Audi,A4,2024,1,Diesel,1968,309531.0,1
+Skoda,Kamiq,2025,10,Petrol,999,113500.0,1
+Hyundai,ix35,2015,170000,Petrol,1591,49900.0,0
+Chevrolet,Orlando,2012,178000,Petrol,1796,24800.0,0
+Volkswagen,T-Roc,2025,5,Petrol,1498,112900.0,0
+Nissan,Qashqai,2023,36659,Petrol,1332,113900.0,1
+Hyundai,i40,2013,217888,Petrol,1591,35900.0,0
+Toyota,Corolla,2020,180180,Hybrid,1798,67500.0,1
+Ford,Mondeo,2020,181500,Diesel,1995,67899.69,1
+Seat,Ateca,2025,8,Petrol,1498,121900.0,0
+Ford,Kuga,2012,168249,Diesel,1997,39900.0,0
+Volvo,XC 60,2018,154868,Diesel,1969,96999.0,1
+Audi,A6,2024,15,Diesel,1968,325994.0,1
+Audi,A5,2018,109000,Diesel,1968,108000.0,1
+Cupra,Formentor,2025,1,Diesel,1968,149900.0,1
+Kia,Optima,2018,160000,Diesel,1685,59000.0,1
+Ford,Mondeo,2019,93783,Diesel,1995,79900.0,0
+Opel,Vivaro,2013,217000,Diesel,1995,29500.0,0
+Ford,Focus,2018,177000,Diesel,1498,35800.0,0
+Cupra,Formentor,2025,1,Petrol,1984,273400.0,1
+Fiat,500X,2022,51230,Petrol,999,49000.0,0
+Volkswagen,Eos,2010,251600,Diesel,1968,25000.0,0
+Skoda,Kodiaq,2025,5,Petrol,1999,227900.0,1
+Volkswagen,T-Roc,2024,10,Petrol,1498,160000.0,1
+Volvo,XC 60,2022,100000,Diesel,1969,155800.0,1
+Toyota,Corolla,2022,96507,Petrol,1490,69900.0,0
+Volkswagen,Tayron,2025,9,Petrol,1984,211310.0,1
+BMW,Seria 5,2015,95000,Diesel,1995,89999.0,1
+Volvo,XC 60,2017,159000,Diesel,2400,99900.0,1
+Peugeot,3008,2012,209600,Diesel,1560,23900.0,0
+Opel,Corsa,2015,106623,Petrol,1229,21900.0,0
+BMW,Seria 3,2014,155000,Petrol,1598,52900.0,1
+Mercedes-Benz,CLE,2024,1,Petrol,1999,285608.0,1
+Skoda,Kamiq,2025,6,Petrol,999,115800.0,1
+Volkswagen,Arteon,2021,31000,Petrol,1984,171599.76,1
+BMW,Seria 3,2025,1,Petrol,1998,174432.45,1
+Honda,CR-V,2016,142000,Diesel,1597,74400.0,0
+Toyota,C-HR,2024,78,Hybrid,1987,163924.0,1
+Mitsubishi,ASX,2015,125000,Petrol,1590,41900.0,0
+Honda,CR-V,2008,156000,Petrol,1997,44400.0,1
+BMW,X3,2017,66000,Petrol,1997,94900.0,1
+Skoda,Kodiaq,2022,64973,Petrol,1498,129899.0,1
+Opel,Astra,2012,219500,Petrol,1364,19950.0,0
+Audi,A4,2021,149000,Diesel,1968,89800.0,1
+Kia,XCeed,2021,73200,Hybrid Plug-in,1580,87900.0,1
+Skoda,Superb,2022,143818,Diesel,1968,98700.0,1
+Fiat,Bravo,2010,220000,Petrol,1368,13900.0,0
+Mercedes-Benz,GLA,2024,8042,Hybrid,1332,200000.0,1
+Nissan,Micra,2015,92795,Petrol,1198,25900.0,0
+Kia,Sportage,2016,170500,Petrol,1591,58500.0,0
+Nissan,Qashqai,2012,149000,Diesel,1461,31999.0,0
+Alfa Romeo,Giulia,2025,5,Petrol,1995,229900.0,1
+Skoda,Fabia,2014,205000,Petrol,1198,12999.0,0
+Mercedes-Benz,Klasa A,2023,10,Hybrid,1332,202500.0,1
+MINI,Countryman,2024,3717,Petrol,1998,237900.0,1
+Kia,Sportage,2024,5,Petrol,1598,131980.0,1
+Audi,A5,2019,97659,Petrol,1984,112900.0,1
+Audi,A4,2013,317500,Diesel,1968,35000.0,1
+Renault,Megane,2009,188643,Petrol,1998,22000.0,0
+Cupra,Terramar,2025,1,Petrol,1498,219900.0,1
+Skoda,Octavia,2025,5,Petrol,1498,154200.0,1
+Volvo,XC 60,2021,197641,Diesel,1969,117499.44,1
+Ford,C-MAX,2017,138170,Petrol,999,38700.0,0
+Cupra,Leon Sportstourer,2022,27000,Petrol,1984,143900.0,1
+Audi,A4,2014,223000,Diesel,1998,40900.0,0
+Opel,Corsa,2008,151872,Petrol,1364,15900.0,0
+Volvo,XC 40,2024,15795,Petrol,1969,189900.0,1
+BMW,Seria 1,2024,13777,Petrol,1499,134900.0,1
+Volkswagen,Passat,2015,186200,Petrol,1798,56500.0,1
+Toyota,RAV4,2020,89469,Hybrid,2478,139900.2,1
+Jaecoo,7,2024,1,Petrol,1589,132905.01,1
+BMW,Seria 3,2020,54995,Hybrid,1995,112545.0,1
+Volvo,V90,2024,10,Hybrid Plug-in,1969,267900.0,1
+Volkswagen,Arteon,2022,24036,Petrol,1984,181999.41,1
+Audi,Q5 Sportback,2024,1,Hybrid,1968,223696.0,1
+Volkswagen,Multivan,2015,287000,Diesel,1968,123000.0,1
+Toyota,Corolla,2021,48331,Petrol,1197,70899.0,0
+Volvo,XC 40,2022,89000,Petrol,1477,115000.0,0
+BMW,X3,2014,198750,Diesel,1995,63000.0,1
+Mercedes-Benz,CLA,2021,78000,Petrol,1991,239000.0,1
+Toyota,RAV4,2021,143800,Hybrid,2487,134500.0,1
+BMW,Seria 3,2023,28000,Petrol,1998,169999.53,1
+Kia,Rio,2019,113000,Petrol,1248,39900.0,0
+Kia,Sportage,2023,4800,Diesel,1598,144900.0,1
+Kia,Sportage,2025,10,Hybrid,1598,169400.0,1
+Hyundai,Tucson,2025,5,Hybrid,1598,192420.0,1
+Ford,Transit Custom,2019,169353,Diesel,1995,80000.0,0
+Seat,Ibiza,2010,125309,Petrol,1390,15000.0,0
+Renault,Clio,2018,107000,Diesel,1461,37000.0,1
+Hyundai,Kona,2022,11525,Petrol,998,96900.0,1
+Jeep,Renegade,2022,41000,Hybrid,1469,97900.0,1
+Kia,Optima,2017,196000,Diesel,1685,55900.0,1
+Opel,Combo,2024,1,Petrol,1199,99997.77,0
+Mazda,6,2022,40000,Petrol,1998,100000.0,1
+Ford,Mondeo,2015,277000,Petrol,1499,34000.0,0
+Renault,Megane,2010,246135,Petrol+LPG,1397,15900.0,0
+Toyota,Corolla,2024,4008,Petrol,1490,99000.0,0
+Suzuki,Swift,2007,170500,Petrol,1328,11500.0,0
+Peugeot,3008,2018,167000,Diesel,1560,70800.0,1
+Skoda,Superb,2019,185000,Petrol,1498,56911.0,0
+Mazda,5,2010,199000,Petrol,1999,19400.0,0
+Mazda,3,2019,82310,Petrol,1998,79900.0,1
+Audi,Q5,2010,253495,Diesel,1968,28900.0,1
+Opel,Astra,2012,157000,Petrol,1364,21999.0,0
+Toyota,C-HR,2024,5,Hybrid,1987,184700.0,1
+Mercedes-Benz,GLE,2022,33440,Petrol,2000,104500.0,1
+Peugeot,3008,2019,110000,Diesel,1499,69900.0,0
+Hyundai,i30,2008,196000,Petrol,1591,10800.0,0
+Toyota,C-HR,2024,1,Hybrid,1987,195000.0,1
+Toyota,Yaris,2022,17650,Hybrid,1497,91900.0,1
+Audi,A6,2024,5,Hybrid,1968,220600.0,1
+Suzuki,Grand Vitara,2007,120418,Petrol,1586,22000.0,0
+Audi,Q5,2021,43000,Diesel,1968,159900.0,1
+Alfa Romeo,Junior,2025,350,Hybrid,1119,145900.0,1
+Lexus,NX,2020,125373,Hybrid,2494,142899.0,1
+Volkswagen,Golf,2016,117000,Petrol,1197,43000.0,0
+Mazda,3,2023,22400,Petrol,1998,119900.0,1
+Volkswagen,Passat,2016,113708,Petrol,1798,64900.0,0
+Kia,Picanto,2019,102855,Petrol+LPG,1248,43000.0,0
+Mercedes-Benz,CLA,2019,43000,Petrol,1991,150000.0,1
+Volkswagen,Tiguan Allspace,2020,114170,Petrol,1498,114900.0,1
+Citroën,Berlingo,2020,220000,Diesel,1499,66900.0,0
+Peugeot,208,2014,133100,Petrol,999,16500.0,0
+Peugeot,208,2017,20841,Petrol,1199,36800.0,0
+Opel,Vectra,2008,299745,Diesel,1910,6800.0,0
+Opel,Astra,2016,59988,Petrol,1399,46000.0,0
+Volkswagen,Golf,2021,137007,Diesel,1968,92800.0,1
+Nissan,Micra,2021,16315,Petrol,999,58000.0,0
+Toyota,Yaris,2016,82300,Petrol,1329,39900.0,0
+Skoda,Octavia,2025,10,Petrol,1498,128550.0,1
+Renault,Captur,2020,66772,Petrol+LPG,999,64900.0,0
+Peugeot,607,2005,199990,Petrol,2230,13990.0,0
+Skoda,Citigo,2019,101856,Petrol,999,39900.0,0
+Skoda,Superb,2014,295000,Diesel,1598,28745.0,0
+Opel,Insignia,2010,230000,Diesel,1956,26900.0,0
+Volkswagen,Touran,2011,214000,Diesel,1968,36900.0,0
+Kia,Ceed,2020,74400,Petrol,1353,69900.0,0
+Renault,Clio,2014,146000,Diesel,1461,24800.0,0
+Peugeot,308,2025,1,Diesel,1499,119900.0,1
+Ford,Mondeo,2020,176000,Diesel,1997,66900.0,1
+Mazda,3,2019,85381,Petrol,1998,75900.0,0
+Opel,Mokka,2017,78000,Petrol,1598,56900.0,0
+Kia,Ceed,2015,141000,Petrol,1396,33900.0,0
+Mazda,CX-30,2024,2,Petrol,1998,149999.0,1
+BMW,X4,2025,1,Diesel,1995,265400.0,1
+Kia,Ceed,2024,10,Petrol,1482,106800.0,1
+Volkswagen,Passat,2025,5,Hybrid,1498,192800.0,1
+Audi,A4,2020,179500,Diesel,1968,89900.0,1
+Opel,Corsa,2011,167432,Petrol,1364,16900.0,0
+Audi,A5,2016,196000,Diesel,1968,72900.0,1
+Volkswagen,Golf,2010,280000,Diesel,1598,15000.0,1
+Volvo,XC 90,2016,230000,Petrol,1969,56900.0,1
+BMW,Seria 5,2010,299000,Diesel,1995,27900.0,1
+Skoda,Octavia,2021,103111,Diesel,1968,79900.0,1
+Citroën,C4 Cactus,2018,144000,Petrol,1199,35900.0,0
+Audi,A3,2017,72000,Diesel,1598,69900.0,0
+Volkswagen,Passat,2021,108938,Petrol,1984,88899.0,1
+Mazda,6,2012,192000,Diesel,2191,39500.0,1
+Nissan,NV200,2010,172534,Diesel,1461,19900.0,0
+Audi,A3,2018,114000,Petrol,1984,85900.0,1
+Audi,A4,2021,203600,Diesel,1968,98000.0,1
+Mercedes-Benz,Klasa C,2016,214000,Hybrid Plug-in,1991,68900.0,1
+Opel,Cascada,2014,184150,Diesel,1956,49900.0,0
+Skoda,Fabia,2025,1,Petrol,999,94600.0,0
+Skoda,Octavia,2021,80345,Petrol,1984,124900.0,1
+Volkswagen,Touran,2022,103500,Petrol,1498,93900.0,0
+Skoda,Superb,2020,132450,Petrol,1498,93400.0,1
+BMW,3GT,2019,146450,Diesel,1995,84900.0,1
+Volvo,V40,2016,142635,Diesel,1969,49900.0,0
+Mercedes-Benz,Klasa T,2024,5,Diesel,1461,158055.0,1
+Peugeot,208,2018,111236,Petrol,1199,29800.0,0
+Skoda,RAPID,2018,68000,Petrol,999,48900.0,0
+Cupra,Formentor,2025,8,Petrol,1498,168900.0,1
+Seat,Leon,2015,79000,Petrol,1984,72800.0,1
+Kia,Sportage,2025,1,Petrol,1598,141185.0,1
+Citroën,C3 Picasso,2014,130500,Diesel,1560,11300.0,0
+Mercedes-Benz,Klasa C,2016,310000,Diesel,1598,54900.0,1
+Ford,Focus,2007,223000,Diesel,1560,9500.0,0
+BMW,Seria 3,2015,177690,Diesel,1995,53500.0,1
+MINI,Clubman,2015,132400,Petrol,1499,41990.0,0
+Volkswagen,Passat,2020,141550,Diesel,1968,76900.0,1
+Kia,Ceed,2009,111900,Petrol,1396,17500.0,0
+Nissan,Qashqai+2,2009,214000,Petrol,2000,24900.0,0
+Kia,Rio,2009,162000,Petrol,1399,10900.0,0
+Peugeot,5008,2020,106000,Petrol,1199,92500.0,1
+Audi,TT S,2008,105000,Petrol,1984,67900.0,1
+Mercedes-Benz,GLA,2024,1,Petrol,1332,227500.0,1
+Cupra,Formentor,2025,1,Hybrid,1498,166000.0,1
+Skoda,Kamiq,2020,29000,Petrol,999,37899.0,1
+Mercedes-Benz,CLA,2024,1,Petrol,1332,211639.0,1
+BMW,Seria 3,2013,197800,Diesel,1995,63000.0,1
+Renault,Captur,2021,76282,Petrol,1332,74900.0,0
+Honda,Civic,2017,110000,Petrol,988,48000.0,0
+Toyota,Avensis,2011,243000,Diesel,2231,28900.0,1
+BMW,X5,2021,119837,Diesel,1995,169900.0,1
+Renault,Clio,2016,124000,Diesel,1461,25000.0,0
+Dacia,Sandero Stepway,2021,43800,Petrol+LPG,999,53900.0,0
+Renault,Megane,2010,340000,Diesel,1870,10500.0,0
+Citroën,C4,2021,45000,Petrol,1199,59000.0,0
+Peugeot,3008,2020,175000,Diesel,1499,71600.0,1
+Audi,A3,2017,83500,Petrol,1984,68900.0,1
+Skoda,Kodiaq,2020,161000,Diesel,1968,119900.0,1
+Citroën,C3,2025,5,Petrol,1199,80500.0,0
+Audi,A4,2013,299000,Diesel,1968,35900.0,0
+Audi,A5,2012,193500,Petrol,1798,50150.0,0
+BMW,Seria 3,2016,265000,Diesel,1995,39900.0,1
+Honda,FR-V,2007,273388,Petrol,1799,10500.0,0
+Kia,Ceed,2021,119998,Petrol,1482,66900.0,1
+Skoda,Fabia,2022,35000,Petrol+LPG,999,49900.0,0
+Volvo,S60,2023,27365,Petrol,1969,189900.0,1
+Skoda,Karoq,2021,157000,Petrol,1498,81800.0,0
+Volkswagen,Tayron,2025,9,Petrol,1984,211310.0,1
+Ford,Focus,2018,143000,Petrol,1596,31500.0,0
+Toyota,Corolla,2016,72883,Petrol,1598,53500.0,0
+Suzuki,Swift,2025,3,Hybrid,1197,94390.0,1
+Audi,A6,2014,195000,Diesel,1968,63500.0,1
+Audi,A6,2024,1,Hybrid,1968,271730.0,1
+Abarth,Punto Evo,2010,180000,Petrol,1368,28999.0,0
+BMW,X2,2018,59000,Diesel,1995,115000.0,1
+Citroën,DS3,2012,160000,Diesel,1560,14900.0,0
+Citroën,C5 Aircross,2019,86000,Diesel,1997,79800.0,1
+Renault,Kadjar,2016,120000,Diesel,1598,59900.0,0
+Volkswagen,Polo,2024,5,Petrol,999,97500.0,1
+Peugeot,3008,2023,127000,Diesel,1499,62900.0,0
+Toyota,Corolla,2019,92610,Petrol,1197,61900.0,0
+Volvo,XC 60,2022,67933,Diesel,1969,159900.0,1
+Volvo,S60,2020,43900,Petrol,1969,104600.0,1
+Volkswagen,Golf,2025,5,Petrol,1498,99900.0,0
+Volkswagen,T-Cross,2019,36410,Petrol,999,79900.0,1
+BMW,X3,2020,33500,Petrol,2000,159000.0,1
+Opel,Insignia,2018,169000,Diesel,1956,63900.0,1
+Toyota,Corolla,2020,50302,Hybrid,1987,95900.0,1
+Volvo,XC 60,2017,195000,Diesel,1969,106900.0,1
+Hyundai,Bayon,2022,16200,Petrol,1197,57700.0,0
+Hyundai,i30,2017,95000,Petrol,998,36900.0,0
+Ford,Focus,2019,55000,Petrol,1498,83900.0,1
+Ford,Mondeo,2019,95000,Petrol,1498,69900.0,0
+Volkswagen,Passat,2019,58250,Diesel,1968,146000.0,1
+Hyundai,i30,2025,1,Petrol,1482,127270.0,1
+Opel,Astra,2015,179000,Diesel,1598,26900.0,0
+Mercedes-Benz,GLC,2016,149000,Diesel,2143,96900.0,1
+BMW,Seria 5,2011,386000,Diesel,1995,36400.0,1
+Ford,Focus,2013,182000,Petrol,999,22500.0,0
+Kia,Sportage,2021,51263,Petrol,1591,115900.0,1
+Toyota,Yaris,2016,43500,Hybrid,1497,59900.0,1
+Peugeot,3008,2020,186000,Diesel,1499,77900.0,1
+Opel,Mokka,2018,90500,Petrol,1364,56500.0,0
+Kia,Sportage,2011,187500,Diesel,1685,37900.0,0
+Mitsubishi,ASX,2018,79000,Petrol,1590,67750.0,0
+Citroën,C3,2024,2,Petrol,1199,62200.0,0
+Opel,Corsa,2016,111550,Petrol+LPG,1398,27900.0,0
+Audi,A5,2024,14487,Petrol,1984,187900.0,1
+BMW,Seria 5,2018,225000,Diesel,1995,72900.0,1
+Ford,C-MAX,2016,87000,Diesel,1498,44800.0,0
+Renault,Scenic,2017,84023,Petrol,1197,56500.0,0
+BMW,Seria 3,2014,194000,Diesel,1995,54000.0,1
+Kia,Sportage,2025,1,Petrol,1598,150700.0,1
+Volkswagen,Passat,2018,148563,Diesel,1968,69900.0,1
+Skoda,Superb,2020,140507,Diesel,1968,98500.0,1
+Volkswagen,Tiguan,2015,179800,Diesel,1968,52900.0,1
+Audi,A4,2010,256740,Diesel,1968,32800.0,0
+Hyundai,ix35,2012,192000,Diesel,1685,35900.0,0
+Volvo,XC 60,2018,119000,Petrol,1969,111000.0,1
+Volkswagen,Arteon,2023,108164,Diesel,1968,150999.72,1
+Hyundai,Santa Fe,2024,4800,Hybrid,1598,240900.0,1
+Ford,KA,2013,86000,Petrol,1242,16999.0,0
+Ford,C-MAX,2013,247000,Diesel,1560,24900.0,0
+Peugeot,2008,2019,71000,Petrol,1199,49900.0,0
+Volvo,V90 Cross Country,2020,59000,Petrol,1969,172532.0,1
+Mercedes-Benz,GLB,2021,39999,Petrol,1332,129899.07,1
+Volkswagen,Passat,2005,230000,Diesel,1968,3500.0,0
+Volkswagen,Golf,2002,214000,Petrol+LPG,1598,6500.0,0
+Volkswagen,Caddy,2009,277000,Diesel,1896,29300.0,1
+Renault,Clio,2023,8,Petrol+LPG,999,80900.0,0
+Volkswagen,T-Roc,2025,1,Petrol,1498,139500.0,1
+Cupra,Terramar,2024,5,Petrol,1498,199900.0,1
+Opel,Mokka,2015,195000,Diesel,1598,38000.0,0
+Skoda,Superb,2010,297000,Diesel,1968,30000.0,1
+Volkswagen,Passat,2016,210000,Diesel,1968,59800.0,0
+BMW,X3,2017,99114,Diesel,1995,129999.0,1
+Citroën,Berlingo,2012,242000,Diesel,1560,31700.0,0
+Chevrolet,Lacetti,2006,173000,Petrol+LPG,1399,3000.0,0
+BMW,Seria 2,2022,14650,Diesel,1496,139900.0,1
+Seat,Leon,2023,30000,Diesel,1968,114900.0,0
+BMW,Seria 3,2013,201947,Petrol,1997,56000.0,1
+Skoda,Superb,2018,274000,Diesel,1968,58600.0,1
+Volkswagen,Golf Sportsvan,2016,99980,Petrol,1395,59990.0,1
+Seat,Leon,2020,97000,Diesel,1968,73500.0,1
+Citroën,C5 Aircross,2019,143000,Petrol,1598,75000.0,1
+Volkswagen,Passat,2015,220000,Diesel,1968,57000.0,1
+Skoda,Karoq,2021,140000,Diesel,1968,85900.0,0
+Skoda,Kodiaq,2020,148576,Petrol,1984,107899.29,1
+Hyundai,i40,2015,173000,Diesel,1685,37500.0,1
+Kia,Sportage,2013,150700,Petrol,1591,49900.0,0
+BMW,Seria 5,2018,78200,Petrol,1998,114882.0,1
+Mercedes-Benz,CLA,2024,26500,Petrol,1332,169900.0,1
+Opel,Vivaro,2010,287466,Diesel,1995,37900.0,0
+Seat,Leon,2020,61000,Petrol,1498,81900.0,0
+Ford,S-Max,2019,167383,Diesel,1995,85700.25,1
+BMW,X3,2021,33000,Hybrid Plug-in,1998,215000.0,1
+Mercedes-Benz,Klasa B,2012,261000,Diesel,1796,27900.0,0
+Toyota,Corolla,2023,15755,Hybrid,1798,114900.0,1
+Audi,A5,2014,202500,Diesel,1968,58999.0,1
+Kia,XCeed,2024,1,Petrol,1482,110055.0,1
+Peugeot,5008,2011,296453,Diesel,1997,18400.0,0
+Nissan,Juke,2017,146000,Petrol,1197,37900.0,0
+Dacia,Duster,2015,270000,Diesel,1461,24900.0,0
+Kia,Ceed,2023,35200,Petrol,1482,86800.0,0
+Skoda,Fabia,2020,108014,Petrol,999,38899.0,0
+Cupra,Terramar,2024,10,Petrol,1498,186500.0,1
+Kia,Rio,2021,38122,Petrol,1197,51850.0,0
+Alfa Romeo,Mito,2009,225427,Petrol,1368,20900.0,0
+Volvo,V60,2017,146000,Diesel,1969,55900.0,0
+Audi,A3,2009,318000,Diesel,1896,24900.0,1
+Hyundai,i30,2015,76000,Petrol,1368,44600.0,0
+Skoda,Octavia,2019,189000,Petrol,999,32500.0,0
+Mitsubishi,ASX,2014,50000,Petrol,1590,44800.0,0
+Seat,Ibiza,2013,144564,Petrol,1390,22499.0,0
+Skoda,Kodiaq,2019,149000,Diesel,1968,121770.0,1
+Mercedes-Benz,GLC,2024,3014,Diesel,1993,252800.0,1
+Kia,Stonic,2023,21000,Petrol,1197,74900.0,0
+Toyota,Auris,2017,162300,Petrol,1598,43900.0,1
+Volvo,XC 60,2019,120000,Diesel,1969,127999.0,1
+Skoda,Octavia,2011,254000,Diesel,1598,21900.0,0
+Hyundai,i20,2023,7500,Petrol,998,79900.0,0
+Opel,Astra,2011,146800,Petrol,1364,23500.0,0
+DS Automobiles,DS 7 Crossback,2020,150000,Hybrid Plug-in,1598,96900.0,1
+Audi,Q5,2023,24900,Hybrid,1968,189999.33,1
+Citroën,C4 Picasso,2015,191600,Diesel,1997,38900.0,1
+Ford,Mondeo,2018,182454,Diesel,1997,66900.0,1
+Hyundai,Tucson,2016,132000,Diesel,1685,57700.0,0
+Toyota,Corolla,2023,9000,Hybrid,1798,109800.0,1
+Seat,Leon,2009,287700,Diesel,1896,16500.0,0
+Citroën,C5 Aircross,2019,54000,Petrol,1598,93900.0,1
+Ford,Kuga,2013,142964,Diesel,1997,34000.0,0
+Mercedes-Benz,Klasa C,2021,29800,Petrol,1497,179000.0,1
+Skoda,RAPID,2017,10396,Petrol,999,47900.0,0
+Audi,A6,2020,89679,Diesel,1968,139900.0,1
+Volkswagen,Tiguan,2008,200000,Diesel,1968,29400.0,0
+Toyota,Avensis,2016,211000,Petrol,1798,53300.0,0
+Skoda,Karoq,2025,6,Petrol,1498,146470.0,1
+Audi,A4,2016,300200,Diesel,1968,49900.0,0
+Volkswagen,Tiguan,2025,6,Petrol,1984,214500.0,1
+Volvo,XC 40,2024,15795,Petrol,1969,189900.0,1
+Peugeot,2008,2021,66500,Petrol,1199,66500.0,0
+Skoda,Fabia,2018,54700,Petrol,999,34500.0,0
+Renault,Grand Scenic,2017,78000,Petrol,1197,43500.0,0
+Citroën,C5,2005,228000,Diesel,1997,8000.0,0
+Mercedes-Benz,CLA,2022,30474,Petrol,1332,109000.0,1
+Audi,A5,2019,112500,Petrol,1984,164000.82,1
+BYD,Seal U,2025,5,Hybrid Plug-in,1498,174900.0,1
+Hyundai,i20,2025,7,Petrol,1197,86900.0,0
+Volkswagen,Passat,2025,5,Petrol,1984,187900.0,1
+Cupra,Formentor,2023,7796,Petrol,1498,129900.0,1
+Volvo,XC 60,2022,99000,Diesel,1969,151800.0,1
+Nissan,Qashqai,2018,100000,Petrol,1618,78700.0,0
+Kia,Stonic,2023,25000,Petrol,998,78900.0,0
+Hyundai,Tucson,2018,53500,Petrol,1591,79000.0,0
+Hyundai,Tucson,2020,81000,Petrol,1591,86500.0,0
+Audi,A4,2007,220111,Diesel,1968,18500.0,0
+Volkswagen,Polo,2005,111373,Petrol,1198,8900.0,0
+Volkswagen,Passat,2025,5,Diesel,1968,180500.0,1
+Cupra,Formentor,2025,5,Hybrid,1498,177900.0,1
+Audi,Q5,2020,28180,Petrol,1984,59000.0,1
+Volkswagen,Passat,2025,5,Petrol,1498,169900.0,1
+Fiat,Bravo,2009,158000,Petrol,1368,17900.0,0
+Mitsubishi,ASX,2010,272000,Petrol,1590,17220.0,0
+Ford,Mondeo,2020,121000,Diesel,1997,66900.0,0
+Nissan,Juke,2016,87000,Petrol,1197,40000.0,0
+Volkswagen,Golf,2022,128325,Petrol,1498,75899.0,1
+Audi,A3,2023,14571,Petrol,1498,139900.0,1
+Ford,Focus,2005,218780,Petrol,1596,12300.0,0
+Audi,Q5 Sportback,2022,79000,Petrol,1984,159800.0,1
+Volkswagen,Taigo,2025,1,Petrol,999,113820.0,1
+Dacia,Duster,2014,116000,Petrol,1197,28600.0,0
+Hyundai,Bayon,2025,7,Petrol,998,107400.0,1
+Skoda,RAPID,2019,274940,Petrol,999,32900.0,0
+Peugeot,208,2019,48881,Petrol,1199,36900.0,0
+Honda,CR-V,2024,10,Hybrid Plug-in,1999,233500.0,1
+Peugeot,508,2015,160100,Diesel,1997,39900.0,0
+BMW,X1,2024,10000,Hybrid,1499,218500.0,1
+Skoda,Octavia,2019,138505,Petrol,999,47500.0,0
+Volkswagen,Golf,2009,143000,Petrol,1984,40900.0,0
+Suzuki,Swift,2024,6,Hybrid,1197,81900.0,1
+BMW,X4,2015,175671,Diesel,1995,84900.0,1
+Opel,Astra,2006,236000,Petrol,1796,6900.0,0
+Audi,Q5,2014,224600,Diesel,1968,59500.0,1
+Peugeot,308,2020,186000,Petrol,1199,38999.0,0
+Peugeot,308,2018,132454,Petrol,1199,34900.0,0
+Peugeot,3008,2017,159000,Diesel,1560,64800.0,0
+Skoda,Kamiq,2025,5,Petrol,1499,136500.0,1
+Opel,Agila,2009,136300,Petrol,1242,11500.0,0
+Opel,Insignia,2018,116500,Petrol,1998,69900.0,1
+Volkswagen,Passat,2025,3,Diesel,1968,180039.0,1
+Hyundai,ix35,2015,198400,Petrol+LPG,1591,42900.0,0
+Citroën,C3,2022,77693,Petrol,1199,44500.0,0
+Skoda,Kamiq,2023,14293,Petrol,999,87900.0,0
+Hyundai,Tucson,2024,1,Hybrid,1598,146700.0,1
+Peugeot,3008,2018,180000,Diesel,1499,64900.0,1
+Volvo,V40 Cross Country,2019,198295,Petrol,1498,74900.0,1
+Opel,Corsa,2012,169000,Petrol,1398,17900.0,0
+Volkswagen,Arteon,2020,40500,Diesel,1968,141500.0,1
+Volvo,V90 Cross Country,2021,64000,Diesel,1969,209900.0,1
+Cupra,Formentor,2025,1,Petrol,1998,191200.0,1
+Toyota,Camry,2021,24466,Hybrid,2487,111900.0,1
+Ford,S-Max,2016,266000,Diesel,1997,51700.0,0
+Kia,Picanto,2017,80000,Petrol,1248,45500.0,1
+BMW,Seria 3,2021,114000,Diesel,1995,141900.0,1
+Volvo,XC 90,2020,69000,Petrol,1969,151900.0,1
+Dacia,Logan,2019,81000,Petrol,898,34900.0,0
+Audi,A4,2019,61300,Diesel,1968,88900.0,1
+Mazda,CX-5,2013,211193,Diesel,2191,38000.0,0
+Opel,Astra,2010,80450,Petrol,1364,14000.0,0
+Audi,A6,2018,158000,Diesel,1968,122800.0,1
+Mitsubishi,Outlander,2011,213000,Diesel,2179,32000.0,1
+Skoda,Octavia,2019,82406,Petrol,1498,64900.0,0
+Kia,Sportage,2013,163000,Petrol,1591,42000.0,0
+Volvo,XC 40,2024,26310,Petrol,1969,169900.0,1
+Volkswagen,Golf,2016,188300,Diesel,1598,37800.0,0
+Hyundai,i30,2008,254519,Diesel,1582,11700.0,0
+Hyundai,ix35,2015,170000,Petrol,1591,49900.0,0
+Honda,CR-V,2010,190000,Diesel,2199,36900.0,0
+Kia,Venga,2018,59000,Petrol,1396,42000.0,0
+Skoda,Kodiaq,2020,35005,Petrol,1498,106900.0,0
+BMW,Seria 4,2017,178000,Petrol,1998,50000.0,1
+Citroën,Jumpy Combi,2024,1634,Diesel,1997,183900.0,1
+Nissan,X-Trail,2017,89405,Petrol,1498,29631.0,1
+Volkswagen,Golf,2010,210000,Petrol,1390,21900.0,0
+Skoda,Kodiaq,2024,1,Diesel,1968,212200.0,1
+BMW,Seria 3,2007,155200,Petrol,1995,31000.0,0
+Volkswagen,Passat,2019,55500,Petrol,1498,76990.0,1
+Peugeot,2008,2013,154877,Petrol,1600,13500.0,0
+Volkswagen,Passat,2017,219000,Diesel,1968,68999.31,1
+Toyota,C-HR,2024,33137,Hybrid,1798,119900.0,1
+Dacia,Duster,2017,96090,Petrol,1598,45999.0,0
+Suzuki,Grand Vitara,2007,221150,Petrol,1995,28500.0,0
+Jaguar,XE,2017,98500,Petrol,1999,59800.0,1
+Fiat,500X,2020,119000,Petrol,1332,61900.0,1
+Kia,Sportage,2025,10,Petrol,1598,129000.0,1
+Mercedes-Benz,GLB,2020,103179,Diesel,1950,144900.0,1
+BMW,Seria 5,2011,230000,Diesel,1995,38800.0,0
+Renault,Espace,2019,105000,Diesel,1997,87900.0,1
+Volvo,V60,2020,168000,Diesel,1969,106395.0,1
+Opel,Corsa,2014,92000,Petrol,1398,24500.0,0
+Volkswagen,Passat,2020,84591,Petrol,1498,79999.0,0
+Opel,Astra,2018,118468,Petrol,1399,41500.0,0
+Volkswagen,Passat,2015,264810,Diesel,1968,69900.0,1
+Hyundai,Santa Fe,2015,241000,Diesel,1995,47900.0,0
+Opel,Corsa,2024,3,Petrol,1199,71000.0,0
+Peugeot,Boxer,2017,218000,Diesel,1997,50000.0,0
+Renault,Arkana,2023,9000,Hybrid,1332,112900.0,1
+Volvo,XC 90,2016,156927,Petrol,1969,76300.0,1
+Skoda,Superb,2024,1,Diesel,1968,186900.0,1
+Toyota,Corolla,2022,26000,Petrol,1490,69126.0,0
+Renault,Clio,2025,1,Petrol,999,77280.0,1
+Kia,Stonic,2021,77000,Petrol,998,63700.0,0
+Toyota,Corolla,2019,141000,Petrol,1598,51660.0,0
+Renault,Trafic,2021,150000,Diesel,1997,67900.0,0
+Mercedes-Benz,Klasa B,2010,221000,Diesel,1991,16800.0,0
+Mazda,CX-3,2018,119000,Petrol,1998,72900.0,1
+Nissan,Qashqai,2017,112600,Petrol,1197,64900.0,1
+Volkswagen,Transporter,2008,252000,Diesel,1896,39500.0,0
+Hyundai,i30,2017,171000,Diesel,1582,43900.0,0
+Ford,S-Max,2021,122000,Diesel,1997,89900.0,0
+Mercedes-Benz,Klasa B,2007,203000,Diesel,1991,9800.0,0
+BMW,Seria 5,2013,142000,Petrol,1997,52900.0,1
+Opel,Astra,2011,229382,Petrol,1364,22500.0,0
+Kia,Ceed,2013,169000,Diesel,1396,23999.0,0
+Hyundai,i40,2014,126000,Diesel,1685,33900.0,0
+Skoda,Kodiaq,2024,26665,Petrol,1498,149900.0,1
+Jeep,Renegade,2015,198000,Petrol,2360,47900.0,1
+Hyundai,i20,2024,1,Petrol,1197,75900.0,0
+BMW,Seria 5,2018,187000,Diesel,1995,92700.0,1
+SsangYong/KGM,Musso,2024,2,Diesel,2157,173900.0,1
+Honda,Civic,2024,1,Hybrid,1993,160400.0,1
+Kia,XCeed,2023,40710,Petrol,1482,89700.0,0
+Seat,Ibiza,2012,224000,Petrol,1197,15000.0,0
+Kia,Sportage,2025,10,Petrol,1598,152600.0,1
+Volvo,XC 60,2020,79000,Diesel,1969,134900.0,1
+MINI,Cooper,2007,172665,Petrol,1598,15400.0,1
+Citroën,C4 SpaceTourer,2019,160000,Diesel,1499,49000.0,0
+Renault,Captur,2018,158000,Petrol,898,43900.0,0
+Renault,Clio,2020,69634,Petrol,999,52500.0,0
+Fiat,500,2016,64000,Petrol,875,29900.0,0
+Seat,Ibiza,2013,210472,Diesel,1199,14900.0,0
+Volkswagen,Passat,2022,68000,Petrol,1498,99900.0,1
+Toyota,Avensis,2010,147000,Petrol,1798,32500.0,0
+Ford,Fiesta,2010,191288,Petrol,1242,14500.0,0
+Peugeot,3008,2018,123250,Diesel,1499,69900.0,0
+Toyota,Prius,2016,163000,Hybrid,1798,62900.0,1
+Peugeot,3008,2009,234000,Diesel,1560,22700.0,1
+Toyota,Aygo X,2022,8000,Petrol,998,59700.0,0
+Buick,Encore,2016,62400,Petrol,1364,42000.0,1
+Skoda,Octavia,2019,167000,Diesel,1598,56800.0,0
+Renault,Laguna,2014,199000,Diesel,1995,25700.0,0
+Audi,A4,2013,120000,Petrol,1798,50600.0,1
+Dacia,Sandero Stepway,2014,180000,Petrol,898,23500.0,0
+Kia,Sportage,2013,200000,Diesel,1995,39800.0,0
+BMW,X1,2024,5,Petrol,1499,164100.0,1
+Opel,Mokka,2022,12383,Petrol,1199,78900.0,0
+Renault,Kadjar,2022,39700,Diesel,1461,79769.0,1
+Toyota,Corolla,2023,46000,Hybrid,1798,69500.0,1
+Volkswagen,Multivan,2025,10,Diesel,1968,228935.2,1
+Skoda,Octavia,2021,168071,Petrol,1498,67900.0,0
+Audi,A3,2016,159889,Petrol,1395,54800.0,0
+Hyundai,Tucson,2015,215005,Diesel,1995,61500.0,0
+Volkswagen,Arteon,2018,61000,Diesel,1968,133900.0,1
+BMW,Seria 5,2017,210000,Diesel,1995,98900.0,1
+Cupra,Formentor,2025,10,Hybrid,1498,182900.0,1
+Kia,Sportage,2023,48500,Petrol,1598,99800.0,0
+Peugeot,3008,2020,170000,Diesel,1499,69400.0,0
+Audi,A4,2009,150000,Diesel,1968,28800.0,0
+Citroën,C4 SpaceTourer,2019,99000,Diesel,1499,54900.0,0
+Volkswagen,Golf,2021,134358,Diesel,1968,84800.0,1
+Volkswagen,Tiguan,2017,199900,Diesel,1968,89900.0,1
+Toyota,Corolla,2024,1,Hybrid,1798,131900.0,1
+BMW,Seria 5,2003,263000,Petrol+LPG,2171,19900.0,1
+Suzuki,Swift,2024,5,Hybrid,1197,74390.0,0
+BMW,Seria 1,2004,240000,Petrol,1596,12900.0,0
+Skoda,Superb,2024,1,Diesel,1968,232000.0,1
+Audi,Q5,2018,121000,Diesel,1968,169900.0,1
+BMW,X3,2022,148250,Petrol,1998,169900.0,1
+Kia,XCeed,2025,10,Petrol,1482,120800.0,0
+Ford,Transit Connect,2024,50347,Diesel,1499,113900.0,0
+Ford,Tourneo Connect,2019,180000,Diesel,1498,49500.0,0
+Mercedes-Benz,Klasa E,2018,164000,Diesel,1950,112000.0,1
+Volkswagen,Golf,2007,216000,Petrol+LPG,1390,11000.0,0
+BMW,Seria 3,2010,248000,Diesel,1995,27000.0,0
+Mercedes-Benz,GLC,2017,142500,Petrol,1991,133000.0,1
+Peugeot,5008,2017,72000,Diesel,1997,74900.0,0
+BMW,Seria 1,2008,283400,Diesel,1995,12000.0,0
+Audi,Q5,2019,39150,Petrol,1984,109000.0,1
+Mercedes-Benz,Klasa C,2024,1,Diesel,1993,268189.0,1
+Skoda,Kamiq,2025,6,Petrol,999,115800.0,1
+Skoda,Octavia,2019,73145,Petrol,1498,64900.0,0
+Mercedes-Benz,Klasa C,2021,119950,Diesel,1993,136999.0,1
+Toyota,C-HR,2023,7810,Hybrid,1798,131900.0,1
+Kia,Stonic,2018,135000,Petrol,1248,44900.0,0
+BMW,Seria 3,2010,185000,Diesel,1995,23900.0,0
+Hyundai,Tucson,2025,5,Petrol,1598,174944.0,1
+Seat,Ibiza,2013,159000,Petrol,1390,19900.0,0
+Mitsubishi,ASX,2012,186700,Petrol,1590,33900.0,0
+Audi,A5,2024,15,Diesel,1968,263441.0,1
+Dacia,Duster,2020,147771,Diesel,1461,45900.0,0
+Audi,A5,2024,1,Petrol,1984,239725.0,1
+Peugeot,308,2015,256570,Diesel,1560,15900.0,0
+Fiat,Tipo,2020,73114,Petrol,1368,39800.0,0
+Audi,A6,2022,58850,Diesel,1968,184900.0,1
+Citroën,C4,2016,129051,Petrol,1199,34900.0,1
+Jaecoo,7,2024,1,Petrol,1598,153163.0,1
+Renault,Fluence,2014,198252,Diesel,1461,20900.0,0
+Renault,Megane,2020,83133,Diesel,1461,69999.0,0
+BMW,Seria 1,2017,79838,Petrol,1499,49800.0,0
+Opel,Mokka,2015,185000,Diesel,1686,37900.0,1
+Honda,Accord,2009,329000,Petrol+LPG,1997,24600.0,1
+Opel,Astra,2018,156800,Diesel,1598,40590.0,0
+Volkswagen,Tiguan,2019,69000,Diesel,1968,79500.0,0
+Hyundai,Tucson,2024,10,Petrol,1598,146600.0,0
+Suzuki,Vitara,2024,5,Hybrid,1373,115500.0,0
+Renault,Megane,2012,116000,Petrol,1598,22900.0,0
+Skoda,Kamiq,2025,1,Petrol,1498,136300.0,1
+Peugeot,5008,2018,170000,Petrol,1598,69900.0,1
+Mazda,CX-3,2015,123000,Petrol,1998,53900.0,0
+Ford,Focus C-Max,2007,211000,Petrol,1798,10900.0,0
+Skoda,Kodiaq,2020,102000,Diesel,1968,159900.0,1
+BMW,X1,2014,215000,Diesel,1995,43000.0,1
+Kia,Sportage,2017,218000,Diesel,1995,53800.0,0
+BMW,Seria 3,2019,100000,Diesel,1995,123999.0,1
+Cupra,Formentor,2025,5,Petrol,1498,141191.0,1
+Toyota,Corolla,2023,27271,Hybrid,1798,119900.0,1
+Dacia,Duster,2024,1,Petrol,1199,104100.0,0
+Peugeot,2008,2023,29400,Petrol,1199,99900.0,1
+Renault,Koleos,2018,192000,Diesel,1995,67900.0,1
+Nissan,Qashqai,2019,79900,Diesel,1461,49900.0,0
+Opel,Mokka,2014,131000,Petrol,1364,44900.0,0
+Renault,Austral,2023,26800,Petrol,1332,131900.0,1
+Audi,A5,2017,250000,Diesel,1968,69999.0,1
+Peugeot,308,2023,58000,Diesel,1499,99900.0,1
+Renault,Arkana,2023,10942,Petrol,1332,109900.0,1
+Volkswagen,Passat,2012,219535,Diesel,1598,24200.0,0
+Volkswagen,Passat,2025,5,Diesel,1968,202500.0,1
+BMW,Seria 5,2019,92000,Petrol,1998,135000.0,1
+Skoda,Scala,2024,5,Petrol,1498,104500.0,1
+Volkswagen,Tiguan,2014,164907,Diesel,1968,50000.0,0
+BMW,Seria 1,2021,100476,Petrol,1499,75900.0,1
+Opel,Grandland,2023,47000,Petrol,1199,92500.0,1
+Hyundai,ix35,2014,180000,Diesel,1685,43999.0,0
+Citroën,C4 Cactus,2018,80000,Petrol,1199,45900.0,0
+Hyundai,i30,2015,196000,Diesel,1582,30999.0,0
+Toyota,Proace City Verso,2020,67000,Petrol,1199,67000.0,0
+Opel,Astra,2014,172500,Diesel,1598,22900.0,0
+Mazda,CX-5,2014,246700,Diesel,2191,48750.0,1
+Volvo,V60,2015,231000,Diesel,1969,47000.0,0
+Omoda,5,2024,10,Petrol,1598,129500.0,1
+Hyundai,i30,2014,116583,Diesel,1582,32900.0,0
+Mercedes-Benz,CLA,2024,14110,Petrol,1332,169900.0,1
+Ford,Mondeo,2019,107000,Hybrid,1999,71900.0,1
+Volvo,S60,2019,163000,Petrol,1969,109000.0,1
+Toyota,Aygo,2014,159000,Petrol,998,17999.0,0
+Citroën,C3 Aircross,2019,47000,Petrol,1199,51900.0,0
+Volkswagen,Arteon,2021,89267,Diesel,1968,160999.62,1
+Renault,Trafic,2023,166000,Diesel,1997,119000.0,0
+Dodge,Journey,2018,81387,Petrol,2360,29643.0,1
+Skoda,Fabia,2017,195000,Petrol,1197,27900.0,0
+Renault,Megane,2007,192000,Diesel,1995,13900.0,0
+BMW,X3,2011,223000,Diesel,1995,42000.0,0
+Skoda,Superb,2014,280700,Diesel,1968,37000.0,1
+Seat,Leon,2019,119897,Petrol,1798,25000.0,0
+Skoda,Fabia,2021,148000,Petrol,999,46900.0,1
+Ford,Focus,2015,159144,Diesel,1498,26999.0,0
+Kia,Ceed,2015,82000,Petrol,1591,39900.0,0
+Renault,Grand Scenic,2012,180000,Diesel,1598,24900.0,0
+Lexus,UX,2022,33400,Hybrid,1987,139605.0,1
+Mercedes-Benz,GLC,2019,158000,Diesel,1950,199000.0,1
+Audi,A6,2022,160000,Diesel,1968,133086.0,1
+Renault,Master,2018,170000,Diesel,2299,61900.0,0
+Volkswagen,Passat,2025,1,Petrol,1498,183000.0,1
+Renault,Thalia,2011,152000,Petrol+LPG,1598,16000.0,0
+Opel,Meriva,2011,191700,Petrol,1364,23900.0,0
+Renault,Clio,2024,24200,Petrol,999,69900.0,0
+Dacia,Duster,2020,110000,Petrol+LPG,999,28900.0,0
+Citroën,C5,2009,326000,Petrol+LPG,1997,14700.0,1
+Renault,Laguna,2012,279000,Petrol,1998,28999.0,1
+Audi,A3,2011,111111,Diesel,1598,17900.0,0
+Toyota,Corolla,2015,101054,Petrol,1598,44900.0,0
+Audi,Q3,2022,4937,Petrol,1984,79500.0,1
+BMW,X1,2013,284000,Diesel,1995,43000.0,1
+Opel,Meriva,2010,179820,Petrol,1364,17700.0,0
+Ford,Fiesta,2015,82500,Petrol,1242,26900.0,0
+Fiat,600,2025,5,Hybrid,1199,106000.0,0
+BMW,Seria 3,2006,235000,Petrol+LPG,1995,17700.0,0
+Citroën,C4 Cactus,2018,120000,Petrol,1199,45900.0,0
+Skoda,Superb,2021,122814,Diesel,1968,120900.0,1
+Peugeot,508,2012,290000,Diesel,1997,31000.0,1
+Skoda,Fabia,2021,117617,Petrol,999,39000.0,0
+BMW,X3,2011,150000,Diesel,1995,49900.0,1
+Cupra,Leon Sportstourer,2025,10,Diesel,1998,169500.0,1
+Kia,ProCeed,2024,4,Petrol,1482,132000.0,1
+Kia,Sportage,2011,157000,Petrol,1998,42900.0,0
+Opel,Meriva,2012,143301,Petrol,1364,24900.0,0
+Renault,Kadjar,2018,86000,Petrol,1197,49900.0,0
+Kia,Sportage,2025,10,Petrol,1598,141500.0,1
+Audi,A4,2005,306397,Petrol,1781,20800.0,0
+Peugeot,308,2017,148000,Petrol,1199,33490.0,0
+Skoda,Octavia,2025,10,Petrol,1498,163500.0,1
+Seat,Alhambra,2013,191000,Diesel,1968,53500.0,1
+Audi,A4 Allroad,2014,226000,Diesel,1968,54500.0,1
+Nissan,Qashqai,2011,172000,Petrol,1997,31900.0,0
+Nissan,Qashqai,2024,6,Petrol,1332,148300.0,1
+Opel,Combo,2019,105000,Diesel,1499,59500.0,0
+Fiat,500X,2023,47000,Petrol,999,65000.0,0
+Opel,Astra,2009,159000,Petrol,1598,14800.0,0
+Mercedes-Benz,GLC,2018,151000,Petrol,1991,149900.0,1
+Ford,Transit,2019,76000,Diesel,1995,59700.0,0
+Peugeot,308,2008,314218,Petrol,1598,7970.0,0
+Nissan,Qashqai,2010,225000,Petrol,1598,24900.0,0
+Toyota,Yaris,2022,50900,Hybrid,1497,77900.0,1
+Ford,Kuga,2014,149000,Diesel,1997,44900.0,1
+Volkswagen,Tiguan,2024,6,Petrol,1498,194000.0,1
+Suzuki,Vitara,2023,650,Hybrid,1462,115900.0,1
+Hyundai,Kona,2024,1,Hybrid,1580,144925.0,1
+Fiat,Stilo,2004,87905,Petrol,1596,9900.0,0
+Fiat,Sedici,2007,165000,Diesel,1910,12400.0,0
+Citroën,C5,2015,220000,Diesel,1997,39900.0,1
+Skoda,Superb,2019,137067,Petrol,1984,95817.0,1
+Ford,EcoSport,2020,95000,Petrol+LPG,998,49900.0,0
+Opel,Mokka,2016,101988,Diesel,1598,49700.0,1
+Seat,Arona,2025,5,Petrol,999,123000.0,1
+Kia,Sportage,2023,45600,Petrol,1598,99800.0,0
+Peugeot,207,2009,218058,Petrol,1397,8300.0,0
+Audi,Q5,2022,55771,Diesel,1968,85000.0,1
+Hyundai,Tucson,2019,89355,Petrol,1591,81900.0,0
+BMW,X1,2022,39750,Diesel,1496,92900.0,1
+Volkswagen,Golf Plus,2011,233000,Diesel,1598,19900.0,0
+Toyota,Aygo,2014,99000,Petrol,998,24700.0,0
+Volvo,XC 40,2024,3884,Petrol,1969,194900.0,1
+Volkswagen,T-Cross,2024,5,Petrol,999,98900.0,0
+Honda,CR-V,2015,189000,Diesel,1597,59900.0,1
+Ford,S-Max,2013,152246,Diesel,1997,37999.0,1
+Alfa Romeo,Giulietta,2011,190537,Diesel,1598,14999.0,0
+Renault,Laguna,2010,225000,Petrol,1997,17900.0,0
+BMW,Seria 3,2024,7900,Diesel,1995,239900.0,1
+Audi,Q5,2010,282000,Diesel,1968,38900.0,0
+BMW,X5,2016,121000,Hybrid Plug-in,1997,108000.0,1
+Volkswagen,Golf Sportsvan,2015,200350,Petrol,1395,47000.0,0
+Volkswagen,Arteon,2023,51760,Diesel,1968,144900.0,1
+Ford,Fiesta,2017,144414,Diesel,1498,28900.0,0
+Volkswagen,Tiguan,2018,80180,Diesel,1968,119900.0,1
+Mercedes-Benz,GLB,2019,113300,Petrol,1332,119900.0,1
+Ford,Kuga,2017,123500,Petrol,1498,63800.0,0
+Mazda,3,2010,237500,Petrol+LPG,1598,19900.0,0
+BMW,Seria 1,2008,226892,Petrol,1599,12499.0,0
+Cupra,Formentor,2025,1,Petrol,1498,139900.0,1
+Audi,A3,2024,6987,Petrol,1498,149900.0,1
+Toyota,Yaris Cross,2024,1,Hybrid,1490,109677.0,1
+Volvo,V60 Cross Country,2024,16400,Petrol,1969,205900.0,1
+Kia,Sportage,2023,44900,Petrol,1598,99900.0,0
+Mazda,6,2015,260000,Diesel,2191,49900.0,1
+Kia,ProCeed,2022,46000,Petrol,1591,78500.0,1
+Volkswagen,Tiguan,2019,142000,Diesel,1968,89900.0,1
+Volkswagen,T-Roc,2025,5,Petrol,1498,136180.0,1
+Seat,Leon,2025,5,Petrol,1498,99900.0,0
+Opel,Corsa,2019,102000,Petrol+LPG,1398,37500.0,0
+Peugeot,5008,2023,36374,Diesel,1499,131900.0,1
+Toyota,Yaris,2024,1,Hybrid,1497,106000.0,1
+Volkswagen,Passat,2024,1,Hybrid Plug-in,1498,226000.0,1
+Renault,Clio,2017,89000,Petrol,1149,33900.0,0
+Dacia,Sandero Stepway,2022,44000,Petrol,999,25900.0,0
+Kia,Sportage,2015,98600,Petrol,1591,61500.0,0
+Seat,Arona,2025,1,Petrol,1498,126500.0,1
+Honda,Civic,2024,1,Hybrid,1993,151500.0,1
+Ford,Mondeo,2008,304000,Diesel,1997,16500.0,1
+Ford,Puma,2025,5,Hybrid,999,134900.0,1
+Toyota,Avensis,2015,62400,Diesel,1598,44900.0,0
+Skoda,Octavia,2019,84286,Petrol,1984,89000.0,0
+Volkswagen,Passat,2016,256692,Diesel,1968,55800.0,1
+Peugeot,308,2022,73385,Petrol,1199,84900.0,1
+BMW,X5,2016,176000,Diesel,1995,125000.0,1
+Peugeot,308,2015,135800,Diesel,1560,35800.0,0
+Toyota,Yaris,2018,33000,Petrol,998,38900.0,0
+Forthing,T5 EVO,2024,10,Petrol,1481,129900.0,1
+Skoda,Octavia,2015,216100,Diesel,1968,46494.0,1
+Nissan,Micra,2013,166470,Petrol,1198,20500.0,0
+BMW,Seria 5,2024,24000,Diesel,1995,251900.0,1
+Subaru,Impreza,2007,205000,Petrol+LPG,1994,24900.0,1
+Volkswagen,Tiguan,2019,108212,Diesel,1968,105900.0,1
+Renault,Clio,2013,116505,Petrol,1149,24900.0,0
+Citroën,C5 Aircross,2019,164000,Diesel,1499,66800.0,1
+MG,HS,2024,1,Petrol,1496,129900.0,1
+Kia,ProCeed,2023,23475,Petrol,1482,119900.0,1
+Volkswagen,Golf,2014,152500,Diesel,1598,33000.0,0
+Toyota,Yaris,2018,85590,Diesel,1364,39900.0,0
+Volvo,XC 60,2023,43980,Diesel,1969,199900.0,1
+Mercedes-Benz,GLC,2021,149000,Diesel,1950,159900.0,1
+Renault,Clio,2023,12666,Petrol+LPG,999,71700.0,0
+Volkswagen,Tiguan,2017,103737,Petrol,1395,78500.0,1
+Toyota,Yaris,2024,4762,Petrol,1490,112800.0,1
+Opel,Zafira,2013,129800,Petrol,1364,22999.0,0
+Skoda,Scala,2020,92733,Petrol,999,57900.0,0
+Toyota,C-HR,2017,114651,Hybrid,1798,78900.0,1
+Ford,Kuga,2021,47700,Petrol,1499,109900.0,0
+MG,HS,2023,17720,Petrol,1490,104900.0,1
+Kia,XCeed,2024,34433,Petrol,1482,103900.0,1
+Skoda,Kamiq,2025,1,Petrol,999,101400.0,0
+Hyundai,i30,2013,148000,Diesel,1396,25800.0,0
+Toyota,C-HR,2023,8177,Hybrid,1798,129800.0,1
+Volvo,S90,2018,199800,Diesel,1969,76900.0,0
+Volvo,V60,2020,58000,Petrol,1969,119900.0,1
+Toyota,Prius,2011,322000,Hybrid,1798,18500.0,1
+Opel,Insignia,2021,91900,Diesel,1995,85000.0,0
+Kia,Picanto,2023,3846,Petrol,998,55500.0,0
+Mercedes-Benz,GLC,2020,118000,Diesel,1950,184700.0,1
+Skoda,Karoq,2022,52270,Petrol,1498,112900.0,1
+Renault,Scenic,2012,158000,Petrol,1598,25900.0,0
+Opel,Meriva,2014,194000,Petrol,1364,24500.0,0
+Mercedes-Benz,CLA,2017,124000,Petrol,1991,75000.0,1
+Skoda,Superb,2025,5,Petrol,1498,164900.0,1
+Toyota,C-HR,2023,7937,Hybrid,1798,129900.0,1
+Dacia,Duster,2017,111426,Petrol,1598,37900.0,0
+Ford,Focus,2020,138000,Petrol,999,46500.0,0
+Land Rover,Range Rover Evoque,2015,147000,Diesel,1999,67900.0,1
+Alfa Romeo,Mito,2017,73000,Petrol,875,31900.0,0
+Toyota,Proace City Verso,2024,1,Petrol,1199,133900.0,0
+BMW,Seria 3,2014,326000,Diesel,1995,45000.0,1
+Ford,Puma,2023,7500,Hybrid,999,37000.0,1
+Volkswagen,Golf,2015,230000,Diesel,1968,41800.0,1
+Skoda,Octavia,2019,142000,Diesel,1968,67000.0,1
+BMW,Seria 3,2007,271461,Diesel,1995,15000.0,0
+Audi,A4,2014,350500,Diesel,1968,34999.0,0
+Audi,A3,2014,207000,Diesel,1968,61900.0,1
+Volkswagen,Golf,2005,239100,Petrol,1984,24500.0,0
+Mercedes-Benz,Klasa E,2012,271000,Diesel,2143,52500.0,1
+Hyundai,Veloster,2012,114000,Petrol,1591,28500.0,0
+Ford,Focus,2008,197000,Petrol,1388,10500.0,0
+Skoda,Kodiaq,2020,178900,Diesel,1968,134900.0,1
+Toyota,Auris,2017,79923,Hybrid,1798,66899.0,1
+BMW,X3,2025,1,Diesel,1998,292906.0,1
+Opel,Mokka,2013,121965,Petrol,1598,39900.0,0
+Opel,Mokka,2016,197000,Petrol,1364,46900.0,0
+Renault,Grand Scenic,2017,204106,Diesel,1598,47500.0,0
+Suzuki,Jimny,2012,139350,Petrol,1328,45000.0,0
+Volkswagen,Touran,2010,230000,Diesel,1598,22500.0,0
+Hyundai,i20,2019,100800,Petrol,998,38900.0,0
+BMW,Seria 3,2022,51089,Petrol,1998,69500.0,1
+Kia,ProCeed,2024,4,Petrol,1482,135000.0,1
+Suzuki,Swift,2011,180000,Petrol,1242,21900.0,0
+Mercedes-Benz,Klasa A,2019,92754,Diesel,1461,85900.0,1
+Opel,Astra,2007,166000,Petrol+LPG,1598,10900.0,0
+Mazda,3,2017,74613,Petrol,1998,65900.0,1
+Ford,Mondeo,2019,149000,Diesel,1997,69900.0,1
+Audi,A4,2005,267000,Petrol+LPG,1984,21500.0,1
+SsangYong/KGM,Korando,2025,10,Petrol,1497,122500.0,1
+Volkswagen,Golf,2016,251000,Diesel,1598,41500.0,0
+Volkswagen,Golf,2013,229943,Petrol,1395,39900.0,1
+Fiat,500,2022,72733,Petrol,999,44900.0,0
+Skoda,Octavia,2019,164000,Petrol,1498,61500.0,1
+Ford,S-Max,2018,199896,Diesel,1997,64800.0,1
+Ford,Fiesta,2010,185000,Petrol,1242,14600.0,0
+Skoda,Superb,2020,62000,Petrol,1984,144900.0,1
+BMW,Seria 4,2023,28000,Petrol,1998,198000.0,1
+Opel,Corsa,2025,1,Petrol,1199,81900.0,0
+BMW,X1,2015,221000,Diesel,1995,48900.0,0
+Renault,Megane,2020,115366,Diesel,1461,49900.0,0
+Ford,Fiesta,2009,155860,Petrol,1242,12900.0,0
+MINI,ONE,2008,161188,Petrol,1397,13100.0,0
+Kia,XCeed,2024,24401,Petrol,1482,103900.0,1
+Renault,Clio,2025,1,Petrol,999,77280.0,1
+Ford,Transit Connect,2017,262600,Diesel,1498,42300.0,1
+BMW,Seria 5,2016,300000,Diesel,1995,54900.0,1
+Honda,Civic,2020,18960,Petrol,1498,96600.0,0
+Audi,Q5 Sportback,2024,1,Diesel,1968,243300.0,1
+Volkswagen,Passat,2015,174000,Petrol,1400,49999.0,0
+Volkswagen,Tayron,2025,5,Petrol,1998,219500.0,1
+Skoda,Fabia,2007,139129,Petrol,1390,12600.0,0
+BMW,Seria 1,2015,146300,Diesel,1995,70000.0,1
+Toyota,Corolla,2024,1,Petrol,1490,93499.68,1
+Toyota,C-HR,2024,67,Hybrid,1987,163038.0,1
+Volkswagen,Golf,2019,53000,Petrol,1498,72500.0,1
+Nissan,Qashqai,2018,160000,Petrol,1332,62900.0,0
+Nissan,Qashqai,2011,215804,Diesel,1598,26666.0,0
+Dacia,Sandero Stepway,2024,8,Petrol+LPG,999,72550.0,0
+Kia,Niro,2022,50000,Hybrid,1580,56999.0,1
+Citroën,C3,2025,2,Petrol,1199,88600.0,0
+Ford,Kuga,2013,176000,Diesel,1997,48900.0,0
+Opel,Insignia,2017,210000,Diesel,1956,54900.0,0
+Ford,Kuga,2016,161550,Diesel,1997,47300.0,0
+Peugeot,208,2013,129563,Petrol,1598,23900.0,0
+Kia,Ceed,2019,129990,Diesel,1582,49900.0,0
+Toyota,Yaris,2020,85000,Petrol,1496,61900.0,0
+Fiat,Talento,2017,218800,Diesel,1598,65190.0,0
+Peugeot,308,2018,64882,Petrol,1199,34900.0,0
+Mazda,CX-5,2016,140000,Petrol,1997,69900.0,0
+Skoda,Karoq,2021,177851,Diesel,1968,49900.0,1
+Toyota,Yaris,2020,113023,Petrol,998,37900.0,0
+Kia,Ceed,2024,10,Petrol,1482,95900.0,0
+Hyundai,i30,2012,166000,Diesel,1396,26900.0,0
+Volkswagen,T-Roc,2022,69400,Petrol,1498,87900.0,0
+BMW,X2,2024,18015,Petrol,1499,179900.0,1
+Ford,Fiesta,2009,180000,Petrol,1388,15900.0,0
+Volvo,V60,2019,152000,Petrol,1969,104919.0,1
+Seat,Ateca,2025,8,Petrol,1498,122900.0,0
+Nissan,Micra,2013,64000,Petrol,1198,19900.0,0
+Toyota,Corolla,2023,41409,Hybrid,1986,124900.0,1
+Ford,Kuga,2013,180000,Petrol,1600,39900.0,0
+Kia,Sportage,2025,1,Petrol,1598,133501.0,1
+Kia,XCeed,2021,53769,Hybrid Plug-in,1580,85977.0,1
+Volvo,XC 60,2021,139000,Diesel,1969,149900.0,1
+Volvo,XC 60,2024,1,Hybrid,1969,236086.0,1
+Seat,Tarraco,2023,16494,Diesel,1968,135000.0,1
+Volkswagen,Golf,2019,84840,Petrol,1498,69900.0,0
+Volvo,V60,2021,135394,Diesel,1969,99900.0,1
+Skoda,Fabia,2021,146500,Petrol,999,45850.0,0
+Cupra,Formentor,2024,7,Hybrid,1498,159900.0,1
+Renault,Megane,2021,108850,Petrol,1332,62900.0,1
+Chevrolet,Camaro,2016,66053,Petrol,1998,34900.0,1
+Volkswagen,California,2019,73120,Diesel,1968,189000.0,1
+Mercedes-Benz,GLC,2019,27000,Petrol,1991,173500.0,1
+Jeep,Renegade,2017,108422,Diesel,1598,59900.0,0
+Volkswagen,T-Cross,2025,5,Petrol,999,107500.0,1
+Mercedes-Benz,Klasa A,2009,225680,Petrol,1498,14909.0,0
+Dacia,Duster,2019,219800,Diesel,1461,34900.0,0
+Audi,A3,2024,1,Diesel,1968,144507.0,1
+Renault,Scenic,2010,159000,Petrol,1598,21000.0,0
+Skoda,Octavia,2021,157601,Petrol,1498,72900.0,0
+Kia,Ceed,2021,82027,Petrol,1482,68900.0,0
+BMW,3GT,2015,221375,Petrol,1997,68999.0,1
+BMW,Seria 5,2021,75200,Petrol,1998,179900.0,1
+Ford,S-Max,2013,247260,Diesel,1997,32900.0,0
+Ford,Grand C-MAX,2012,208000,Diesel,1997,22599.0,0
+Ford,Mondeo,2020,107900,Diesel,1997,79900.0,0
+Skoda,Citigo,2013,67000,Petrol,999,23999.0,0
+Opel,Grandland,2025,3,Hybrid,1199,139900.0,1
+Audi,A6,2016,189000,Diesel,1968,78000.0,1
+Volkswagen,Passat,2018,141300,Diesel,1968,64890.0,0
+Honda,ZR-V,2024,7,Hybrid,1993,165400.0,1
+Hyundai,i30,2021,115000,Petrol,998,54900.0,0
+Mercedes-Benz,SLK,2004,133500,Petrol,1796,44900.0,1
+Hyundai,Tucson,2005,190726,Petrol,1975,12500.0,0
+Peugeot,508,2017,220000,Diesel,1997,49900.0,1
+Volkswagen,Golf,2007,292000,Petrol+LPG,1595,12000.0,0
+Kia,Optima,2017,271000,Diesel,1685,44999.55,1
+Audi,Q5 Sportback,2024,10,Diesel,1968,245700.0,1
+Dacia,Jogger,2024,5,Petrol+LPG,999,83000.0,0
+Suzuki,SX4 S-Cross,2024,16675,Hybrid,1373,101600.0,0
+Audi,Q5,2016,164000,Diesel,1968,81900.0,1
+Ford,Tourneo Connect,2017,251022,Diesel,1498,39900.0,0
+Mercedes-Benz,Klasa E,2017,370000,Diesel,1950,79950.0,1
+Volvo,XC 60,2018,272200,Diesel,1969,85000.0,1
