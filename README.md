@@ -1,4 +1,4 @@
-**# Car Price Prediction with Explainable and Accurate AI
+# Car Price Prediction with Explainable and Accurate AI
 
 ## Author: Viktor Kulyk
 
