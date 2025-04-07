@@ -19,11 +19,8 @@ The system supports practical deployment in a FastAPI app with future plans for 
 ## Project Structure
 ```
 ├── data/                 # Raw and cleaned datasets
-├── notebooks/            # EDA, training, SHAP notebooks
 ├── models/               # Saved models (GBR, CNN, stacked)
-├── shap/                 # SHAP visualizations
-├── api/                  # FastAPI app (WIP)
-├── app/                  # Future front-end
+├── images/               # Images
 ├── README.md             # Project overview
 ```
 
