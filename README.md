@@ -129,22 +129,11 @@ SHAP explanations clearly showed feature contributions to the price.
 
 ---
 
-##  What’s Next: Web App + GenAI Explainability
-My next step is to develop a lightweight **web application** that will:
-- Allow users to enter car details
-- Get predictions from both models
-- Use **ChatGPT API** + SHAP to generate explanations like:
-  > "Your car is valued at 39,500 PLN because it’s a manual 2014 Ford with above-average mileage."
-
-The final goal is a transparent AI tool that regular users can trust.
-
----
-
 ##  Tech Stack
-- Python, Pandas, Scikit-Learn, Keras, PyTorch, XGBoost, CatBoost
+- Python, Pandas, Scikit-Learn, Keras, PyTorch, XGBoost, CatBoost etc.
 - SHAP for explainability
 - Matplotlib / Seaborn for visualization
-- FastAPI (planned)
+- FastAPI
 
 ---
 
