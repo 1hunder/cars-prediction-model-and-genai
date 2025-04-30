@@ -5,7 +5,7 @@ from prediction import make_prediction
 
 app = FastAPI()
 
-# Разрешаем CORS для фронтенда (index.html)
+# Allow CORS for the frontend (index.html)
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],

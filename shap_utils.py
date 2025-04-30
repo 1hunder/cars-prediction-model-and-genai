@@ -3,14 +3,14 @@ import matplotlib.pyplot as plt
 from datetime import datetime
 
 def generate_shap_plot_image(model, X):
-    # SHAP объяснение
+    # SHAP explainer
     explainer = shap.TreeExplainer(model, feature_perturbation="interventional")
     shap_values = explainer.shap_values(X)
     
-    # 💡 expected_value — берем первый (scalar)
+    # expected_value
     expected_value = explainer.expected_value[0]
 
-    # Сохраняем график
+    # Save SHAP plot
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     path = f"shap_plot_{timestamp}.png"
 
